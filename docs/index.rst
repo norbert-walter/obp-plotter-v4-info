@@ -9,6 +9,8 @@ Letzte Aktualisierung |today|
 .. image:: /pics/Display.jpg
              :scale: 50%
 
+Hier ist an der richtigen Stelle editiert worden
+
 Der OBP-Plotter V4 wird für die Darstellung von marinen Karten und Daten auf Freizeit-Booten verwendet. Zielgruppe sind Sportbootfahrende in aller Welt. 
 
 Der OBP-Plotter ist ausgestattet mit einem tageslichttauglichen 10-Zoll-Touch-Display. Als Hardwarebasis dienen Compute Module der Versionen 4 und 5 der Raspberry Foundation. Mit der Außenwelt kommuniziert der Plotter vor allem per USB oder WLAN. Das macht ihn maximal flexibel im Einsatz unterschiedlichster Navigationssysteme an Bord. 

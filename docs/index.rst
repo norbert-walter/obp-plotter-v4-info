@@ -3,8 +3,7 @@ OBP-Plotter V4 Dokumentation
 ######################
 Letzte Aktualisierung |today|
 
-.. note::
-   Diese Seiten sind noch in Bearbeitung.
+.. note::   Diese Seiten sind noch in Bearbeitung.
 
 .. image:: /pics/Display.jpg
              :scale: 20%

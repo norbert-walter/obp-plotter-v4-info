@@ -1,34 +1,23 @@
 Technische Daten
 ================
 
-.. image:: ../pics/OBP60_OBP_Logo_tr.png
+.. image:: ../pics/OBP_Logo.png
    :scale: 30%
 
 Funktionen
 ----------
 
-* E-Paper Display (tageslichttauglich)
-* Numerische Anzeigeseiten für 1, 2, 3 und 4 Werte (Werte frei wählbar)
-* Grafische Anzeigeseiten (feste Werte)
-* Trendanzeige für Werte
-* Grenzwertüberschreitung akustisch und optisch
-* 6 Sensor-Tasten (geeignet für Wischgesten)
-* Akustischer Signalgeber (Buzzer)
-* Optischer Signalgeber (RGB-LED)
-* LED-Displaybeleuchtung (RGB-LEDs)
+* 10-Zoll Touch-Display (tageslichttauglich)
+* 3 Sensor-Tasten (u.a. geeignet für Android Buttons)
+* Akustischer Signalgeber (Lautsprecher)
 * NMEA2000 (vollduplex, isoliert)
 * NMEA0183 (RX oder TX, konfigurierbar, isoliert)
 * NMEA2000/NMEA0183 Gateway (bidirektional)
 * I2C (isoliert)
-* 1Wire (nicht isoliert)
-* Spannungsausgang 5V (max. 200mA) für externe Sensorik
 * USB-C (OTG, Debug, NMEA0183)
-* Batteriemonitor (12V-Spannungsmessung)
-* Umgebungssensor BMP280 (Temperatur, Luftdruck)
 * GPS-Empfäger (GPS, Glonas, Baidu, interne oder externe GPS-Antenne)
 * WiFi 2.4GHz (HTTP, TCP, UDP)
 * Bluetooth (aktuell ungenutzt)
-* Batterie-Tiefentladeschutz < 9.0V
 * Low Power Modus
 
 

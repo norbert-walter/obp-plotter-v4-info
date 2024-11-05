@@ -1,4 +1,4 @@
-Erweiterte Sensorik
+Sensorik
 ===================
 
 

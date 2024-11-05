@@ -11,7 +11,6 @@ Das OBP60 unterstützt mehrere Bussysteme. In diesem Kapitel geht es ausschließ
 * **MNEA2000** über CAN-Bus (isoliert)
 * **NMEA0183** über RS485/RS422-Bus (isoliert)
 * **I2C-Bus** (isoliert)
-* **1-Wire-Bus** (nicht isoliert)
 * **USB-C** (nicht isoliert)
 
 

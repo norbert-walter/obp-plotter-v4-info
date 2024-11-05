@@ -6,7 +6,7 @@ Datenaustausch
 Interne Datenverarbeitung
 -------------------------
 
-Die Firmware des OBP60 besteht aus zwei Teilen. Der erste Teil ist das **NMEA2000-Gateway** und der zweite Teil die **Hardwareansteuerung** des OBP60. Das `NMEA2000-Gateway`_ ist ein Open Source Projekt von Andreas Wellenvogel. Es ist eine Software, mit der man bidirektionale Datenkonvertierungen zwischen NMEA2000 und NMEA0183 durchführen kann. Die Software ist so gestaltet, dass sie unterschiedliche kommerzielle Hardware unterstützen kann. So läuft das NMEA2000-Gateway z.B. auf einer Reihe von Produkten der Firma `M5Stack`_ wie dem **M5Stack Atom**, aber auch auf ESP32-Entwicklerboards wie dem **ESP32 Node MCU**. Es werden ESP32-CPUs in unterschiedlicher Ausprägung unterstützt wie der ESP32-Wroom und der ESP32-S3. Die Hardwareansteuerung des OBP60 ist über eigenständige Tasks implementiert und nutzt die Grundfunktionalität des NMEA2000-Gateways.
+Die Firmware des OBP-Plotters besteht aus zwei Teilen. Der erste Teil ist das **NMEA2000-Gateway** und der zweite Teil die **Hardwareansteuerung** des OBP60. Das `NMEA2000-Gateway`_ ist ein Open Source Projekt von Andreas Wellenvogel. Es ist eine Software, mit der man bidirektionale Datenkonvertierungen zwischen NMEA2000 und NMEA0183 durchführen kann. Die Software ist so gestaltet, dass sie unterschiedliche kommerzielle Hardware unterstützen kann. So läuft das NMEA2000-Gateway z.B. auf einer Reihe von Produkten der Firma `M5Stack`_ wie dem **M5Stack Atom**, aber auch auf ESP32-Entwicklerboards wie dem **ESP32 Node MCU**. Es werden ESP32-CPUs in unterschiedlicher Ausprägung unterstützt wie der ESP32-Wroom und der ESP32-S3. Die Hardwareansteuerung des OBP60 ist über eigenständige Tasks implementiert und nutzt die Grundfunktionalität des NMEA2000-Gateways.
 
 .. _NMEA2000-Gateway: https://open-boat-projects.org/de/nmea2000-gateway-mit-m5stack-atom/
 .. _M5Stack: https://shop.m5stack.com/collections/all-products/m5stack-atom
@@ -402,73 +402,6 @@ In dem Beispiel wird gezeigt, wie man Busdaten in ein Android-Radio einspeisen k
 I2C-Bus
 -------
 
-Beispiel I2C Ruderlagensensor
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Es wird an dieser Stelle gezeigt, wie man einen I2C-Winkelsensor als Ruderlagensensor am I2C-Bus benutzt. Grundsätzlich kann der Winkelsensor für folgende Winkelmessungen benutzt werden:
-
-* Ruderlage
-* Windrichtung
-* Mastausrichtung bei drehbaren Masten
-* Kielneigung
-* Winkelsensor für Trimmklappen oder Foils
-* Großbaum
-
-Als I2C-Winkelsensor wird eine kleine Platine mit einem AS5600 verwendet, die auf Adresse 0x36 angesprochen werden kann. Der AS5600 ist ein magnetischer Winkelsensor, der die Ausrichtung eines Magnetfeldes erkennt. Über einen diametralen Magneten, dessen Magnetfeld in der Scheibenebene geteilt und mit der Ruderachse verbunden ist, kann der Ruderausschlag gemessen werden. Der Magnet entspricht dabei der Drehachse des Ruders.
-
-.. image:: ../pics/I2C_Sample_Setup_AS5600.png
-             :scale: 50%
-Abb.: I2C-Anbindung magnetischer Winkelmesser AS5600
-
-.. note::
-	Bedenken Sie, dass nur ein AS5600 als Winkelmesser verwendet werden kann, da die I2C-Adresse nicht änderbar ist. Das Verbindungskabel sollte ein geschirmtes Kabel sein und eine Länge von 10 m nicht überschreiten.
-	
-Folgende Einstellungen sind im OBP60 vorzunehmen.
-
-+----------------------------+---------------------+
-|Einstellung                 |OBP60                |
-+============================+=====================+
-|:ref:`Config - OBP Hardware`|                     |
-+----------------------------+---------------------+
-|Rot. Sensor                 |AS5600               |
-+----------------------------+---------------------+
-|Rot. Function               |Rudder               |
-+----------------------------+---------------------+
-|Rot. Offset                 |0                    |
-+----------------------------+---------------------+
-
-Je nach Erfordernissen muss noch der Offset über **Rot. Offset** eingestellt werden.
 
 
-1Wire-Bus
----------
-
-Über den 1Wire-Buss lassen sich bis zu 8 Temperatursensoren des Typs DS18B20 anschließen. Damit können Temperaturen im Bereich von -55°C bis 125°C an verschiedenen Stellen im Boot gemessen werden. Die Sensoren gibt es als elektronisches Bauteil in Transistorform (TO-92) oder in einer wasserdichten Metallhülse mit Kabel. Die letzte Varriante eignet sich am besten im Marinebereich.
-
-.. image:: ../pics/DS18B20.png
-             :scale: 50%
-Abb.: DS18B20 TO-92
-
-.. image:: ../pics/DS18B20_waterproof.png
-             :scale: 50%
-Abb.: DS18B20 Wasserdicht
-
-Wenn Sie im Boot an verschiedenen Stellen Temperaturen messen möchten, erstellen Sie sich ein Backbone mit Abzweigdosen und schließen die Sensoren an den Abzweigdosen an. So entstehen im 1Wire-Bussystem nicht ungewollt lange Stichleitungen.
-
-Konfigurationsbeispiel 1Wire
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Im unteren Bild ist eine Schaltung zu sehen, in der 4 DS18B20 verwendet werden. Die Sensoren sind dabei über einen Spannungswandler LM7805 direkt versorgt. Diese Schaltung funktioniert für alle Sensoren, die am Markt erhältlich sind.
-
-.. image:: ../pics/DS18B20_Direct_Supplay.png
-             :scale: 50%
-Abb.: 1Wire-Anbindung von externen Temperatur-Sensoren (direkt versorgt)
-
-+----------------------------+---------------------+
-|Einstellung                 |OBP60                |
-+============================+=====================+
-|:ref:`Config - OBP Hardware`|                     |
-+----------------------------+---------------------+
-|Temp. Sensor                |DS18B20              |
-+----------------------------+---------------------+
 

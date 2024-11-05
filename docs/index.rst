@@ -1,5 +1,5 @@
 ######################
-OBP60 V2 Dokumentation
+OBP-Plotter V4 Dokumentation
 ######################
 Letzte Aktualisierung |today|
 

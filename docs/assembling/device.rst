@@ -1,20 +1,7 @@
 Geräteaufbau
 ============
 
-Mechanischer Aufbau
--------------------
-
-.. image:: ../pics/Verdrahtung.jpg
-   :scale: 20%
-
-
-
-Mainboard
-----------
-
 Das Gehäuse enthält alle elektrischen und elektronischen Komponenten wie:
-
-
 
 .. image:: ../pics/Display_back.jpg
    :scale: 20%
@@ -29,7 +16,7 @@ Platinen
 
 Die Platinen für das Mainboard und die Hintergrundbeleuchtung wurden als zweiseitig bestückte SMD-Platine mit Durchkontaktierungen, Stopplack und Bedruckung ausgeführt.
 
-.. image:: ../pics/CM5_mainpcb_botiso.jpg
+.. image:: ../pics/CM5_mainpcb_topiso.jpg
    :scale: 20%
 Abb.: Unbestückte Platinen-Oberseite
 

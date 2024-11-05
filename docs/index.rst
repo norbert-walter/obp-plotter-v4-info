@@ -1,11 +1,7 @@
 ######################
-OBP60 V2 Dokumentation
+OBP-Plotter V4 Dokumentation
 ######################
 Letzte Aktualisierung |today|
-
-.. image:: https://readthedocs.org/projects/obp60-v2-docu/badge/?version=latest
-    :target: https://obp60-v2-docu.readthedocs.io/de/latest/?badge=latest
-    :alt: Documentation Status
 
 .. note::
    Diese Seiten sind noch in Bearbeitung.
@@ -13,28 +9,29 @@ Letzte Aktualisierung |today|
 .. image:: /pics/Screen_Overview.png
              :scale: 50%
 
-Das Mutifunktionsdisplay OBP60 dient zur Anzeige von Daten aus Boots-Netzen wie NMEA0183, NMEA2000. Darüber hinaus können Daten aus dem 1Wire-Bus und dem I2C-Bus ausgelesen werden. Das OBP60 enthält ein Gateway, das Daten bidirektional zwischen NMEA0183 und NMEA2000 austauschen kann. Über WiFi lassen sich die Daten importieren oder exportieren und können auf anderen Geräten oder in Drittanbietersoftware verwendet werden. Die Konfiguration erfolgt über eine Webseite. Darüber lassen sich vordefinierte Anzeigeseiten auswählen und es können dessen Anzeigeinhalte festgelegt werden. Das OBP60 basiert auf Open Hardware, Open Software und Open Data. Das Gerät lässt sich durch die Offenheit an beliebige Anforderungen über die Software anpassen.
+Der OBP-Plotter V4 wird für die Darstellung von marinen Karten und Daten auf Booten verwendet. Zielgruppe sind Sportbootfahrende in aller Welt. Der OBP-Plotter ist ausgestattet mit einem tageslichttauglichen 10-Zoll-Touch-Display. Als Hardwarebasis dienen Compute Module der Versionen 4 und 5 der Raspberry Foundation. Mit der Außenwelt kommuniziert der Plotter vor allem per USB oder WLAN. Das macht ihn maximal flexibel im Einsatz unterschiedlichster Navigationssysteme an Bord. Eine Einbindung in bestehende NMEA-Netzwerke ist selbstverständlich ebenso möglich, egal ob NMEA-0183 oder NMEA2k. Die Betriebssystembasis bildet ein aktuelles Android (14 oder 15), auf dem die Navigations-App "AvNav" vorinstalliert ist. Alternativ lässt sich von Anwendern auch ein Raspbian nutzen, um dort zum Beispiel OpenCPN zu installieren.
 
 .. toctree::
    :maxdepth: 3
    :caption: Einführung
    :name: sec-intro
 
-   Historie <intro/historie>
+   Übersicht <intro/historie>
    Technische Daten <intro/specification>
+   Varianten <intro/variants>
    
 .. toctree::
    :maxdepth: 3
-   :caption: Bedienung
+   :caption: Installation
    :name: sec-usermanual
 
-   Funktionsweise <usermanual/functionality>
-   Bedienelemente <usermanual/elements>
    Inbetriebnahme <usermanual/start>
-   Konfiguration <usermanual/configuration>
-   Bussysteme <usermanual/bussystems>
+   Installation Android <usermanual/android_install>
+   Konfiguration Android <usermanual/android_configuration>
+   Installation Raspbian <usermanual/raspbian_install>
+   Konfiguration Raspbian <usermanual/raspbian_configuration>
    Datenaustausch <usermanual/dataexchange>
-   Erweiterte Sensorik <usermanual/sensors>
+   Sensorik <usermanual/sensors>
    Beispielkonfiguration <usermanual/samples>
    Sicherheitshinweise <usermanual/safety>
 

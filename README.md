@@ -1,13 +1,11 @@
-This repository contains the german online description of the OBP60 V2.
+This repository contains the german online description of the OBP-Plotter V4.
 
 Project page: https://open-boat-projects.org/diy-multifunktionsdisplay-obp-60/
 
-Documentation on ReadTheDocs: https://obp60-v2-docu.readthedocs.io/de/latest/index.html
+Documentation on ReadTheDocs: https://obpplotter-v4-dok.readthedocs.io/de/latest/
 
-Documentation as PDF: https://obp60-v2-docu.readthedocs.io/_/downloads/de/latest/pdf/
+Documentation as PDF: https://
 
-Documentation as Epub: https://obp60-v2-docu.readthedocs.io/_/downloads/de/latest/epub/
+Documentation as Epub: https://
 
-Documentation as HTML Zip file: https://obp60-v2-docu.readthedocs.io/_/downloads/de/latest/htmlzip/
-
-Web Flash Tool: https://norbert-walter.github.io/obp60-v2-docu/flash_tool/esp_flash_tool.html
+Documentation as HTML Zip file: https://

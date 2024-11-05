@@ -3,6 +3,9 @@
 Installation Android
 ==========
 
+.. image:: ../pics/Touch-Tasten.jpg
+             :scale: 35%
+
 .. image:: ../pics/NMEA_Bus.png
              :scale: 35%
 

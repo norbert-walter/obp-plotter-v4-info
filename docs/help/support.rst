@@ -5,7 +5,7 @@ Wenn Sie im Bereich **Fragen und Antworten** keine Informationen gefunden haben 
 
 .. _Segeln-Forum: https://www.segeln-forum.de/board/195-open-boat-projects-org/
 
-.. _eigenen Bereich: https://www.segeln-forum.de/thread/91364-probleml%C3%B6sungen-obp60/
+.. _eigenen Bereich: https://www.segeln-forum.de/thread/90328-10-plotter-v4/
 
 .. note::
-	Bitte vermeiden Sie einen direkten Kontakt über E-Mail an Open Boat Projects und benutzen das Forum für Ihre Fragen. So können auch andere Personen die Lösungen im Internet finden und davon profitieren. Im Laufe der Zeit entsteht so eine umfangreiche Wissensbasis auf die alle zugreifen können.
+	Bitte vermeiden Sie einen direkten Kontakt über E-Mail an Open Boat Projects und benutzen das Forum für Ihre Fragen. So können auch andere Personen die Lösungen im Internet finden und davon profitieren. Im Laufe der Zeit entsteht so eine umfangreiche Wissensbasis, auf die alle zugreifen können.

@@ -12,28 +12,28 @@ Mechanischer Aufbau
 Mainboard
 ----------
 
-Das Mainboard enthält alle elektrischen und elektronischen Komponenten wie:
+Das Gehäuse enthält alle elektrischen und elektronischen Komponenten wie:
 
 
 
-.. image:: ../pics/PCB_Top_Side_Named.png
-   :scale: 45%
-Abb.: Mainboard Oberseite
+.. image:: ../pics/Display_back.jpg
+   :scale: 30%
+Abb.: Plotter innen Display
 
-.. image:: ../pics/PCB_Bottom_Side_Named.png
-   :scale: 45%
-Abb.: Mainboard Unterseite
+.. image:: ../pics/Verdrahtung.jpg
+   :scale: 30%
+Abb.: Plotter innen Verdrahtung und Platine
 
 Platinen
 --------
 
 Die Platinen für das Mainboard und die Hintergrundbeleuchtung wurden als zweiseitig bestückte SMD-Platine mit Durchkontaktierungen, Stopplack und Bedruckung ausgeführt.
 
-.. image:: ../pics/PCB_Empty_Top_Side.png
+.. image:: ../pics/CM5_mainpcb_botiso.jpg
    :scale: 45%
 Abb.: Unbestückte Platinen-Oberseite
 
-.. image:: ../pics/PCB_Empty_Bottom_Side.png
+.. image:: ../pics/CM5_mainpcb_botiso.jpg
    :scale: 45%
 Abb.: Unbestückte Platinen-Unterseite
 

@@ -7,7 +7,11 @@ Letzte Aktualisierung |today|
    Diese Seiten sind noch in Bearbeitung.
 
 .. image:: /pics/Display.jpg
+<<<<<<< HEAD
              :scale: 20%
+=======
+             :scale: 30%
+>>>>>>> 0f5fecfd903cf2afbe0ce115a20fe1f5c506268c
 
 Hier ist an der richtigen Stelle editiert worden
 

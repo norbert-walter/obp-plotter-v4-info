@@ -7,7 +7,7 @@ Letzte Aktualisierung |today|
    Diese Seiten sind noch in Bearbeitung.
 
 .. image:: /pics/Display.jpg
-             :scale: 50%
+             :scale: 30%
 
 Hier ist an der richtigen Stelle editiert worden
 

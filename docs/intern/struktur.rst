@@ -1,4 +1,4 @@
-Strukturvorschläge Doku
+Strukturvorschlag Michael
 =======================
 
 
@@ -7,7 +7,7 @@ Version 1:
 
 * **1. Einführung**
 
-		.. note:: *(>>> Ziel: schnelle Information über Möglichkeiten und Besonderheiten des Geräts)*
+		  .. note:: *(>>> Ziel: schnelle Information über Möglichkeiten und Besonderheiten des Geräts)*
 
 	* 1.1. Das Gerät 
 

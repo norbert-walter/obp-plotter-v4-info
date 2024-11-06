@@ -1,19 +1,13 @@
 ######################
-Willkommen in der Dokumentation für den OBP-Plotter V4
+OBP-Plotter V4 Dokumentation
 ######################
-
-
-- :doc:`/en/index`
-- :doc:`/de/index`
-
+Letzte Aktualisierung |today|
 
 .. note::   Diese Seiten sind noch in Bearbeitung.
 
 .. image:: /pics/Display.jpg
              :scale: 20%
 
-<<<<<<< HEAD
-NEU
 Der OBP-Plotter V4, entwickelt von Christian Hartz,  wird für die Darstellung von marinen Karten und Daten auf Freizeit-Booten verwendet. Zielgruppe sind Sportbootfahrende in aller Welt. 
 
 Der OBP-Plotter ist ausgestattet mit einem tageslichttauglichen 10-Zoll-Touch-Display. Als Hardwarebasis dienen Compute Module der Versionen 4 und 5 der Raspberry Foundation. Mit der Außenwelt kommuniziert der Plotter vor allem per USB oder WLAN. Das macht ihn maximal flexibel im Einsatz unterschiedlichster Navigationssysteme an Bord. 
@@ -25,35 +19,35 @@ Eine Einbindung in bestehende NMEA-Netzwerke ist selbstverständlich ebenso mög
    :caption: Einführung
    :name: sec-intro
 
-   Übersicht <intro/historie>
-   Technische Daten <intro/specification>
-   Varianten <intro/variants>
+   Übersicht <de/intro/historie>
+   Technische Daten <de/intro/specification>
+   Varianten <de/intro/variants>
    
 .. toctree::
    :maxdepth: 3
    :caption: Installation
    :name: sec-usermanual
 
-   Inbetriebnahme <usermanual/start>
-   Installation Android <usermanual/android_install>
-   Konfiguration Android <usermanual/android_configuration>
-   Installation Raspbian <usermanual/raspbian_install>
-   Konfiguration Raspbian <usermanual/raspbian_configuration>
-   Schnittstellen <usermanual/dataexchange>
-   Sensorik <usermanual/sensors>
-   Beispielkonfiguration <usermanual/samples>
-   Sicherheitshinweise <usermanual/safety>
+   Inbetriebnahme <de/usermanual/start>
+   Installation Android <de/usermanual/android_install>
+   Konfiguration Android <de/usermanual/android_configuration>
+   Installation Raspbian <de/usermanual/raspbian_install>
+   Konfiguration Raspbian <de/usermanual/raspbian_configuration>
+   Schnittstellen <de/usermanual/dataexchange>
+   Sensorik <de/usermanual/sensors>
+   Beispielkonfiguration <de/usermanual/samples>
+   Sicherheitshinweise <de/usermanual/safety>
 
 .. toctree::
    :maxdepth: 3
    :caption: Zusammenbau
    :name: sec-assembling
    
-   Geräteaufbau <assembling/device>
-   Vorbereitung <assembling/preparation>
-   Bauteilliste <assembling/partlist>
-   Durchführung <assembling/actionsteps>
-   Funktionstest <assembling/tests>
+   Geräteaufbau <de/assembling/device>
+   Vorbereitung <de/assembling/preparation>
+   Bauteilliste <de/assembling/partlist>
+   Durchführung <de/assembling/actionsteps>
+   Funktionstest <de/assembling/tests>
    
     
 .. toctree::
@@ -61,13 +55,11 @@ Eine Einbindung in bestehende NMEA-Netzwerke ist selbstverständlich ebenso mög
    :caption: Hilfe
    :name: sec-help   
 
-   Fragen und Antworten <help/faq>
-   Meinungen und Tipps <help/opinions>
-   Bekannte Fehler <help/errors>
-   Technische Unterstützung <help/support>
-   Service <help/service>
-   Mitarbeit <help/cooperation>
-   Spenden <help/donation>
-   Glossar <help/glossar>
-=======
->>>>>>> d74b97da0f603d800d322338ff75e769c5c7c13b
+   Fragen und Antworten <de/help/faq>
+   Meinungen und Tipps <de/help/opinions>
+   Bekannte Fehler <de/help/errors>
+   Technische Unterstützung <de/help/support>
+   Service <de/help/service>
+   Mitarbeit <de/help/cooperation>
+   Spenden <de/help/donation>
+   Glossar <de/help/glossar>

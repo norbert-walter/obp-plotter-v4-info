@@ -5,7 +5,7 @@ Strukturvorschläge Doku
 Version 1:
 
 
-* 1. Einführung*  
+* 1. Einführung 
 
 (>>> Ziel: schnelle Information über Möglichkeiten und Besonderheiten des Geräts)
 
@@ -17,7 +17,7 @@ Version 1:
 	(Welche Schnittstellen fürs Bordnetzwerk stehen zur Verfügung?)
 	
 
-* 2. Handbuch*
+* 2. Handbuch
 
 * 2.1. Inbetriebnahme 
 	(>>> was muss getan werden, um das Gerät an Bord oder zu Haus in Betrieb nehmen zu können?)
@@ -44,18 +44,25 @@ Version 1:
 		* 2.3.1.3. Fernbedienung einrichten
 	
 
-* 2.4. Erweiterungsmöglichkeiten
-	* 2.4.1. PiggyBack-Platine(n)
-	* 2.4.2. Alternative Rückwände	
+* 2.4. Konstruktion (>>> wie sieht der Plotter innen aus, wie öffnen, wie Kabel verbinden etc)
+	* Gerät öffnen
+	* Lageplan Platinen
+	* Kabelplan
 	
 
-* 3. Technische Daten*
+* 2.5. Erweiterungsmöglichkeiten
+	* 2.5.1. PiggyBack-Platine(n)
+	* 2.5.2. Alternative Rückwände	
+	
+
+* 3. Technische Daten
+
+* Support 
+
+* 4. Glossar
 
 
-* 4. Glossar*
-
-
-* 5. Impressum*
+* 5. Impressum
 
 
 

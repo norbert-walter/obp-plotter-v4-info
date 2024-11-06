@@ -76,28 +76,28 @@ Version 1:
 	
 
 
-* **4. Support**
+* **3. Support**
 
 	* F & Q
 	* Bekannte Fehler
 	* Technische Unterstützung
 
-* **5. Team**
+* **4. Team**
 
 	* Service
 	* Mitarbeit
 	* Spenden
 
-* **6. Technische Daten**
+* **5. Technische Daten**
 
-* **7. Glossar**
+* **6. Glossar**
 
-* **8. Kontakt**
+* **7. Kontakt**
 
 	* Open Boat Projects
 	* Meinungen und Tipps
 
-* **5. Impressum**
+* **8. Impressum**
 
 
 Version 2:

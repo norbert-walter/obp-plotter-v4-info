@@ -16,6 +16,13 @@ Eine Einbindung in bestehende NMEA-Netzwerke ist selbstverständlich ebenso mög
 
 .. toctree::
    :maxdepth: 3
+   :caption: Struktur Doku
+   :name: sec-structure
+
+   Strukturvorschläge Doku <intern/struktur>
+
+.. toctree::
+   :maxdepth: 3
    :caption: Einführung
    :name: sec-intro
 

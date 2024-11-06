@@ -25,8 +25,8 @@ Version 1:
 * **2.1. Inbetriebnahme**
 	*(>>> was muss getan werden, um das Gerät an Bord oder zu Haus in Betrieb nehmen zu können?)*
 
-	* 2.1.1. Einbau/ Aufbau		
-		*(>>> Anbaumöglichkeiten: Vesa, Schottmantage etc)*
+	* 2.1.1. Einbau/ Aufbau	
+	.. hint:: (>>> Anbaumöglichkeiten: Vesa, Schottmantage etc)*
 
 	* 2.1.2. Stromversorgung	
 
@@ -35,13 +35,13 @@ Version 1:
 * 2.2. **Installation Software**	
 	*(>>> wie bekommt man die gewünschte Software auf das Gerät?)*
 
-	* 2.2.1. AvNav und Android	
+	* 2.2.1. AvNav und Android
 		*(fertiges AvNav-Android-Image einspielen)*
 
-	* 2.2.2. AvNav und Raspbian	
+	* 2.2.2. AvNav und Raspbian
 		*(fertiges AvNav-Raspbian-Image einspielen)*
 
-	* 2.2.3. Alternativen		
+	* 2.2.3. Alternativen
 		*(Android-ASOP und weitere Plottersoftware, Openplotter für Raspbian etc.)*
 
 * **2.3. Konfiguration**

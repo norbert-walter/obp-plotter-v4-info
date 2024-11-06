@@ -2,60 +2,60 @@ Strukturvorschläge Doku
 =======================
 
 
-A:
+Version 1:
 
 
-*Einführung*  
+* 1. Einführung*  
 
 (>>> Ziel: schnelle Information über Möglichkeiten und Besonderheiten des Geräts)
 
-*Überblick Plotter
-
-	*Das Gerät 
+	* 1.1. Das Gerät 
 	(>>> wie sieht er aus? Was kann er? Wo und wie kann er an Bord genutzt werden?)
 
-	*Einsatzmöglichkeiten (>>> Welche Navigationssoftware läuft drauf, welche Karten kann man nutzen?		(Welche Schnittstellen fürs Bordnetzwerk stehen zur Verfügung?)
+	* 1.2. Einsatzmöglichkeiten 
+	(>>> Welche Navigationssoftware läuft drauf, welche Karten kann man nutzen?
+	(Welche Schnittstellen fürs Bordnetzwerk stehen zur Verfügung?)
 	
 
-*Handbuch*
+* 2. Handbuch*
 
-* Inbetriebnahme 
+* 2.1. Inbetriebnahme 
 	(>>> was muss getan werden, um das Gerät an Bord oder zu Haus in Betrieb nehmen zu können?)
 
-	*Einbau/ Aufbau		(>>> Anbaumöglichkeiten: Vesa, Schottmantage etc)
+	* 2.1.1. Einbau/ Aufbau		(>>> Anbaumöglichkeiten: Vesa, Schottmantage etc)
 
-	*Stromversorgung	
+	* 2.1.2. Stromversorgung	
 
-	*Ein/Ausschalten
+	* 2.1.3. Ein/Ausschalten
 
-* Installation Software		(>>> wie bekommt man die gewünschte Software auf das Gerät?)
+* 2.2. Installation Software		(>>> wie bekommt man die gewünschte Software auf das Gerät?)
 
-	*AvNav und Android	(fertiges AvNav-Android-Image einspielen)
+	* 2.2.1. AvNav und Android	(fertiges AvNav-Android-Image einspielen)
 
-	*AvNav und Raspbian	(fertiges AvNav-Raspbian-Image einspielen)
+	* 2.2.2. AvNav und Raspbian	(fertiges AvNav-Raspbian-Image einspielen)
 
-	*Alternativen		(Android-ASOP und eigene Plottersoftware, Openplotter für Raspbian etc.)
+	* 2.2.3. Alternativen		(Android-ASOP und eigene Plottersoftware, Openplotter für Raspbian etc.)
 
-* Konfiguration		(>>> Überblick über die Einstellmöglichkeiten der Softwarevarianten, Konzentration auf 			AvNav und Android. AvNav-Raspbian Verweis auf AvNav)
+* 2.3. Konfiguration	(>>> Überblick über die Einstellmöglichkeiten der Softwarevarianten, Konzentration auf 			AvNav und Android. AvNav-Raspbian Verweis auf AvNav)
 
-	* Avnav  (>>> knapp halten mit Verweisen)
-		* Bedienoberfläche
-		* Schnittstellen einrichten			
-		* Fernbedienung einrichten
+	* 2.3.1 Avnav  (>>> knapp halten mit Verweisen)
+		* 2.3.1.1 Bedienoberfläche
+		* 2.3.1.2. Schnittstellen einrichten			
+		* 2.3.1.3. Fernbedienung einrichten
 	
 
-* Erweiterungsmöglichkeiten
-	*PiggyBack-Platine(n)
-	*Alternative Rückwände	
+* 2.4. Erweiterungsmöglichkeiten
+	* 2.4.1. PiggyBack-Platine(n)
+	* 2.4.2. Alternative Rückwände	
 	
 
-*Technische Daten*
+* 3. Technische Daten*
 
 
-*Glossar*
+* 4. Glossar*
 
 
-*Impressum*
+* 5. Impressum*
 
 
 

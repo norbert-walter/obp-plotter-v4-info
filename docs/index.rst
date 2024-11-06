@@ -1,19 +1,13 @@
 ######################
-Willkommen in der Dokumentation für den OBP-Plotter V4
+OBP-Plotter V4 Dokumentation
 ######################
-
-
-- :doc:`/en/index`
-- :doc:`/de/index`
-
+Letzte Aktualisierung |today|
 
 .. note::   Diese Seiten sind noch in Bearbeitung.
 
 .. image:: /pics/Display.jpg
              :scale: 20%
 
-<<<<<<< HEAD
-NEU
 Der OBP-Plotter V4, entwickelt von Christian Hartz,  wird für die Darstellung von marinen Karten und Daten auf Freizeit-Booten verwendet. Zielgruppe sind Sportbootfahrende in aller Welt. 
 
 Der OBP-Plotter ist ausgestattet mit einem tageslichttauglichen 10-Zoll-Touch-Display. Als Hardwarebasis dienen Compute Module der Versionen 4 und 5 der Raspberry Foundation. Mit der Außenwelt kommuniziert der Plotter vor allem per USB oder WLAN. Das macht ihn maximal flexibel im Einsatz unterschiedlichster Navigationssysteme an Bord. 
@@ -69,5 +63,3 @@ Eine Einbindung in bestehende NMEA-Netzwerke ist selbstverständlich ebenso mög
    Mitarbeit <help/cooperation>
    Spenden <help/donation>
    Glossar <help/glossar>
-=======
->>>>>>> d74b97da0f603d800d322338ff75e769c5c7c13b

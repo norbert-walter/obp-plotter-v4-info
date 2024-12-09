@@ -1,6 +1,6 @@
-############################
-OBP-Plotter V4 Dokumentation
-############################
+##########################
+OBP-Plotter V4 Information
+##########################
 Letzte Aktualisierung |today|
 
 .. image:: https://readthedocs.org/projects/obp-plotter-v4-info/badge/?version=latest

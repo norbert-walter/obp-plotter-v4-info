@@ -3,6 +3,10 @@ OBP-Plotter V4 Dokumentation
 ############################
 Letzte Aktualisierung |today|
 
+.. image:: https://readthedocs.org/projects/obp-plotter-v4-info/badge/?version=latest
+    :target: https://obp-plotter-v4-info.readthedocs.io/de/latest/?badge=latest
+    :alt: Documentation Status
+
 .. note::   Diese Seiten sind noch in Bearbeitung.
 
 .. image:: /pics/Display.jpg

@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "OBP-Plotter V4 Dokumentation"
+project = "OBP-Plotter V4 Info"
 copyright = "2024, Open Boat Projects"
-author = "Michael Maass"
+author = "Norbert Walter"
 
 
 # -- General configuration ---------------------------------------------------

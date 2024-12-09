@@ -1,6 +1,6 @@
-######################
+############################
 OBP-Plotter V4 Dokumentation
-######################
+############################
 Letzte Aktualisierung |today|
 
 .. note::   Diese Seiten sind noch in Bearbeitung.
@@ -16,48 +16,12 @@ Eine Einbindung in bestehende NMEA-Netzwerke ist selbstverständlich ebenso mög
 
 .. toctree::
    :maxdepth: 3
-   :caption: Strukturvorschläge Doku
-   :name: sec-structure
-
-   Strukturvorschlag 1  <intern/struktur>
-   Strukturvorschlag 2  <intern/struktur_1>
-   Strukturvorschlag 3  <intern/struktur_2>
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Einführung
+   :caption: Eigenschaften
    :name: sec-intro
 
    Übersicht <intro/historie>
    Technische Daten <intro/specification>
-   Varianten <intro/variants>
-   
-.. toctree::
-   :maxdepth: 3
-   :caption: Installation
-   :name: sec-usermanual
-
-   Inbetriebnahme <usermanual/start>
-   Installation Android <usermanual/android_install>
-   Konfiguration Android <usermanual/android_configuration>
-   Installation Raspbian <usermanual/raspbian_install>
-   Konfiguration Raspbian <usermanual/raspbian_configuration>
-   Schnittstellen <usermanual/dataexchange>
-   Sensorik <usermanual/sensors>
-   Beispielkonfiguration <usermanual/samples>
-   Sicherheitshinweise <usermanual/safety>
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Zusammenbau
-   :name: sec-assembling
-   
-   Geräteaufbau <assembling/device>
-   Vorbereitung <assembling/preparation>
-   Bauteilliste <assembling/partlist>
-   Durchführung <assembling/actionsteps>
-   Funktionstest <assembling/tests>
-   
+   Erweiterungen <intro/variants>
     
 .. toctree::
    :maxdepth: 3

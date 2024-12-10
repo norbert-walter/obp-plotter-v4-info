@@ -3,6 +3,8 @@
 
 Den OBP-Plotter V4 besteht aus verschiedenen Komponenten die auf einer gemeinsamen Hauptplatine untergebracht sind.
 
+.. image:: /pics/Plotter_Block_Schematic.png
+             :scale: 40%
 
 Abb.: Blockschaltbild Hauptplatine
 

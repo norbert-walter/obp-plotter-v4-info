@@ -63,14 +63,10 @@ Der große Vorteil der offenen Plattform liegt in der Wandelbarkeit und Erweiter
     
 .. toctree::
    :maxdepth: 3
-   :caption: Hilfe
-   :name: sec-help   
+   :caption: Info
+   :name: sec-info   
 
-   Fragen und Antworten <help/faq>
-   Meinungen und Tipps <help/opinions>
-   Bekannte Fehler <help/errors>
    Technische Unterstützung <help/support>
    Service <help/service>
-   Mitarbeit <help/cooperation>
-   Spenden <help/donation>
-   Glossar <help/glossar>
+   Medien <media/documents>
+

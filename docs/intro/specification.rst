@@ -11,6 +11,8 @@ Funktionen
 
 * Quad Core Prozessor
 * Android Betriebssystem
+* Vorinstallierte Navigations-Apps
+* Vorinstallierte Karten
 * Vorinstallierte Apps für Navigation und Unterhaltung
 * 10-Zoll Touch-Display (tageslichttauglich)
 * Umgebungslichtangepasste Displayhelligkeit
@@ -60,7 +62,7 @@ Spezifikation
 +----------------------+-----------------------------+
 | Displaygröße         | 1250 x 800 pix, 60 Hz       |
 +----------------------+-----------------------------+
-| Displayhelligkeit    | 1000 nits                   |
+| Displayhelligkeit    | 1000 nits, autom. geregelt  |
 +----------------------+-----------------------------+
 | Bedienung            | 5-Finger-Touch, regensicher |
 +----------------------+-----------------------------+
@@ -126,7 +128,7 @@ Vorinstallierte Apps
 --------------------
 
 **System**
-	* Aptoide (App Repository)
+	* Aptoide (Alternativer App Store)
 	* Device Info (System Infobar)
 	* Dateien
 	* File Manager + (Filemanager mit Remote-Datenaustausch)
@@ -137,10 +139,11 @@ Vorinstallierte Apps
 	* VNC-Server (in Android integriert)
 	* SSH-Server (in Android integriert)
 	* Systemeinstellungen
+	* Offline Manual
 
 **Navigation**
 	* AIS Catcher (AIS Empfänger via USB RTL-SDR Stick)
-	* AVnav (Webbasierte Navigation)
+	* AVnav (Webbasierte Open Source Navigation)
 	* Boating App (Navigation)
 	* C-Maps (Navigation)
 	* Grib (Wetterdaten)
@@ -150,6 +153,7 @@ Vorinstallierte Apps
 	* NMEA Dashboard (Instrumentenanzeige)
 	* Osmand (Navigation)
 	* Orca (Navigation)
+	* OpenCPN (Open Source Navigation)
 	* Windfinder (Wetterinfo)
 	* Windy (Wetterinfo)
 	* SDRangel (SDR-Empfänger)
@@ -170,6 +174,17 @@ Vorinstallierte Apps
 	* Syntesizer (Klangeinstellung)
 	* VLC (Universeller Mediaplayer für Bilder, Audio und Video)
 	* WhatsApp
+	
+Vorinstallierte Seekarten
+-------------------------
+
+**Online**
+	* BSH (rudimentäre Karte mit Tiefenlinien)
+	* Open Sea Map (weltweit, ohne Tiefenangaben)
+	* Waddenzee (DE, Wattenmeer NL, mit Tiefenangaben)
+
+**Offline**
+	* Open Sea Map (Europa, ohne Tiefenangaben)
 	
 Nutzbare I2C-Sensorik
 ---------------------

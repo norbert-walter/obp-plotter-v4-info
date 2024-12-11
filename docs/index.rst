@@ -9,8 +9,8 @@ Letzte Aktualisierung |today|
 
 .. note::   Diese Seiten sind noch in Bearbeitung.
 
-.. image:: /pics/Display.jpg
-             :scale: 20%
+.. image:: /pics/OBP_Plotter_Direct_View_t.png
+             :scale: 50%
 
 Der OBP-Plotter V4 wurde von Open Boat Projects entwickelt, um eine offene Navigationsplattform zur Verfügung zu stellen. Im Gegensatz ist bei kommerziellen Navigationssystemen die Funktionalität fest vom Hersteller vorgegeben und kann nachträglich vom Endanwender nicht verändert werden. Die Lebenszykluszeit solcher Geräte ist auf wenige Jahre beschränkt. Nach dem Verkaufsende werden alte Navigationssysteme meistens nicht mehr unterstützt und eine Weiterverwendung ist nicht mehr sinnvoll möglich, sofern Kartenbestände nicht mehr aktualisiert werden können. Das zwingt viele Anwender dazu neue Systeme zu kaufen, obwohl das alte System physisch noch funktionsfähig ist.
 

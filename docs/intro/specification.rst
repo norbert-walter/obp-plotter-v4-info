@@ -1,8 +1,8 @@
 Technische Daten
 ================
 
-.. image:: /pics/Display.jpg
-	:scale: 20%
+.. image:: /pics/OBP_Plotter_Front_View_t.png
+	:scale: 50%
 
 Funktionen
 ----------
@@ -24,7 +24,7 @@ Funktionen
 Aufbau
 ------
 
-.. image:: ../pics/OBP60_Explode_View.png
+.. image:: ../pics/OBP_Plotter_Exploded_t.png
    :scale: 45%
 
 
@@ -62,6 +62,8 @@ Spezifikation
 +----------------------+-----------------------------+
 | Schnittstellen       | 1x USB 3.0, 2x USB 2.0, Pwr |
 +----------------------+-----------------------------+
+| Betriebssystem       | Android 15, AOSP            |
++----------------------+-----------------------------+
 | ESD-Schutz           | 8 kV                        |
 +----------------------+-----------------------------+
 | Schutzgrad           | IP65                        |
@@ -73,50 +75,34 @@ Spezifikation
 
 Anschlussbelegung
 -----------------
-.. image:: ../pics/Bus_Systems.png
+.. image:: ../pics/OBP_Plotter_Back_View_t.png
    :scale: 50%
    
 Schaltplan
 ----------
 
-* `Schaltplan V2.1 [PDF] <../_static/files/Schematic_OBP60_V2.1.pdf>`_
+* `Schaltplan V2.1 [PDF] <../_static/files/OBP_Plotter_Dimensions.pdf>`_
 
 
 Maßbilder
 ---------
 
-* `Maßbild [PDF] <../_static/files/Drawing_OBP60_V2.pdf>`_
+* `Maßbild [PDF] <../_static/files/OBP_Plotter_Dimensions.pdf>`_
 
    
 Nutzbare und konvertierbare Telegramme
 --------------------------------------
 
-**NMEA0183**
+**NMEA0183 via WiFi**
     * AIVDM, AIVDO, DBK, DBS, DBT, DPT, GGA, GLL, GSA, GSV, HDG, HDM, HDT, MTW, MWD, MWV, RMB, RMC, ROT, RSA, VHW, VTG, VWR, XDR, XTE, ZDA
-    
-**NMEA2000**
-    * 126992, 127245, 127250, 127251, 127257, 127258, 127488, 127489, 127505, 127508, 128259, 128267, 128275, 129025, 129026, 129029, 129033, 129038, 129039, 129283, 129284, 129539, 129540, 129794, 129809, 129810, 130306, 130310, 130311, 130312, 130313, 130314, 130316
 	
 Nutzbare I2C-Sensorik
 ---------------------
 
-**Umgebungssensoren**
-	* BMP085, BMP180, BMP280, BME280, SHT20, HTU21
-	
-**Spannungs- und Stromsensoren**
-	* INA226, INA219 (in Vorbereitung)
-	
-**Winkelsensoren**
-	* AS5600, MT6701 (in Vorbereitung)
-	
-**Port-Erweiterungen**
-	* PCF8574 (in Vorbereitung)
+**Bewegungssensor**
+	* H6CM6
 	
 **Echtzeit-Uhren**
-	* DS1388
+	* Integriert in CM5
 	
-Nutzbare 1Wire-Sensorik
------------------------
 
-**Temperatursensoren**
-	* DS18B20

@@ -1,8 +1,8 @@
 Medien-Informationen
 ====================
 
-Kurzbeschreibung
-----------------
+Datenblätter
+------------
 
 Pressetexte
 -----------

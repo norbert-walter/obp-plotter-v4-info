@@ -66,6 +66,7 @@ Der große Vorteil der offenen Plattform liegt in der Wandelbarkeit und Erweiter
    :caption: Info
    :name: sec-info   
 
+   Interesse <help/interest>
    Technische Unterstützung <help/support>
    Service <help/service>
    Medien <media/documents>

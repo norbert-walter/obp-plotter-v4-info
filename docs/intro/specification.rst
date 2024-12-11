@@ -1,8 +1,8 @@
 Technische Daten
 ================
 
-.. image:: ../pics/OBP_Logo.png
-   :scale: 30%
+.. image:: /pics/Display.jpg
+	:scale: 20%
 
 Funktionen
 ----------
@@ -32,43 +32,43 @@ Spezifikation
 -------------
 
 +----------------------+-----------------------------+
-| Versorgungsspannung  | 10...28 V                   |
+| Versorgungsspannung  | 10...28 V, verpolungssicher |
 +----------------------+-----------------------------+
-| Stromverbrauch       | 0.5...3.5 W, typisch 1 W    |
+| Stromverbrauch       | 7...18 W, typisch 12 W      |
 +----------------------+-----------------------------+
-| Prozessor            | ESP32-S3, Dual Core         |
+| Prozessor            | BCM2712, Quad Core          |
 +----------------------+-----------------------------+
-| Clock Speed          | 80, 160, 240 MHz            |
+| Clock Speed          | 2.5 GHz, Auto-Speedstepping |
 +----------------------+-----------------------------+
-| RAM                  | 512 kB                      |
+| RAM                  | 4 GB                        |
 +----------------------+-----------------------------+
-| Flash                | 16 MB                       |
+| Flash                | 512 GB, SSD NVMe            |
 +----------------------+-----------------------------+
-| PSRAM                | 8 MB                        |
+| Flash-Format         | m.2, 2230, 2242             |
 +----------------------+-----------------------------+
-| Displaygröße         | 400 x 300 pix, 120 dpi      |
+| Displaygröße         | 1250 x 800 pix, 60 Hz       |
 +----------------------+-----------------------------+
-| Refreshrate          | 1 Hz                        |
+| Bedienung            | 5-Finger-Touch, regensicher |
 +----------------------+-----------------------------+
-| Sensortasten         | kapazitiv                   |
+| Sensortasten         | 3x kapazitiv                |
 +----------------------+-----------------------------+
-| NMEA0183-Bus         | RS485, max. 115.2 kBd, 30 m |
+| Fernbedinung         | IR, 8 m                     |
 +----------------------+-----------------------------+
-| NMEA2000-Bus         | CAN, 250 kBit/s, 30 m       |
+| Kommunikation        | WiFi, 802.11 bgnac, 50 m    |
 +----------------------+-----------------------------+
-| I2C-Bus              | 5V, 100 kBit/s, 10 m        |
+| WiFi Frequenzen      | 2.4 GHz, 5.0 GHz            |
 +----------------------+-----------------------------+
-| 1Wire-Bus            | 3.3V, 10 m                  |
+| Erweiterungsport     | USB 3.0, I2C, SPI           |
 +----------------------+-----------------------------+
-| 5V-Ausgang           | 200 mA, isoliert            |
+| Schnittstellen       | 1x USB 3.0, 2x USB 2.0, Pwr |
 +----------------------+-----------------------------+
 | ESD-Schutz           | 8 kV                        |
 +----------------------+-----------------------------+
-| Schutzgrad           | IP68, frontseitig           |
+| Schutzgrad           | IP65                        |
 +----------------------+-----------------------------+
-| Abmessungen          | 110 x 115 x 30 mm           |
+| Abmessungen          | 285 x 198 x 46 mm           |
 +----------------------+-----------------------------+
-| Gewicht              | 280 g                       |
+| Gewicht              | 1280 g                      |
 +----------------------+-----------------------------+
 
 Anschlussbelegung

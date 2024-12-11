@@ -40,27 +40,41 @@ Spezifikation
 +----------------------+-----------------------------+
 | Clock Speed          | 2.5 GHz, Auto-Speedstepping |
 +----------------------+-----------------------------+
-| RAM                  | 4 GB                        |
+| RAM                  | 4 GB, fix                   |
 +----------------------+-----------------------------+
-| Flash                | 512 GB, SSD NVMe            |
+| Flash                | 512 GB, SSD NVMe, wechselbar|
++----------------------+-----------------------------+
+| Freier User-Bereich  | 500 GB, erweiterbar bis 2 TB|
 +----------------------+-----------------------------+
 | Flash-Format         | m.2, 2230, 2242             |
 +----------------------+-----------------------------+
 | Displaygröße         | 1250 x 800 pix, 60 Hz       |
 +----------------------+-----------------------------+
+| Displayhelligkeit    | 1000 nits                   |
++----------------------+-----------------------------+
 | Bedienung            | 5-Finger-Touch, regensicher |
 +----------------------+-----------------------------+
 | Sensortasten         | 3x kapazitiv                |
 +----------------------+-----------------------------+
-| Fernbedinung         | IR, 8 m                     |
+| Fernbedienung        | IR, 8 m                     |
 +----------------------+-----------------------------+
 | Kommunikation        | WiFi, 802.11 bgnac, 50 m    |
 +----------------------+-----------------------------+
 | WiFi Frequenzen      | 2.4 GHz, 5.0 GHz            |
 +----------------------+-----------------------------+
+| Ethernet-Protokolle  | HTTP, SSH, VNC, SMB, UDP    |
++----------------------+-----------------------------+
+| Bluetooth            | BT 5.0, BLE                 |
++----------------------+-----------------------------+
+| Bluetooth-Profile    | Heatset, A2DP, Fitness      |
++----------------------+-----------------------------+
 | Erweiterungsport     | USB 3.0, I2C, SPI           |
 +----------------------+-----------------------------+
 | Schnittstellen       | 1x USB 3.0, 2x USB 2.0, Pwr |
++----------------------+-----------------------------+
+| Signaleinrichtungen  | 2x LED, frontseitig         |
++----------------------+-----------------------------+
+| Lautsprecher         | Mono, 10 W                  |
 +----------------------+-----------------------------+
 | Betriebssystem       | Android 15, AOSP            |
 +----------------------+-----------------------------+
@@ -90,8 +104,8 @@ Maßbilder
 * `Maßbild [PDF] <../_static/files/OBP_Plotter_Dimensions.pdf>`_
 
    
-Nutzbare und konvertierbare Telegramme
---------------------------------------
+Nutzbare Telegramme
+-------------------
 
 **NMEA0183 via WiFi**
     * AIVDM, AIVDO, DBK, DBS, DBT, DPT, GGA, GLL, GSA, GSV, HDG, HDM, HDT, MTW, MWD, MWV, RMB, RMC, ROT, RSA, VHW, VTG, VWR, XDR, XTE, ZDA
@@ -99,10 +113,10 @@ Nutzbare und konvertierbare Telegramme
 Nutzbare I2C-Sensorik
 ---------------------
 
-**Bewegungssensor**
-	* H6CM6
+**Umgebungssensoren**
+	* Bewegung
+	* Helligkeit
+	* IR-Remote
 	
 **Echtzeit-Uhren**
 	* Integriert in CM5
-	
-

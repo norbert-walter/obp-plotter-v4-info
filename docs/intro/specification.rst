@@ -3,22 +3,31 @@ Technische Daten
 
 .. image:: /pics/OBP_Plotter_Front_View_t.png
 	:scale: 50%
+	
+Abb.: OBP-Plotter Basisgerät
 
 Funktionen
 ----------
 
+* Quad Core Prozessor
+* Android Betriebssystem
+* Vorinstallierte Apps für Navigation und Unterhaltung
 * 10-Zoll Touch-Display (tageslichttauglich)
+* Umgebungslichtangepasste Displayhelligkeit
 * 3 Sensor-Tasten (u.a. geeignet für Android Buttons)
-* Akustischer Signalgeber (Lautsprecher)
-* NMEA2000 (vollduplex, isoliert)
-* NMEA0183 (RX oder TX, konfigurierbar, isoliert)
-* NMEA2000/NMEA0183 Gateway (bidirektional)
-* I2C (isoliert)
-* USB-C (OTG, Debug, NMEA0183)
-* GPS-Empfäger (GPS, Glonas, Baidu, interne oder externe GPS-Antenne)
-* WiFi 2.4GHz (HTTP, TCP, UDP)
-* Bluetooth (aktuell ungenutzt)
-* Low Power Modus
+* Signalgeber
+	* Akustisch: Lautsprecher
+	* Optisch: LEDs
+* Erweiterungs-Port für:
+	* NMEA0183, NMEA2000 und GPS (optional)
+* NMEA0183 Multiplexer (in AVnav integriert)
+* 2x USB-A (für Usererweiterungen)
+* USB-C (OTG, Debug)
+* WiFi
+* Bluetooth
+* Integrierte Sensoren für Bewegung und Umgebung
+* Energiesparmodus
+* Offene Architektur (Open Hardware, Open Source)
 
 
 Aufbau
@@ -27,6 +36,7 @@ Aufbau
 .. image:: ../pics/OBP_Plotter_Exploded_t.png
    :scale: 45%
 
+Abb.: OBP-Plotter Basisgerät Innenansicht
 
 Spezifikation
 -------------
@@ -36,7 +46,7 @@ Spezifikation
 +----------------------+-----------------------------+
 | Stromverbrauch       | 7...18 W, typisch 12 W      |
 +----------------------+-----------------------------+
-| Prozessor            | BCM2712, Quad Core          |
+| Prozessor            | BCM2712, Quad Core, 64 Bit  |
 +----------------------+-----------------------------+
 | Clock Speed          | 2.5 GHz, Auto-Speedstepping |
 +----------------------+-----------------------------+
@@ -92,6 +102,8 @@ Anschlussbelegung
 .. image:: ../pics/OBP_Plotter_Back_View_t.png
    :scale: 50%
    
+Abb.: OBP-Plotter Basisgerät Rückseite
+   
 Schaltplan
 ----------
 
@@ -109,6 +121,55 @@ Nutzbare Telegramme
 
 **NMEA0183 via WiFi**
     * AIVDM, AIVDO, DBK, DBS, DBT, DPT, GGA, GLL, GSA, GSV, HDG, HDM, HDT, MTW, MWD, MWV, RMB, RMC, ROT, RSA, VHW, VTG, VWR, XDR, XTE, ZDA
+	
+Vorinstallierte Apps
+--------------------
+
+**System**
+	* Aptoide (App Repository)
+	* Device Info (System Infobar)
+	* Dateien
+	* File Manager + (Filemanager mit Remote-Datenaustausch)
+	* Galerie
+	* Google PlayStore
+	* Kontakte
+	* Kalender
+	* VNC-Server (in Android integriert)
+	* SSH-Server (in Android integriert)
+	* Systemeinstellungen
+
+**Navigation**
+	* AIS Catcher (AIS Empfänger via USB RTL-SDR Stick)
+	* AVnav (Webbasierte Navigation)
+	* Boating App (Navigation)
+	* C-Maps (Navigation)
+	* Grib (Wetterdaten)
+	* Maps(Navigation)
+	* NV-Carts (Navigation)
+	* Navily (Navigation)
+	* NMEA Dashboard (Instrumentenanzeige)
+	* Osmand (Navigation)
+	* Orca (Navigation)
+	* Windfinder (Wetterinfo)
+	* Windy (Wetterinfo)
+	* SDRangel (SDR-Empfänger)
+	* TiniCAM (IP-Kamera Dashborad)
+
+**Unterhaltung**
+	* Chrome (Webbrowser)
+	* Fusion Audio (Control-System für Raymarine Audio)
+	* GMail
+	* Firefox (Webbrowser)
+	* Internetradio
+	* Lautsärkeregler
+	* Netflix
+	* Prime Video
+	* RTL-SDR Driver (für SDR-Empfang)
+	* FM-Radio (RTL-SDR basiert)
+	* Spotify
+	* Syntesizer (Klangeinstellung)
+	* VLC (Universeller Mediaplayer für Bilder, Audio und Video)
+	* WhatsApp
 	
 Nutzbare I2C-Sensorik
 ---------------------

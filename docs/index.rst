@@ -56,7 +56,7 @@ Der OBP-Plotter V4 basiert auf einem flexiblen Hardwaredesign, das auf standardi
 
 **Einsatzmöglichkeiten und Erweiterungen**
 
-Unser Ziel ist es, Interessierten eine verlässliche und geprüfte Hardwareplattform zu bieten, auf der sie ihre Kreativität entfalten können – sei es durch Softwareentwicklung oder Erweiterungen. Neben der Hardware stellen wir für Einsteiger auch ein Betriebssystem auf Basis von Android 15 bereit, das für den Marineeinsatz vorkonfiguriert ist. Später wird auch Linux als Option folgen. Durch die Offenheit des Systems können sowohl kommerzielle Apps wie Navionics als auch individuelle Anwendungen genutzt werden.
+Unser Ziel ist es, Interessierten eine verlässliche und geprüfte Hardwareplattform zu bieten, auf der sie ihre Kreativität entfalten können – sei es durch Softwareentwicklung oder Hardwareerweiterungen. Neben der Hardware stellen wir für Einsteiger auch ein Betriebssystem auf Basis von Android 15 bereit, das für den Marineeinsatz vorkonfiguriert ist. Später wird auch Linux als Option folgen. Durch die Offenheit des Systems können sowohl kommerzielle Apps wie Navionics als auch individuelle Anwendungen genutzt werden.
 
 **Vorteile der offenen Plattform**
 

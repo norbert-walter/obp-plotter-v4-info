@@ -26,11 +26,11 @@ Die Hardware ist speziell für den anspruchsvollen Einsatz konzipiert und bietet
 	* Regenfestes, handschuhtaugliches Touch-Display (10 Zoll, 1000 Nits)
 	* Sensortasten für einfache Bedienung
 	* Leistungsstarkes Raspberry Pi Compute Module CM5:
-        4 GB RAM
-        512 GB SSD
-        WiFi (2.5 GHz & 5 GHz), Bluetooth 5.0
-        GPS- und AIS-Empfänger
-        NMEA2000-Gateway
+		* 4 GB RAM
+		* 512 GB SSD
+		* WiFi (2.5 GHz & 5 GHz), Bluetooth 5.0
+		* GPS- und AIS-Empfänger
+	* NMEA2000-Gateway
 	* Unterstützung für Linux, Android und Windows
 	* Offene Schnittstellen für individuelle Erweiterungen
 

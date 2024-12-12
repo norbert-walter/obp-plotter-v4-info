@@ -16,6 +16,9 @@ Abb.: Blockschaltbild Hauptplatine
 	* Touch ist regensicher und mit Handschuhen bedienbar
 	* Kratzfestes, entspiegeltes, sonnenlichtfestes Deckglas 3 mm
 
+.. image:: /pics/OBP_Plotter_PCB_Side_View_t.png
+             :scale: 10%
+
 **Hauptplatine**
 	* Enthält alle wesentlichen Komponenten
 	* 2x USB 2.0 für Useranwendungen
@@ -35,6 +38,9 @@ Abb.: Blockschaltbild Hauptplatine
 	* Geeignet für CM4, CM5 von Raspberry Pi (getestet)
 	* Geeignet für CM4, CM5 von Banana Pi (ungetestet)
 	
+.. image:: /pics/RPI-CM4_t.png
+             :scale: 10%
+
 **Compute Modul CM5**
 	* Quade-Core CPU Broadcom BCM2712
 	* 4x 64bit Arm Cortex-A76, 2.4 GHz
@@ -58,6 +64,9 @@ Abb.: Blockschaltbild Hauptplatine
 	* 2x USB 2.0 für Usererweiterungen
 	* 5V, 1A
 	* Kurzschlusssicher
+	
+.. image:: /pics/Sensor_PCB_t.png
+             :scale: 10%
 
 **Touch-Sensorplatine**
 	* 3x Touch-Tasten

@@ -40,6 +40,11 @@ Aufbau
 
 Abb.: OBP-Plotter Basisgerät Innenansicht
 
+.. image:: ../pics/OBP_Plotter_Inside_Named_t.png
+   :scale: 45%
+
+Abb.: OBP-Plotter Basisgerät Hauptplatine
+
 Spezifikation
 -------------
 

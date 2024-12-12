@@ -52,7 +52,7 @@ Die Hardware ist wirtschaftlich konstruiert und kann von Zulieferern effizient g
 
 **Innovatives Hardwarekonzept**
 
-Der OBP-Plotter V4 basiert auf einem flexiblen Hardwaredesign, das auf standardisierten Schnittstellen wie USB und I2C aufbaut. Dies ermöglicht den Einsatz verschiedener Compute-Module, z. B. von Raspberry Pi, Banana Pi oder Radxa, unter unterschiedlichen Betriebssystemen. Diese Flexibilität bietet eine zukunftssichere Grundlage, die sich leicht an neue Anforderungen anpassen lässt.
+Der OBP-Plotter V4 basiert im Gegensatz zu kommerziellen Produkten auf einem flexiblen, offenen  Hardwaredesign, das auf standardisierten Schnittstellen wie USB und I2C aufbaut. Dies ermöglicht den Einsatz verschiedener Compute-Module, z. B. von Raspberry Pi, Banana Pi oder Radxa, unter unterschiedlichen Betriebssystemen. Diese Flexibilität bietet eine zukunftssichere Grundlage, die sich leicht an neue Anforderungen anpassen lässt.
 
 **Einsatzmöglichkeiten und Erweiterungen**
 

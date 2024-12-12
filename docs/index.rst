@@ -12,44 +12,57 @@ Letzte Aktualisierung |today|
 .. image:: /pics/OBP_Plotter_Direct_View_t.png
              :scale: 50%
 
-Der OBP-Plotter V4 wurde von Open Boat Projects entwickelt, um eine offene Navigationsplattform zur Verfügung zu stellen. Christian ist der Chef-Entwickler und einige weitere Leute unterstützen ihn bei der Entwicklung. Im Gegensatz ist bei kommerziellen Navigationssystemen die Funktionalität fest vom Hersteller vorgegeben und kann nachträglich vom Endanwender nicht verändert werden. Die Lebenszykluszeit solcher Geräte ist auf wenige Jahre beschränkt. Nach dem Verkaufsende werden alte Navigationssysteme meistens nicht mehr unterstützt und eine Weiterverwendung ist nicht mehr sinnvoll möglich, sofern Kartenbestände nicht mehr aktualisiert werden können. Das zwingt viele Anwender dazu neue Systeme zu kaufen, obwohl das alte System physisch noch funktionsfähig ist.
+Der OBP-Plotter V4 wurde von Open Boat Projects entwickelt, um eine offene und anpassbare Navigationsplattform bereitzustellen. Unter der Leitung von Chefentwickler Christian arbeitet ein Team von Unterstützern an diesem Projekt. Im Gegensatz zu kommerziellen Navigationssystemen, bei denen die Funktionen fest vom Hersteller vorgegeben sind und sich später nicht ändern lassen, bietet der OBP-Plotter eine flexible Alternative. Kommerzielle Systeme haben oft eine begrenzte Lebensdauer: Nach wenigen Jahren werden sie nicht mehr unterstützt, wodurch die Nutzung veraltet und unpraktisch wird, insbesondere wenn keine aktuellen Karten mehr verfügbar sind. Dies zwingt viele Nutzer dazu, ein neues System zu kaufen, obwohl das alte Gerät technisch noch einwandfrei funktioniert.
 
-Oft ist es so, dass im DIY-Bereich individuelle eigene Lösungen existieren, die aber in vielen Dingen nicht perfekt an die Umgebungsbedingungen im Segelalltag angepasst sind. Das liegt teilweise an den begrenzten technischen Möglichkeiten und dem Erfahrungswissen bei der Umsetzung solcher Projekte. Open Boat Project hat sich zum Ziel gesetzt, eine stabile Navigations-Hardware zur Verfügung zu stellen, die an marine Umgebungsbedingungen angepasst ist und als Basis für eigene Projekte verwendet werden kann.
+Im DIY-Bereich gibt es oft individuelle Lösungen, die jedoch nicht immer optimal für die Herausforderungen des Segelalltags angepasst sind. Dies liegt oft an technischen Einschränkungen oder mangelnder Erfahrung in der Umsetzung. Open Boat Projects hat es sich daher zum Ziel gesetzt, eine robuste Navigations-Hardware zu entwickeln, die den Anforderungen in der maritimen Umgebung gerecht wird und gleichzeitig als Grundlage für eigene Projekte dient.
 
-Die Hardwarefunktionalität orientiert sich an den Erfordernissen im rauen Alltagseinsatz.
+Die Zielgruppe des OBP-Plotters sind Menschen, die sich ein individuelles System auf Basis einer stabilen und gut funktionierenden Hardware schaffen möchten. Der Plotter eignet sich auch für diejenigen, die ältere Systeme integrieren oder eine sofort einsatzbereite Lösung suchen, die sich leicht erweitern lässt.
 
-	* Wetterfestes und wasserdichtes Gehäuse
-	* Touch ist regenfest und handschuhtauglich
-	* 10" TFT Touch-Display mit 1000 nits
-	* Sensortasten
-	* Leistungsstarke Hardware auf Basis eines Raspi CM5 Moduls
-	* 4 GB RAM Arbeitsspeicher
-	* 512 GB SSD Programmspeicher
-	* WiFi 2.5 GHz und 5 GHz
-	* Bluetooth 5.0
-	* GPS-Empfänger
-	* AIS-Empfänger
-	* NMEA2000-Gateway
-	* Unterstützt Linux, Android und Windows als Betriebssystem
-	* Offene Schnittstelle für Erweiterungen
+**Eigenschaften der Hardware**
 
-Der Grundgedanke beim OBP-Plotter V4 liegt in der Offenheit des gesamten Projektes. Wir nutzen die Community des Segeln-Forums und haben uns von den Iden inspirieren lassen wie eine ideale offene Hardware aussieht und tauschen uns mit Interessierten im Entwicklungsprozess darüber aus. Wir unterstützen die Idee hinter **Open Hardware, Open Source und Open Data**. Jeder Interessierte soll nachvollziehen und verstehen können, wie das Navigationssystem funktioniert. Es soll sich individuell durch die Offenheit an eigene Bedürfnisse anpassen lassen und eignet sich hervorragend bestehende ältere Systeme mit einzubeziehen, die bereits an Bord verfügbar sind. Wir veröffentlichen folgende Daten, die jeder einsehen und nutzen kann:
+Die Hardware ist speziell für den anspruchsvollen Einsatz konzipiert und bietet:
+
+	* Ein wetterfestes, wasserdichtes Gehäuse
+	* Regenfestes, handschuhtaugliches Touch-Display (10 Zoll, 1000 Nits)
+	* Sensortasten für einfache Bedienung
+	* Leistungsstarkes Raspberry Pi Compute Module CM5:
+        4 GB RAM
+        512 GB SSD
+        WiFi (2.5 GHz & 5 GHz), Bluetooth 5.0
+        GPS- und AIS-Empfänger
+        NMEA2000-Gateway
+	* Unterstützung für Linux, Android und Windows
+	* Offene Schnittstellen für individuelle Erweiterungen
+
+**Offene Plattform und Community**
+
+Ein zentraler Aspekt des OBP-Plotters ist seine Offenheit. Open Boat Projects arbeitet eng mit der Community, insbesondere im Segeln-Forum, zusammen. Diese Zusammenarbeit hilft, Ideen für eine ideale offene Hardware zu entwickeln und den Entwicklungsprozess zu optimieren. Die Grundprinzipien des Projekts sind Open Hardware, Open Source und Open Data. Jeder Interessierte kann nachvollziehen, wie das System funktioniert, es an eigene Bedürfnisse anpassen und ältere Systeme einbinden.
+
+Wir stellen folgende Ressourcen zur Verfügung:
 
 	* CAD-Unterlagen
-	* Quell-Codes
+	* Quellcodes
 	* Schaltpläne
-	* Komponentenunterlagen
-	* Vorbereitete Betriebssystem-Images
-	
-Die Hardware wurde von uns so konstruiert, dass sie wirtschaftlich und kosteneffizient von Zulieferern gefertigt werden kann. Die Entwicklung wird hauptsächlich durch Open Boat Projects verantwortet. Wir kümmern uns um Konzepterstellung, Entwicklung, Komponentenbeschaffung- und Validierung, Prototypenbau und eine erste Nullserie. Darüber hinaus suchen wir nach Fertigungspartnern, die das Gerät später fertigen werden. Wir werden auch nötige Zulassungen und Tests wie z.B. eine CE-Zertifizierung veranlassen, so dass die Navigationssysteme im öffentlichen Handel verkauft werden können. Die Themen Fertigung, Test, Qualitätskontrolle, Verpackung, Lagerung, Logistik, Marketing und Vertrieb werden wir an Dienstleiter übergeben. So können wir uns auf die Kernkompetenzen konzentrieren und die Produktausrichtung nach unseren Wünschen und Erfordernissen gestalten und kontrollieren.
+	* Dokumentationen der Komponenten
+	* Vorgefertigte Betriebssystem-Images
 
-Der OBP-Plotter V4 ist das bisher beste Hardwarekonzept, das wir bis jetzt erstellt haben. Es basiert auf einer Reihe von Erkenntnissen, die wir aus vorhergehenden Projekten gewonnen haben. So basiert das Hardwarekonzept auf einem Rasverry Pi Compute Modul CM5, bei dem alle Hardwareabhängigkeiten zu Betriebssystemen aufgehoben sind. Es werden keine speziellen GPIO-Pins für Hardwarekomponenten benutzt. Alle Komponenten werden über standardisierte Schnittstellen wie USB, I2C angebunden. So kann die Basisplatine mit verschiedenen Compute Modulen verschiedener Hersteller unter verschiedenen Betriebssystemen verwendet werden. So wären z.B. neben dem Compute Modul CM4, CM5 der Raspberry Pi Fondation auch der Einsatz der Compute Module  CM4, CM5 von Banana Pi oder von Radxa möglich. Alle genannten Module verfügen über die gleichen standardisierten Schnittstellen und sind gegenseitig austauschbar. Bei den verwendeten Betriebssystemen ist es ähnlich. Alle Modulhersteller bieten entsprechende Betriebssystem-Images für verschiedene Anwendungen an.
+**Produktion und Vermarktung**
 
-Ziel der ganzen Entwicklung ist es, dem Maker eine verlässliche, geprüfte und einsatztaugliche offene Hardwareplattform zu bieten, so dass das DIY-Betätigungsfeld überwiegend im Softwarebereich liegt oder bei der Erstellung von Erweiterungsmodulen.  
+Die Hardware ist wirtschaftlich konstruiert und kann von Zulieferern effizient gefertigt werden. Open Boat Projects übernimmt die Entwicklung, von der Konzeptphase über Prototypenbau bis zur ersten Nullserie. Für Fertigung, Tests, Qualitätskontrolle, Logistik und Vertrieb arbeiten wir mit Partnern zusammen, um uns auf unsere Kernkompetenzen zu konzentrieren. Zulassungen wie die CE-Zertifizierung sind ebenfalls vorgesehen, damit der Plotter regulär im Handel erhältlich sein wird.
 
-Im ersten Schritt werden wir neben der Hardware auch ein Betriebssystem auf Android 15 anbieten, so dass auch Maker ohne Erfahrungen die Hardware sinnvoll im Marinebereich nutzen können. Später soll noch das Betriebssystem Linux folgen. Es werden eine Reihe von nützlichen Anwendungen vorinstalliert und einsatzfertig konfiguriert sein. Mit Android 15 werden die meisten Anwender sich schnell zu Recht finden. Durch die universelle Erweiterbarkeit über Apps aus dem Google PlayStore können auch etablierte kommerzielle Navigationsanwendungen wie Navionics und andere genutzt werden.
+**Innovatives Hardwarekonzept**
 
-Der große Vorteil der offenen Plattform liegt in der Wandelbarkeit und Erweiterbarkeit. So lassen sich auch Anwendungen außerhalb des Marineumfeldes wie z.B. der Homeautomation erschließen. Durch die Offenheit besteht kein Zwang ein bestimmtes Betriebssystem zu nutzen. Die Updatefähigkeit ist immer gegeben, soweit die Hardware den Anforderungen genügt. Im Fehlerfall steht eine umfassende Dokumentation zur Verfügung, so dass man Probleme lokalisieren und selbst lösen kann. Durch die Offenheit wird die Community angeregt weitere Ideen beizusteuern, die von Makern umgesetzt werden können oder in spätere Versionen mit einfließen können. Open Boat Project bietet einen Plotter an, der von Wassersportlern für Wassersportler erstellt worden ist. Die Community und wir wissen sehr genau was nützlich und sinnvoll ist.
+Der OBP-Plotter V4 basiert auf einem flexiblen Hardwaredesign, das auf standardisierten Schnittstellen wie USB und I2C aufbaut. Dies ermöglicht den Einsatz verschiedener Compute-Module, z. B. von Raspberry Pi, Banana Pi oder Radxa, unter unterschiedlichen Betriebssystemen. Diese Flexibilität bietet eine zukunftssichere Grundlage, die sich leicht an neue Anforderungen anpassen lässt.
+
+**Einsatzmöglichkeiten und Erweiterungen**
+
+Unser Ziel ist es, Interessierten eine verlässliche und geprüfte Hardwareplattform zu bieten, auf der sie ihre Kreativität entfalten können – sei es durch Softwareentwicklung oder Erweiterungen. Neben der Hardware stellen wir für Einsteiger auch ein Betriebssystem auf Basis von Android 15 bereit, das für den Marineeinsatz vorkonfiguriert ist. Später wird auch Linux als Option folgen. Durch die Offenheit des Systems können sowohl kommerzielle Apps wie Navionics als auch individuelle Anwendungen genutzt werden.
+
+**Vorteile der offenen Plattform**
+
+Der größte Vorteil des OBP-Plotters liegt in seiner Wandelbarkeit und Erweiterbarkeit. Er ist nicht nur für den maritimen Einsatz geeignet, sondern kann auch in anderen Bereichen, wie der Heimautomation, verwendet werden. Die Plattform ist stets updatefähig, und bei Problemen steht umfassende Dokumentation zur Verfügung. Die Community beteiligt sich aktiv, um neue Ideen und Verbesserungen einzubringen. Die Lösungen orientieren sich an praktischen Anforderungen und Bedürfnissen.
+
+Der OBP-Plotter V4 ist von Wassersportlern für Wassersportler entwickelt worden – ein System, das perfekt auf die Bedürfnisse dieser Community abgestimmt ist.
 
 
 .. toctree::

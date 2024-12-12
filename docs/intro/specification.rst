@@ -43,7 +43,7 @@ Abb.: OBP-Plotter Basisgerät Innenansicht
 .. image:: ../pics/OBP_Plotter_Inside_Named_t.png
    :scale: 45%
 
-Abb.: OBP-Plotter Basisgerät Hauptplatine
+Abb.: OBP-Plotter Basisgerät Hauptplatine, CM5-Modul Unterseite
 
 Spezifikation
 -------------
@@ -134,6 +134,8 @@ Nutzbare Telegramme
 Vorinstallierte Apps
 --------------------
 
+Der OBP-Plotter ist so vorkonfiguriert, dass die Navigationslösung AVnav, das AVnav O-Charts Plugin, der AIS Catcher sowie das NMEA Dashboard aufeinander abgestimmt sind und funktionieren. Die Online- und Offline-Karten sind in AVnav bereits integriert. Der VNC- und SSH-Server sind standardmäßig aktiviert. 
+
 **System**
 	* Aptoide (Alternativer App Store)
 	* Device Info (System Infobar)
@@ -151,6 +153,7 @@ Vorinstallierte Apps
 **Navigation**
 	* AIS Catcher (AIS Empfänger via USB RTL-SDR Stick)
 	* AVnav (Webbasierte Open Source Navigation)
+	* AVnav O-Charts Plugin (für kommerzielle Seekarten)
 	* Boating App (Navigation)
 	* C-Maps (Navigation)
 	* Grib (Wetterdaten)

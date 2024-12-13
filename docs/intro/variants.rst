@@ -25,13 +25,19 @@ Hardware
 --------
 
 **Gehäuseschalen**
+	.. image:: /pics/OBP_Plotter_Case_t.png
+             :scale: 10%
+			 
 	Die Gehäuseschalen sind bearbeitet und verfügen über die nötigen Ausbrüche im Gehäuse. Eine Gehäusedichtung und die notwendigen Schrauben gehören ebenfalls dazu.
 
 **Mainboard**
+	.. image:: /pics/OBP_Plotter_PCB_Side_View_t.png
+             :scale: 10%
+			 
 	Auf dem Mainboard sind alle funktionswichtigen Hardwarekomponenten vereinigt. Mit nur wenigen Kabelverbindungen und einem zusätzlichen Raspberry Pi CM5 Modul kann ein lauffähiges System bereit gestellt werden. Das Mainboard ist an das Gehäuse angepasst und wird an vier Domen im Gehäuse mit Schrauben befestigt. Das Mainboard lässt sich auch in anderen Gehäusen verwenden. Das Raspberry Pi CM5 Modul ist nicht Bestandteil des Mainboards.
 	
 **HDMI-Controller**
-	Der HDMI-Controller ist ein Zusatzbord, das verwendet wird, wenn keine Mainbord eingesetzt wird und das Plottergehäuse mit integriertem Display als Monitor verwendet wird. Der Controller verfügt über einen Anschluss für den Streifenleiter zum Display. Über einne Keyboard-Platine lassen sich die Grundeinstellungen, wie Auflösung, Helligkeit, Kontrast und Farbe des HDMI-Controllers vornehmen, wie man es von einem Monitor gewohnt ist. Der HDMI-Controller dient nur zur Bildübertragung. Die Touchfunktion des Displays wird nicht unterstützt.
+	Der HDMI-Controller ist ein Zusatzbord, das verwendet wird, wenn keine Mainbord eingesetzt wird und das Plottergehäuse mit integriertem Display als Monitor verwendet werden soll. Der Controller verfügt über einen Anschluss für den Streifenleiter zum Display. Über einne Keyboard-Platine lassen sich die Grundeinstellungen, wie Auflösung, Helligkeit, Kontrast und Farbe des HDMI-Controllers vornehmen, wie man es von einem Monitor gewohnt ist. Der HDMI-Controller dient nur zur Bildübertragung. Die Touchfunktion des Displays und der IR-Fernbedinung werden nicht unterstützt.
 
 	* HDMI-Controller-Platine für 10" TFT-Display
 	* Auflösung: VGA, SVGA, HD, 2K, 4K
@@ -44,6 +50,9 @@ Hardware
 	
 
 **Compute Modul CM5** (Standard)
+	.. image:: /pics/RPI-CM4_t.png
+             :scale: 10%
+			 
 	Das Raspberry Pi Compute Modul CM5 ist die zentrale Recheneinheit des OBP-Plotters. Es ist das derzeit leistungsfähigste Modul der Raspberry Fondation. Als Standard-Modul wird eine Modul mit folgenden Komponeneten eingesetzt:
 	
 	* CPU: BCM2712, Quad Core, 64 Bit
@@ -54,6 +63,9 @@ Hardware
 	* Angepasster Bootloader für SSD NVMe
 	
 **Compute Modul CM5 Extended**
+	.. image:: /pics/RPI-CM4_t.png
+             :scale: 10%
+			 
 	Das Compute Modul CM5 Extended verfügt über mehr RAM und über einen eMMC Flash-Speicher. Alle weiteren Daten sind identisch zum Standard-Modul. Der Bootloader wurde an die Verwendung einer SSD NVMe angepasst. Die Bootreihenfolge wurde verändert, so dass automatisch zwischen dem Betriebssystem der SSD und des eMMC umgeschaltet wird. Beim Fehlen einer SSD wird das Betriebssystem des eMMC verwendet.
 	
 	* CPU: BCM2712, Quad Core, 64 Bit
@@ -64,6 +76,9 @@ Hardware
 	* Angepasster Bootloader für SSD NVMe und Bootreihenfolge 
 
 **Compute Modul CM4** (getestet)
+	.. image:: /pics/RPI-CM4_t.png
+             :scale: 10%
+			 
 	Das Raspberry Pi Compute Modul CM4 kann als alternative Recheneinheit des OBP-Plotters verwendet werden. Das Modul hat folgende Komponeneten:
 	
 	* CPU: BCM2711, Quad Core, 64 Bit
@@ -74,19 +89,29 @@ Hardware
 	* Angepasster Bootloader für SSD NVMe
 
 **SSD NVMe 1 TB**
+	.. image:: /pics/SSD_M.2_2242_t.png
+             :scale: 10%
+			 
 	Die SSD NVMe 1 TB ist mit Android 15 vorinstalliert und verfügt über deutlich mehr Speicher als die Standard-SSD mit 512 GB.
 
 **NMEA2000-Erweiterung**
+	.. image:: /pics/Sensor_PCB_t.png
+             :scale: 10%
+	
 	Die NMEA2000-Erweiterung dient zur Bereitstellung der NMEA2000-Funktionalität. Sie wird als kleine Zusatzplatine im Mainbord aufgesteckt. Der NMEA2000-Bus wird über Kabelverbindungen mit einer M12 Einbaubuchse verbunden. Zusätzlich gibt es Anschlüsse für I2C- und 1Wire-Sensorik. Das Erweiterungsmodul enthält folgende Komponenten:
 	
 	* ESP32-S3
 	* NMEA2000-Gateway-Firmware
 	* NMEA2000-Port
 	* NMEA0183-Port
+	* Unterstützung von I2C- und 1Wire-Sensorik
 	* M12-Buche mit Verbindungskabel
 	* 2 Befestigungsschrauben
 
 **U-Mount**
+	.. image:: /pics/U-Mount_t.png
+             :scale: 10%
+			 
 	Der U-Mount ist ein Befestigungsbügel für den OBP-Plotter. Der Plotter lässt sich einhängen und mit zwei Knäufen arretieren. Der Betrachtungswinkel kann vertikal eingestellt werden. Der Befestigungsbügel ist aus mattem Edelstahl hergestellt. Der Befestigungsbügel kann an horizontalen oder vertikalen Flächen angebracht werden. Eine Deckenmontage ist ebenfalls möglich. Das Kit besteht aus:
 	
 	* 1x Befestigungsbügel
@@ -97,6 +122,9 @@ Hardware
 	* 1x Bohrschablone
 
 **RAM-Mount**
+	.. image:: /pics/RAM-Mount_t.png
+             :scale: 10%
+			 
 	Der RAM-Mount ist eine universelle Befestigungsmöglichkeit für den OBP-Plotter. DDer RAM-Mount besteht aus einem witterungsbeständigen Kunststoff und wird über die VESA-Halterung mit der Rückseite des OBP-Plotters verbunden. Über zwei Kugelgelenke lässt sich der Plotter beliebig im Hoch- oder Querformat in beliebigen Winkeln positionieren. Mit einer zentralen Klemmschraube lässt sioch die Position fixieren. Das Kit besteht aus:
 	
 	* RAM-Mount mit 2 Kugelplatten und 2 Verbindungsstegen
@@ -105,6 +133,9 @@ Hardware
 	* 4x Befestigungschrauben für Untergrund
 
 **IR-Fernbedienung**
+	.. image:: /pics/RAM-Mount_t.png
+             :scale: 10%
+			 
 	Mit der leistungsstarken IR-Fernbedienung kann der OBP-Plotter auch unter Sonnenlicht über eine Entfernung mit bis zu 8 m bedient werden. Über 15 Tasten lassen sich die wichtigsten Funktionen des Plotters erreichen. Die Fernbedienung ist an AVnav angepasst und besteht aus einem spritzwassergeschützen Kunststoffgehäuse mit Folientastatur. Eine Kordel als universelle Befestigungsmöglichkeit gehört zum Lieferumfang. Mit einer CR2032 Batterie ist die Fernbedienung über mehrere Jahre einsatzbereit.
 	
 	* Gehäuse: ABS, spritzwassergeschützt

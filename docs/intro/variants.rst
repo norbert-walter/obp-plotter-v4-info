@@ -17,6 +17,9 @@ Software
 	Das Open Plotter Image ist aktuell in Vorbereitung. Open Plotter benutzt einen gewöhnlichen Linux-Desktop als Bedienoberfläche. Die Bedienung erfolgt haupsächlich über Tastatur und Maus. Einige Programme sind auch über ein Webinterface bedienbar wie z.B. SignalK. Open Plotter unterstützt AVnav und OpenCPN als Plugin.
 
 **O-Charts Seekarten**
+	.. image:: /pics/AVnav_Chart.webp
+             :scale: 10%
+			 
 	O-Charts Seekarten sind kommerzielle Seekarten, die in AVnav oder OpenCPN verwendet werden können. Die oeSENC Vektorkarten sind recht preisgünstig und decken die wichtigsten Seegebiete für Wassersportler ab. Sie können online über den `Store von O-Charts`_ bezogen werden. Die Seekarten werden über einen Software-Token geschützt, der Ihnen nach dem Kauf per Mail übergeben wird. Die Karte kann auf einem Gerät benutzt werden. Nach Ablauf der Gültigkeit ist die Seekarte weiterhin nutzbar, jedoch nicht mehr aktualisierbar. Der Token kann auch auf einen USB-Dongle übertragen werden. So lassen sich die Seekarten auf mehreren Geräten nutzen, wenn der USB-Dongle im jeweiligen Gerät benutzt wird.
 	
 .. _Store von O-Charts: https://o-charts.org/shop/de/8-oesenc
@@ -31,7 +34,7 @@ Hardware
 	Die Gehäuseschalen sind bearbeitet und verfügen über die nötigen Ausbrüche im Gehäuse. Eine Gehäusedichtung und die notwendigen Schrauben gehören ebenfalls dazu.
 
 **Mainboard**
-	.. image:: /pics/OBP_Plotter_PCB_Side_View_t.png
+	.. image:: /pics/CM5_mainpcb_topiso_T.png
              :scale: 10%
 			 
 	Auf dem Mainboard sind alle funktionswichtigen Hardwarekomponenten vereinigt. Mit nur wenigen Kabelverbindungen und einem zusätzlichen Raspberry Pi CM5 Modul kann ein lauffähiges System bereit gestellt werden. Das Mainboard ist an das Gehäuse angepasst und wird an vier Domen im Gehäuse mit Schrauben befestigt. Das Mainboard lässt sich auch in anderen Gehäusen verwenden. Das Raspberry Pi CM5 Modul ist nicht Bestandteil des Mainboards.
@@ -89,7 +92,7 @@ Hardware
 	* Angepasster Bootloader für SSD NVMe
 
 **SSD NVMe 1 TB**
-	.. image:: /pics/SSD_M.2_2242_t.png
+	.. image:: /pics/SSD_M.2_2242_512GB_t.png
              :scale: 10%
 			 
 	Die SSD NVMe 1 TB ist mit Android 15 vorinstalliert und verfügt über deutlich mehr Speicher als die Standard-SSD mit 512 GB.

@@ -133,7 +133,7 @@ Hardware
 	* 4x Befestigungschrauben für Untergrund
 
 **IR-Fernbedienung**
-	.. image:: /pics/RAM-Mount_t.png
+	.. image:: /pics/IR_Remote_Control_t.png
              :scale: 10%
 			 
 	Mit der leistungsstarken IR-Fernbedienung kann der OBP-Plotter auch unter Sonnenlicht über eine Entfernung mit bis zu 8 m bedient werden. Über 15 Tasten lassen sich die wichtigsten Funktionen des Plotters erreichen. Die Fernbedienung ist an AVnav angepasst und besteht aus einem spritzwassergeschützen Kunststoffgehäuse mit Folientastatur. Eine Kordel als universelle Befestigungsmöglichkeit gehört zum Lieferumfang. Mit einer CR2032 Batterie ist die Fernbedienung über mehrere Jahre einsatzbereit.

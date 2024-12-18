@@ -20,7 +20,7 @@ Software
 	.. image:: /pics/AVnav_Chart.webp
              :scale: 10%
 			 
-	O-Charts Seekarten sind kommerzielle Seekarten, die in AVnav oder OpenCPN verwendet werden können. Die oeSENC Vektorkarten sind recht preisgünstig und decken die wichtigsten Seegebiete für Wassersportler ab. Sie können online über den `Store von O-Charts`_ bezogen werden. Die Seekarten werden über einen Software-Token geschützt, der Ihnen nach dem Kauf per Mail übergeben wird. Die Karte kann auf einem Gerät benutzt werden. Nach Ablauf der Gültigkeit ist die Seekarte weiterhin nutzbar, jedoch nicht mehr aktualisierbar. Der Token kann auch auf einen USB-Dongle übertragen werden. So lassen sich die Seekarten auf mehreren Geräten nutzen, wenn der USB-Dongle im jeweiligen Gerät benutzt wird.
+	O-Charts Seekarten sind kommerzielle Seekarten, die in AVnav oder OpenCPN verwendet werden können. Die oeSENC Vektorkarten sind recht preisgünstig und decken die wichtigsten Seegebiete für Wassersportler ab. Sie können online über den `Store von O-Charts`_ bezogen werden. Die Seekarten werden über einen Software-Token geschützt, der Ihnen nach dem Kauf per Mail übergeben wird. Die Karte kann auf einem Gerät benutzt werden. Nach Ablauf der Gültigkeit ist die Seekarte weiterhin nutzbar, jedoch nicht mehr aktualisierbar. Der Token kann nicht auf einen USB-Dongle übertragen werden. Bereits gekaufte Seekarten, die einem USB-Dongle sind können nicht unter Android genutzt werden.
 	
 .. _Store von O-Charts: https://o-charts.org/shop/de/8-oesenc
 

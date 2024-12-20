@@ -30,7 +30,7 @@ Die Hardware ist speziell für den anspruchsvollen Einsatz konzipiert und bietet
 		* 512 GB SSD
 		* WiFi (2.5 GHz & 5 GHz), Bluetooth 5.0
 		* GPS- und AIS-Empfänger
-	* NMEA2000-Gateway
+	* NMEA2000-Gateway (optional)
 	* Unterstützung für Linux, Android und Windows
 	* Offene Schnittstellen für individuelle Erweiterungen
 
@@ -56,7 +56,7 @@ Der OBP-Plotter V4 basiert im Gegensatz zu kommerziellen Produkten auf einem fle
 
 **Einsatzmöglichkeiten und Erweiterungen**
 
-Unser Ziel ist es, Interessierten eine verlässliche und geprüfte Hardwareplattform zu bieten, auf der sie ihre Kreativität entfalten können – sei es durch Softwareentwicklung oder Hardwareerweiterungen. Neben der Hardware stellen wir für Einsteiger auch ein Betriebssystem auf Basis von Android 15 bereit, das für den Marineeinsatz vorkonfiguriert ist. Später wird auch Linux als Option folgen. Durch die Offenheit des Systems können sowohl kommerzielle Apps wie Navionics als auch individuelle Anwendungen genutzt werden.
+Unser Ziel ist es, Interessierten eine verlässliche und geprüfte Hardwareplattform zu bieten, auf der sie ihre Kreativität entfalten können – sei es durch Softwareentwicklung oder Hardwareerweiterungen. Neben der Hardware stellen wir für Einsteiger auch ein Betriebssystem auf Basis von Android 15 bereit, das für den Marineeinsatz vorkonfiguriert ist. Später wird auch Linux folgen. Durch die Offenheit des Systems können sowohl kommerzielle Apps wie z.B. Navionics als auch individuelle Anwendungen genutzt werden.
 
 **Vorteile der offenen Plattform**
 
@@ -73,6 +73,7 @@ Der OBP-Plotter V4 ist von Wassersportlern für Wassersportler entwickelt worden
    Übersicht <intro/historie>
    Technische Daten <intro/specification>
    Erweiterungen <intro/variants>
+   Einsatzmöglichkeiten <intro/usecase>
     
 .. toctree::
    :maxdepth: 3

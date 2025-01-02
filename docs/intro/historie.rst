@@ -39,7 +39,7 @@ Abb.: Blockschaltbild Hauptplatine
 	* Geeignet für CM4, CM5 von Banana Pi (ungetestet)
 
 **Compute Modul CM5**
-	.. image:: /pics/RPI-CM5_t.png
+	.. image:: /pics/RPI_CM5_t.png
              :scale: 10%
 
 	* Quade-Core CPU Broadcom BCM2712

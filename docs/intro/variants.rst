@@ -53,7 +53,7 @@ Hardware
 	
 
 **Compute Modul CM5** (Standard)
-	.. image:: /picsRPI_CM5_t.png
+	.. image:: /pics/RPI_CM5_t.png
              :scale: 10%
 			 
 	Das Raspberry Pi Compute Modul CM5 ist die zentrale Recheneinheit des OBP-Plotters. Es ist das derzeit leistungsfähigste Modul der Raspberry Fondation. Als Standard-Modul wird eine Modul mit folgenden Komponeneten eingesetzt:

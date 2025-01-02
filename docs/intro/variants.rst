@@ -53,7 +53,7 @@ Hardware
 	
 
 **Compute Modul CM5** (Standard)
-	.. image:: /pics/RPI-CM4_t.png
+	.. image:: /picsRPI_CM5_t.png
              :scale: 10%
 			 
 	Das Raspberry Pi Compute Modul CM5 ist die zentrale Recheneinheit des OBP-Plotters. Es ist das derzeit leistungsfähigste Modul der Raspberry Fondation. Als Standard-Modul wird eine Modul mit folgenden Komponeneten eingesetzt:
@@ -66,7 +66,7 @@ Hardware
 	* Angepasster Bootloader für SSD NVMe
 	
 **Compute Modul CM5 Extended**
-	.. image:: /pics/RPI-CM4_t.png
+	.. image:: /pics/RPI_CM5_t.png
              :scale: 10%
 			 
 	Das Compute Modul CM5 Extended verfügt über mehr RAM und über einen eMMC Flash-Speicher. Alle weiteren Daten sind identisch zum Standard-Modul. Der Bootloader wurde an die Verwendung einer SSD NVMe angepasst. Die Bootreihenfolge wurde verändert, so dass automatisch zwischen dem Betriebssystem der SSD und des eMMC umgeschaltet wird. Beim Fehlen einer SSD wird das Betriebssystem des eMMC verwendet.

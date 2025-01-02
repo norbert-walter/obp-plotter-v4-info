@@ -97,7 +97,7 @@ Hardware
 			 
 	Die SSD NVMe 1 TB ist mit Android 15 vorinstalliert und verfügt über deutlich mehr Speicher als die Standard-SSD mit 512 GB.
 
-**NMEA2000-Erweiterung**
+**NMEA2000-Erweiterung (demnächst)**
 	.. image:: /pics/Sensor_PCB_t.png
              :scale: 10%
 	

@@ -47,7 +47,7 @@ Hardware
 	
 **HDMI-Controller**
 	.. image:: /pics/HDMI_Controller_t.png
-             :scale: 10%
+             :scale: 15%
 	Der HDMI-Controller ist ein Zusatzbord, das verwendet wird, wenn keine Mainbord eingesetzt wird und das Plottergehäuse mit integriertem Display als Monitor verwendet werden soll. Der Controller verfügt über einen Anschluss für den Streifenleiter zum Display. Über einne Keyboard-Platine lassen sich die Grundeinstellungen, wie Auflösung, Helligkeit, Kontrast und Farbe des HDMI-Controllers vornehmen, wie man es von einem Monitor gewohnt ist. Der HDMI-Controller dient nur zur Bildübertragung. Die Touchfunktion des Displays und der IR-Fernbedinung werden nicht unterstützt.
 
 	* HDMI-Controller-Platine für 10" TFT-Display

@@ -25,7 +25,7 @@ Software
 .. _Store von O-Charts: https://o-charts.org/shop/de/8-oesenc
 
 Hardware
---------
+---------
 
 **Gehäuseschalen**
 	.. image:: /pics/OBP_Plotter_Case_t.png

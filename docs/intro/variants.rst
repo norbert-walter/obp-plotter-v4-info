@@ -25,7 +25,7 @@ Software
 .. _Store von O-Charts: https://o-charts.org/shop/de/8-oesenc
 
 Hardware
----------
+--------
 
 **Gehäuseschalen**
 	.. image:: /pics/OBP_Plotter_Case_t.png
@@ -35,7 +35,7 @@ Hardware
 	
 **Tragekoffer**
 	.. image:: /pics/Transport_Case_t.png
-             :scale: 10%
+             :scale: 20%
 			 
 	In dem Kunststoff-Tragekoffer kann der OBP-Plotter sicher aufbewahrt werden, wenn er nicht auf dem Boot benutzt wird. 
 

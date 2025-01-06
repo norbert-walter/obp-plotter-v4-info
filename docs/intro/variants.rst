@@ -32,6 +32,12 @@ Hardware
              :scale: 10%
 			 
 	Die Gehäuseschalen sind bearbeitet und verfügen über die nötigen Ausbrüche im Gehäuse. Eine Gehäusedichtung und die notwendigen Schrauben gehören ebenfalls dazu.
+	
+**Tragekoffer**
+	.. image:: /pics/Transport_Case_t.png
+             :scale: 10%
+			 
+	In dem Kunststoff-Tragekoffer kann der OBP-Plotter sicher aufbewahrt werden, wenn er nicht auf dem Boot benutzt wird. 
 
 **Mainboard**
 	.. image:: /pics/CM5_mainpcb_topiso_T.png
@@ -40,6 +46,8 @@ Hardware
 	Auf dem Mainboard sind alle funktionswichtigen Hardwarekomponenten vereinigt. Mit nur wenigen Kabelverbindungen und einem zusätzlichen Raspberry Pi CM5 Modul kann ein lauffähiges System bereit gestellt werden. Das Mainboard ist an das Gehäuse angepasst und wird an vier Domen im Gehäuse mit Schrauben befestigt. Das Mainboard lässt sich auch in anderen Gehäusen verwenden. Das Raspberry Pi CM5 Modul ist nicht Bestandteil des Mainboards.
 	
 **HDMI-Controller**
+	.. image:: /pics/HDMI_Controller_t.png
+             :scale: 10%
 	Der HDMI-Controller ist ein Zusatzbord, das verwendet wird, wenn keine Mainbord eingesetzt wird und das Plottergehäuse mit integriertem Display als Monitor verwendet werden soll. Der Controller verfügt über einen Anschluss für den Streifenleiter zum Display. Über einne Keyboard-Platine lassen sich die Grundeinstellungen, wie Auflösung, Helligkeit, Kontrast und Farbe des HDMI-Controllers vornehmen, wie man es von einem Monitor gewohnt ist. Der HDMI-Controller dient nur zur Bildübertragung. Die Touchfunktion des Displays und der IR-Fernbedinung werden nicht unterstützt.
 
 	* HDMI-Controller-Platine für 10" TFT-Display
@@ -49,6 +57,8 @@ Hardware
 	* Stromversorgung: 12V 1.5A, Hohlklinkenstecker
 
 **HDMI-Connector-Board**
+	.. image:: /pics/HDMI_Connection_Board_t.png
+             :scale: 10%
 	Das HDMI-Connector-Board wird anstelle des Compute Moduls im Mainboard eingesteckt. Dadurch kann die Plotter-Hardware wie in normaler Monitor benutzt werden. Zusätzlich können über USB unabhängig vom verwendeten Betriebssystem die Touchfunktion des 10" TFT-Displays und die Funktionen der IR-Fernbedienung genutzt werden. Der so entstandene Monitor lässt sich unter Linux, Mac OS und Windows nutzen.
 	
 
@@ -98,7 +108,7 @@ Hardware
 	Die SSD NVMe 1 TB ist mit Android 15 vorinstalliert und verfügt über deutlich mehr Speicher als die Standard-SSD mit 512 GB.
 
 **NMEA2000-Erweiterung (demnächst)**
-	.. image:: /pics/Sensor_PCB_t.png
+	.. image:: /pics/Extension_PCB_t.png
              :scale: 10%
 	
 	Die NMEA2000-Erweiterung dient zur Bereitstellung der NMEA2000-Funktionalität. Sie wird als kleine Zusatzplatine im Mainbord aufgesteckt. Der NMEA2000-Bus wird über Kabelverbindungen mit einer M12 Einbaubuchse verbunden. Zusätzlich gibt es Anschlüsse für I2C- und 1Wire-Sensorik. Das Erweiterungsmodul enthält folgende Komponenten:

@@ -59,7 +59,7 @@ Hardware
 **HDMI-Connector-Board**
 	.. image:: /pics/HDMI_Connection_Board_t.png
              :scale: 10%
-	Das HDMI-Connector-Board wird anstelle des Compute Moduls im Mainboard eingesteckt. Dadurch kann die Plotter-Hardware wie in normaler Monitor benutzt werden. Zusätzlich können über USB unabhängig vom verwendeten Betriebssystem die Touchfunktion des 10" TFT-Displays und die Funktionen der IR-Fernbedienung genutzt werden. Der so entstandene Monitor lässt sich unter Linux, Mac OS und Windows nutzen.
+	Das HDMI-Connector-Board wird anstelle des Compute Moduls im Mainboard eingesteckt. Dadurch kann die Plotter-Hardware wie ein normaler Monitor benutzt werden. Zusätzlich können über USB unabhängig vom verwendeten Betriebssystem die Touchfunktion des 10" TFT-Displays und die Funktionen der IR-Fernbedienung genutzt werden. Der so entstandene Monitor lässt sich unter Linux, Mac OS und Windows nutzen.
 	
 
 **Compute Modul CM5** (Standard)

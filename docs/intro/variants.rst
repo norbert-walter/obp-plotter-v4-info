@@ -30,6 +30,9 @@ Software
 Hardware
 --------
 
+.. hint::
+	Aktuell arbeiten wir daran, Erweiterungen anzubieten. Nicht alle Erweiterungen werden sofort verfügbar sein. Wir bitten um etwas Geduld.
+
 **Gehäuseschalen**
 	.. image:: /pics/OBP_Plotter_Case_t.png
              :scale: 10%

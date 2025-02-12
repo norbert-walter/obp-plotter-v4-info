@@ -11,7 +11,7 @@ Software
 	Android 14 AOSP kann als alternatives Betriebssystem genutzt werden. Es ist in gleicher Weise konfiguriert wie Android 15.
 
 **Raspbian mit AVnav** (in Vorbereitung)
-	Das AVnav Rasbian Image ist aktuell in Vorbereitung. Es stellt Raspian als Linux-Betriebssystem in der Version xxx bereit. AVnav und SignalK und einige andere wichtige Komponenten sind vorinstalliert. Das System ist headless und benutzt keine Tastatur oder Maus. Die Bedienung erfolgt ausschließlich über die Weboberfläche per Touch.
+	Das AVnav Rasbian Image ist aktuell in Vorbereitung. Es stellt Raspian als Linux-Betriebssystem in der Version 12 (Bookworm) bereit. AVnav und SignalK und einige andere wichtige Komponenten sind vorinstalliert. Das System ist headless und benutzt keine Tastatur oder Maus. Die Bedienung erfolgt ausschließlich über die Weboberfläche per Touch.
 
 **Raspbian mit Open Plotter** (in Vorbereitung)
 	Das Open Plotter Image ist aktuell in Vorbereitung. Open Plotter benutzt einen gewöhnlichen Linux-Desktop als Bedienoberfläche. Die Bedienung erfolgt haupsächlich über Tastatur und Maus. Einige Programme sind auch über ein Webinterface bedienbar wie z.B. SignalK. Open Plotter unterstützt AVnav und OpenCPN als Plugin.
@@ -20,7 +20,10 @@ Software
 	.. image:: /pics/AVnav_Chart.webp
              :scale: 10%
 			 
-	O-Charts Seekarten sind kommerzielle Seekarten, die in AVnav oder OpenCPN verwendet werden können. Die oeSENC Vektorkarten sind recht preisgünstig und decken die wichtigsten Seegebiete für Wassersportler ab. Sie können online über den `Store von O-Charts`_ bezogen werden. Die Seekarten werden über einen Software-Token geschützt, der Ihnen nach dem Kauf per Mail übergeben wird. Die Karte kann auf einem Gerät benutzt werden. Nach Ablauf der Gültigkeit ist die Seekarte weiterhin nutzbar, jedoch nicht mehr aktualisierbar. Der Token kann nicht auf einen USB-Dongle übertragen werden. Bereits gekaufte Seekarten, die einem USB-Dongle sind können nicht unter Android genutzt werden.
+	O-Charts Seekarten sind kommerzielle Seekarten, die in AVnav oder OpenCPN verwendet werden können. Die oeSENC Vektorkarten sind recht preisgünstig und decken die wichtigsten Seegebiete für Wassersportler ab. Sie können online über den `Store von O-Charts`_ bezogen werden. Die Seekarten werden über einen Software-Token geschützt, der Ihnen nach dem Kauf per Mail übergeben wird. Die Karte kann auf einem Gerät benutzt werden. Nach Ablauf der Gültigkeit ist die Seekarte weiterhin nutzbar, jedoch nicht mehr aktualisierbar.
+	
+.. note::	
+	Der Token kann nicht auf einen USB-Dongle übertragen werden. Bereits gekaufte Seekarten, die einem USB-Dongle zugeordnet sind, können nicht unter Android genutzt werden, da USB-Dongles vom Betriebssystem nicht erkannt werden.
 	
 .. _Store von O-Charts: https://o-charts.org/shop/de/8-oesenc
 

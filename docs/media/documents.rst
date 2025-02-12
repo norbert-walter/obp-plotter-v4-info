@@ -27,7 +27,7 @@ Hauptvorteile:
 
     * **Nachhaltigkeit:** Einbindung älterer Systeme, dauerhafte Updatefähigkeit
     * **Offenheit:** Bereitstellung von CAD-Daten, Quellcodes und Dokumentationen für individuelle Anpassungen
-    * **Erweiterbarkeit:** Universelle Schnittstellen erlauben Anpassungen für Marine- und Nicht-Marine-Anwendungen
+    * **Erweiterbarkeit:** Universelle Schnittstellen erlauben Anpassungen für Marineanwendungen
 	* **Multifunktional:** Neben Navigationsanwendungen könenn alle Arten von Apps auf der Hardwareplatform verwendet werden
     * **Community:** Entwickelt von Wassersportlern, inspiriert durch Open-Source-Prinzipien
 

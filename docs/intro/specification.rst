@@ -63,7 +63,7 @@ Spezifikation
 +----------------------+-----------------------------+
 | Freier User-Bereich  | 500 GB, erweiterbar bis 2 TB|
 +----------------------+-----------------------------+
-| Flash-Format         | m.2, 2230, 2242             |
+| Flash-Format         | NVMe, m.2, 2230, 2242       |
 +----------------------+-----------------------------+
 | Displaygröße         | 1250 x 800 pix, 60 Hz       |
 +----------------------+-----------------------------+
@@ -176,7 +176,6 @@ Der OBP-Plotter ist so vorkonfiguriert, dass die Navigationslösung AVnav, das A
 	* Firefox (Webbrowser)
 	* Internetradio
 	* Lautsärkeregler
-	* Netflix
 	* Prime Video
 	* RTL-SDR Driver (für SDR-Empfang)
 	* FM-Radio (RTL-SDR basiert)

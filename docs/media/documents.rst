@@ -58,6 +58,9 @@ Urheberrechte
 
 Der OBP-Plotter unterliegt den Open-Source-Prinzipien. Folgende Urheberrechte sind an das System gebunden:
 
-	* **Cative Common Lizenz (CC) BY BC SA 4.0** (Dokumentation, Hardware)
-	* **Apache-Lizenz Version 2.0** (Android 15, NMEA2000-Gateway-Firmware)
-	* **Propritäre Lizenzen** (Apps, siehe individuelle Lizenzvereinbarungen)
+	* **`Common Creative Lizenz (CC) BY BC SA 4.0`_** (Dokumentation, Bilder, Hardware)
+	* **`Apache-Lizenz Version 2.0`_** (Android 15, NMEA2000-Gateway-Firmware)
+	* **Propritäre Lizenzen** (Apps aus Google PlayStore, siehe individuelle Lizenzvereinbarungen)
+	
+.. _Common Creative Lizenz (CC) BY BC SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.de
+.. _Apache-Lizenz Version 2.0: http://www.apache.org/licenses/LICENSE-2.0

@@ -43,8 +43,10 @@ Pressebilder
 Zulassungen
 -----------
 
-	* **CE** (in Vorbereitung)
-	* **FCC** (in Vorbereitung)
+	* `CE [PDF] <../_static/files/rpi-5-EU_Declaration-of-Conformity-DoC.pdf>`_
+	* `FCC [PDF] <../_static/files/rpi-5-United-States-of-America-USA-FCC.pdf>`_
+	* `Safety [PDF] <../_static/files/rpi-5-Electrical-Safety-Certification-Body-CB-Certificate.pdf>`_
+	* `RoHS [PDF] <../_static/files/rpi-5-United-Arab-Emirates-UAE-RoHS.pdf>`_
 
 Pressekontakte
 --------------

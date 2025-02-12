@@ -231,8 +231,8 @@ Vorinstallierte Seekarten
 **Offline**
 	* Open Sea Map (Europa, ohne Tiefenangaben)
 	
-Nutzbare I2C-Sensorik
----------------------
+Integrierte Sensorik
+--------------------
 
 **Umgebungssensoren**
 	* Bewegung

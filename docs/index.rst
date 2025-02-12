@@ -73,7 +73,7 @@ Der OBP-Plotter V4 ist von Wassersportlern für Wassersportler entwickelt worden
    Übersicht <intro/historie>
    Technische Daten <intro/specification>
    Erweiterungen <intro/variants>
-   Einsatzmöglichkeiten <intro/usecase>
+   Einsatzmöglichkeiten <intro/usecases>
     
 .. toctree::
    :maxdepth: 3

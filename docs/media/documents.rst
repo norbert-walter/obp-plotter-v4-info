@@ -25,13 +25,13 @@ Der OBP-Plotter V4 von Open Boat Projects ist eine offene, multifunktionale Navi
 
 Hauptvorteile:
 
-    Nachhaltigkeit: Einbindung älterer Systeme, dauerhafte Updatefähigkeit.
-    Offenheit: Bereitstellung von CAD-Daten, Quellcodes und Dokumentationen für individuelle Anpassungen.
-    Erweiterbarkeit: Universelle Schnittstellen erlauben Anpassungen für Marine- und Nicht-Marine-Anwendungen.
-	Multifunktional: Neben Navigationsanwendungen könenn alle Arten von Apps auf der Hardwareplatform verwendet werden.
-    Community-getrieben: Entwickelt mit und für Wassersportler, inspiriert durch Open-Source-Prinzipien.
+    * **Nachhaltigkeit:** Einbindung älterer Systeme, dauerhafte Updatefähigkeit
+    * **Offenheit:** Bereitstellung von CAD-Daten, Quellcodes und Dokumentationen für individuelle Anpassungen
+    * **Erweiterbarkeit:** Universelle Schnittstellen erlauben Anpassungen für Marine- und Nicht-Marine-Anwendungen
+	* **Multifunktional:** Neben Navigationsanwendungen könenn alle Arten von Apps auf der Hardwareplatform verwendet werden
+    * **Community:** Entwickelt von Wassersportlern, inspiriert durch Open-Source-Prinzipien
 
-Die Plattform fördert kosteneffiziente DIY-Lösungen und vermeidet Abhängigkeiten von Herstellern, was sie besonders zukunftssicher macht.
+Die Plattform ermöglicht eigene DIY-Lösungen und vermeidet Abhängigkeiten von Herstellern, was sie besonders zukunftssicher macht.
 
 **Text 4**
 
@@ -43,9 +43,21 @@ Pressebilder
 Zulassungen
 -----------
 
+	* **CE** (in Vorbereitung)
+	* **FCC** (in Vorbereitung)
+
 Pressekontakte
 --------------
+
+Für Pressekontakte benutzen Sie bitte das `Kontaktformular`_.
+
+.. _Kontaktformular: https://open-boat-projects.org/de/kontakt/
 
 Urheberrechte
 -------------
 
+Der OBP-Plotter unterliegt den Open-Source-Prinzipien. Folgende Urheberrechte sind an das System gebunden:
+
+	* **Cative Common Lizenz (CC) BY BC SA 4.0** (Dokumentation, Hardware)
+	* **Apache-Lizenz Version 2.0** (Android 15, NMEA2000-Gateway-Firmware)
+	* **Propritäre Lizenzen** (Apps, siehe individuelle Lizenzvereinbarungen)

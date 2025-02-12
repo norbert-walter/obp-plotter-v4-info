@@ -17,7 +17,7 @@ Bei der WiFi-Variante werden alle externen Informationen über WiFi dem OBP-Plot
 Variante Bussystem
 ------------------
 
-Als weitere Variante besteht die Möglichkeit, den OBP-Plotter auch direkt mit den Bussystemen an Bord zu verbinden. Dazu benötigt man eine Zusatzplatine die in den Erweiterungsport im Plotter installiert wird. Folgende Funktionen lassen sich über die Zusatzplatine nutzen:
+Als weitere Variante besteht die Möglichkeit, den OBP-Plotter auch direkt mit den Bussystemen an Bord zu verbinden. Dazu benötigt man eine Zusatzplatine die in den Erweiterungsport im Plotter installiert wird. Die Zusatzplatine enthällt einen ESP32-S3 mit ähnlicher Funktionalität wie ein M5Stack ATOM. Folgende Funktionen lassen sich über die Zusatzplatine nutzen:
 
 	* GPS-Empfänger (GPS, Glonas, Beidu, Galileo)
 	* 1x NMEA200-Port (isoliert)
@@ -25,6 +25,8 @@ Als weitere Variante besteht die Möglichkeit, den OBP-Plotter auch direkt mit d
 	* 1x I2C-Port (isoliert)
 	* 11x Wire-Port
 	* NMEA2000-Gateway
+	* Firmware-Update des Gateways über USB
+	* Parametrierung des Gateways webbasiert
 
 Neben den Daten aus den Bussystemen lassen sich auch Daten über WiFi in den Plotter einbinden, wie z.B. von einem Windsensor Yachta.
 

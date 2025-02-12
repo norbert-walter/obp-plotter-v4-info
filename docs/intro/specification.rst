@@ -1,7 +1,7 @@
 Technische Daten
 ================
 
-.. image:: /pics/OBP_Plotter_Front_View_t.png
+.. image:: /pics/OBP_Plotter_Front_View_t2.png
 	:scale: 50%
 	
 Abb.: OBP-Plotter Basisgerät
@@ -156,6 +156,7 @@ Der OBP-Plotter ist so vorkonfiguriert, dass die Navigationslösung AVnav, das A
 	* AVnav O-Charts Plugin (für kommerzielle Seekarten)
 	* Boating App (Navigation)
 	* C-Maps (Navigation)
+	* GPS Connector (Einbindung GPS-Daten)
 	* Grib (Wetterdaten)
 	* Maps(Navigation)
 	* NV-Carts (Navigation)

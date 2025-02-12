@@ -131,6 +131,41 @@ Nutzbare Telegramme
 **NMEA0183 via WiFi**
     * AIVDM, AIVDO, DBK, DBS, DBT, DPT, GGA, GLL, GSA, GSV, HDG, HDM, HDT, MTW, MWD, MWV, RMB, RMC, ROT, RSA, VHW, VTG, VWR, XDR, XTE, ZDA
 	
+Nutzbare I2C-Sensorik
+---------------------
+
+	* SHT30 (Temperatur, Luftfeuchtigkeit)
+	* QMP6988 (Luftdruck)
+	* BMP280 (Temperatur, Luftdruck)
+	* BME280 (Temperatur, Luftdruck, Luftfeuchtigkeit)
+	
+Nutzbare 1Wire-Sensorik
+-----------------------
+
+	* DS18B20 (Temperatur)
+
+Nutzbare SSI-Sensorik
+---------------------
+
+	* DMS22B (Winkelencoder)
+
+Nutzbare M5Stack-Module
+-----------------------
+
+	* M5Stack CAN Kit (NMEA2000)
+	* M5Stack RS232 Base
+	* M5Stack RS485 Base (NMEA0183)
+	* M5Stack GPS Kit
+	* M5Stack Hub Proto
+	* M5Stack Port ABC Base
+	
+Nutzbare M5Stack-Units
+----------------------
+	* M5 ENV III (Temperatur, Luftdruck, Luftfeuchtigkeit
+	* M5 RS485 Unit (NMEA0183)
+	* M5 GPS Unit
+	* M5 Tail 485 (NMEA0183)
+	
 Vorinstallierte Apps
 --------------------
 

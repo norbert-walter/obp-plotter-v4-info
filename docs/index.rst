@@ -9,14 +9,14 @@ Letzte Aktualisierung |today|
 
 .. note::   Diese Seiten sind noch in Bearbeitung.
 
-.. image:: /pics/OBP_Plotter_Direct_View_t.png
+.. image:: /pics/OBP_Plotter_Direct_View_AVnav_t.png
              :scale: 50%
 
 Der OBP-Plotter V4 wurde von Open Boat Projects entwickelt, um eine offene und anpassbare Navigationsplattform bereitzustellen. Unter der Leitung von Chefentwickler Christian arbeitet ein Team von Unterstützern an diesem Projekt. Im Gegensatz zu kommerziellen Navigationssystemen, bei denen die Funktionen fest vom Hersteller vorgegeben sind und sich später nicht ändern lassen, bietet der OBP-Plotter eine flexible Alternative. Kommerzielle Systeme haben oft eine begrenzte Lebensdauer: Nach wenigen Jahren werden sie nicht mehr unterstützt, wodurch die Nutzung veraltet und unpraktisch wird, insbesondere wenn keine aktuellen Karten mehr verfügbar sind. Dies zwingt viele Nutzer dazu, ein neues System zu kaufen, obwohl das alte Gerät technisch noch einwandfrei funktioniert.
 
-Im DIY-Bereich gibt es oft individuelle Lösungen, die jedoch nicht immer optimal für die Herausforderungen des Segelalltags angepasst sind. Dies liegt oft an technischen Einschränkungen oder mangelnder Erfahrung in der Umsetzung. Open Boat Projects hat es sich daher zum Ziel gesetzt, eine robuste Navigations-Hardware zu entwickeln, die den Anforderungen in der maritimen Umgebung gerecht wird und gleichzeitig als Grundlage für eigene Projekte dient.
+Im DIY-Bereich gibt es oft individuelle Lösungen, die jedoch nicht immer optimal für die Herausforderungen des Segelalltags angepasst sind. Dies liegt oft an technischen Einschränkungen oder mangelnder Erfahrung in der Umsetzung. Open Boat Projects hat es sich daher zum Ziel gesetzt, eine robuste Navigations-Hardware zu entwickeln, die den Anforderungen in der maritimen Umgebung gerecht wird und gleichzeitig als Grundlage für eigene Projekte dienen kann.
 
-Die Zielgruppe des OBP-Plotters sind Menschen, die sich ein individuelles System auf Basis einer stabilen und gut funktionierenden Hardware schaffen möchten. Der Plotter eignet sich auch für diejenigen, die ältere Systeme integrieren oder eine sofort einsatzbereite Lösung suchen, die sich leicht erweitern lässt.
+Die Zielgruppe des OBP-Plotters sind Menschen, die sich ein individuelles System auf Basis einer stabilen und gut funktionierenden Hardware erstellen möchten. Der Plotter eignet sich auch für diejenigen, die ältere Systeme integrieren oder eine sofort einsatzbereite Lösung suchen, die sich leicht erweitern lässt.
 
 **Eigenschaften der Hardware**
 

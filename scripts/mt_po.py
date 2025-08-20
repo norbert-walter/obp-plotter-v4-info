@@ -50,22 +50,23 @@ def need_nplurals(po: polib.POFile) -> int:
     return int(m.group(1)) if m else 2
 
 # --------------------- Google v2 (API key) ---------------------
-def google_translate_batch(texts: List[str], target: str) -> List[str]:
-    """Übersetzt eine Liste von Strings (max. ~128) in einem Request."""
+def google_translate(text: str, target: str) -> str:
     key = os.environ.get("GOOGLE_API_KEY")
     if not key:
         raise RuntimeError("GOOGLE_API_KEY missing")
     url = "https://translation.googleapis.com/language/translate/v2"
-    payload = {"q": texts, "target": target, "format": "text"}
+    payload = {"q": text, "target": target, "format": "text"}
     try:
-        r = requests.post(url, params={"key": key}, json=payload, timeout=60)
+        r = requests.post(url, params={"key": key}, json=payload, timeout=30)
+        # Bei Fehlstatus den Body in die Exception hochreichen:
         if r.status_code >= 400:
-            # Response enthält hilfreiche Fehlerdetails (quotaExceeded, billingNotEnabled, etc.)
+            # Hilfreiche Debug-Ausgabe:
             raise RuntimeError(f"Google Translate v2 error {r.status_code}: {r.text[:500]}")
         data = r.json()
-        outs = [html.unescape(t["translatedText"]) for t in data["data"]["translations"]]
-        return outs
+        out = data["data"]["translations"][0]["translatedText"]
+        return html.unescape(out)
     except requests.RequestException as ex:
+        # Netzwerk/Timeout etc. mit etwas Kontext
         raise RuntimeError(f"HTTP error calling Google Translate v2: {ex}")
 
 # --------------------- Masking für reST & Platzhalter ---------------------

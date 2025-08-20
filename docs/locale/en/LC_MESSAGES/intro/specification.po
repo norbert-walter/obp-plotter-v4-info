@@ -1,0 +1,911 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Open Boat Projects
+# This file is distributed under the same license as the OBP-Plotter V4 Info
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OBP-Plotter V4 Info\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-20 12:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../intro/specification.rst:2 81ac51b5e231468ca42b82e1cf8acdec
+#, fuzzy
+msgid "Technische Daten"
+msgstr "Technical data"
+
+#: ../../intro/specification.rst:7 95733f1084bf43bcb0e4dbec23232800
+#, fuzzy
+msgid "Abb.: OBP-Plotter Basisgerät"
+msgstr "Fig.: OBP plotter base unit"
+
+#: ../../intro/specification.rst:10 a6e85f3407674bb386dc7c350d165f3a
+#, fuzzy
+msgid "Funktionen"
+msgstr "Functions"
+
+#: ../../intro/specification.rst:12 c50155c6e9a84cae8e00dbd230185019
+#, fuzzy
+msgid "Quad Core Prozessor"
+msgstr "Quad Core Processor"
+
+#: ../../intro/specification.rst:13 e407530cb1164bd0b966926c610c690b
+#, fuzzy
+msgid "Android Betriebssystem"
+msgstr "Android operating system"
+
+#: ../../intro/specification.rst:14 961750b3c35c4c198399f717f271880c
+#, fuzzy
+msgid "Vorinstallierte Navigations-Apps"
+msgstr "Pre-installed navigation apps"
+
+#: ../../intro/specification.rst:15 8d98ea0fddfe4666b5830b2ea8316027
+#, fuzzy
+msgid "Vorinstallierte Karten"
+msgstr "Pre-installed maps"
+
+#: ../../intro/specification.rst:16 00f34d77701d452db911a55e47cfe29d
+#, fuzzy
+msgid "Vorinstallierte Apps für Navigation und Unterhaltung"
+msgstr "Pre-installed apps for navigation and entertainment"
+
+#: ../../intro/specification.rst:17 02462c02284c419fb0c4b9696a84e519
+#, fuzzy
+msgid "10-Zoll Touch-Display (tageslichttauglich)"
+msgstr "10-inch touch display (suitable for daylight)"
+
+#: ../../intro/specification.rst:18 70d28e1624ea4610b9bb5051ffe95e85
+#, fuzzy
+msgid "Umgebungslichtangepasste Displayhelligkeit"
+msgstr "Ambient light-adjusted display brightness"
+
+#: ../../intro/specification.rst:19 46934076abfc492c8974fa8287baa214
+#, fuzzy
+msgid "3 Sensor-Tasten (u.a. geeignet für Android Buttons)"
+msgstr "3 sensor buttons (suitable for Android buttons, among others)"
+
+#: ../../intro/specification.rst:20 d317c027fe434b94b4e434cbb86b9c22
+#, fuzzy
+msgid "Signalgeber"
+msgstr "Signal generator"
+
+#: ../../intro/specification.rst:21 5dce52ca4e054785980cd025a598d99c
+#, fuzzy
+msgid "Akustisch: Lautsprecher"
+msgstr "Acoustic: Speaker"
+
+#: ../../intro/specification.rst:22 ce113a1a4f024a1092572c3b02723ae3
+#, fuzzy
+msgid "Optisch: LEDs"
+msgstr "Optical: LEDs"
+
+#: ../../intro/specification.rst:23 2d59ee7fd98c4af6b6488803f60ce46e
+#, fuzzy
+msgid "Erweiterungs-Port für:"
+msgstr "Expansion port for:"
+
+#: ../../intro/specification.rst:24 e21bc928806240a096f332ff9daab562
+#, fuzzy
+msgid "NMEA0183, NMEA2000 und GPS (optional)"
+msgstr "NMEA0183, NMEA2000 and GPS (optional)"
+
+#: ../../intro/specification.rst:25 9510320ca9944db9b1f40d0e292c5927
+#, fuzzy
+msgid "NMEA0183 Multiplexer (in AVnav integriert)"
+msgstr "NMEA0183 multiplexer (integrated in AVnav)"
+
+#: ../../intro/specification.rst:26 3dd2ebc00c784afa960b3465d4606eca
+#, fuzzy
+msgid "2x USB-A (für Usererweiterungen)"
+msgstr "2x USB-A (for user extensions)"
+
+#: ../../intro/specification.rst:27 7de9e811e90e4ac2b73107b9137c748d
+#, fuzzy
+msgid "USB-C (OTG, Debug)"
+msgstr "USB-C (OTG, Debug)"
+
+#: ../../intro/specification.rst:28 74ab458bd4ac4139952e7595073ae231
+#, fuzzy
+msgid "WiFi"
+msgstr "WiFi"
+
+#: ../../intro/specification.rst:29 ../../intro/specification.rst:84
+#: 19e9a328d7914e4da19d5e36f0af366b 654e6e9ef5b34dc2a54595cf5eea4bbc
+#, fuzzy
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: ../../intro/specification.rst:30 e4b3e5361498489eb6dc32095d2dc467
+#, fuzzy
+msgid "Integrierte Sensoren für Bewegung und Umgebung"
+msgstr "Integrated sensors for movement and environment"
+
+#: ../../intro/specification.rst:31 99d33c83ffac46f29c6e951fc7fad7d3
+#, fuzzy
+msgid "Energiesparmodus"
+msgstr "Power saving mode"
+
+#: ../../intro/specification.rst:32 99f41d6526804bfa832fb4be4e15c819
+#, fuzzy
+msgid "Offene Architektur (Open Hardware, Open Source)"
+msgstr "Open architecture (open hardware, open source)"
+
+#: ../../intro/specification.rst:36 afcb59479bb34a368b615fc1bf433c5f
+#, fuzzy
+msgid "Aufbau"
+msgstr "Construction"
+
+#: ../../intro/specification.rst:41 255d8bff35a8482cb545940ce626933e
+#, fuzzy
+msgid "Abb.: OBP-Plotter Basisgerät Innenansicht"
+msgstr "Fig.: OBP plotter base unit interior view"
+
+#: ../../intro/specification.rst:46 60e9a5bb20ec45ee9917d0246b4075b7
+#, fuzzy
+msgid "Abb.: OBP-Plotter Basisgerät Hauptplatine, CM5-Modul Unterseite"
+msgstr "Fig.: OBP plotter base unit main board, CM5 module bottom"
+
+#: ../../intro/specification.rst:49 466a6aeb00b042d09d202aded9b7de59
+#, fuzzy
+msgid "Spezifikation"
+msgstr "specification"
+
+#: ../../intro/specification.rst:52 92d976ff14304af4875f8ac78848aa1e
+#, fuzzy
+msgid "Versorgungsspannung"
+msgstr "Supply voltage"
+
+#: ../../intro/specification.rst:52 ad92176761cc4545aff87c121bdc16f5
+#, fuzzy
+msgid "10...28 V, verpolungssicher"
+msgstr "10...28 V, reverse polarity protected"
+
+#: ../../intro/specification.rst:54 6211784856e04d278a887e44957bbe72
+#, fuzzy
+msgid "Stromverbrauch"
+msgstr "Power consumption"
+
+#: ../../intro/specification.rst:54 b457b1c5b70d4b4b8806d62eb5a91c1c
+#, fuzzy
+msgid "7...18 W, typisch 12 W"
+msgstr "7...18 W, typisch 12 W"
+
+#: ../../intro/specification.rst:56 ec40036e8b8548ce86d38936eb13d67a
+#, fuzzy
+msgid "Prozessor"
+msgstr "processor"
+
+#: ../../intro/specification.rst:56 eb742d47debe40dcb74678ed3c1aa0da
+#, fuzzy
+msgid "BCM2712, Quad Core, 64 Bit"
+msgstr "BCM2712, Quad Core, 64 Bit"
+
+#: ../../intro/specification.rst:58 2d9a563ced874ea3bae2c626933253ad
+#, fuzzy
+msgid "Clock Speed"
+msgstr "Clock Speed"
+
+#: ../../intro/specification.rst:58 d899d6d941634d9e91ee7e691d5ea872
+#, fuzzy
+msgid "2.5 GHz, Auto-Speedstepping"
+msgstr "2.5 GHz, Auto-Speedstepping"
+
+#: ../../intro/specification.rst:60 9b8abae6a0c747b1bf29e1a3f7120c81
+#, fuzzy
+msgid "RAM"
+msgstr "RAM"
+
+#: ../../intro/specification.rst:60 a102de4114334deb8db89f20c9a15c9e
+#, fuzzy
+msgid "4 GB, fix"
+msgstr "4 GB, fix"
+
+#: ../../intro/specification.rst:62 5fa102ebf5b840e3864c2dd02497d491
+#, fuzzy
+msgid "Flash"
+msgstr "Flash"
+
+#: ../../intro/specification.rst:62 28d9970e82f84732a7761e0ffa663422
+#, fuzzy
+msgid "512 GB, SSD NVMe, wechselbar"
+msgstr "512 GB, SSD NVMe, removable"
+
+#: ../../intro/specification.rst:64 368eabd0d92a44bf8d7faacde5b7a227
+#, fuzzy
+msgid "Freier User-Bereich"
+msgstr "Free user area"
+
+#: ../../intro/specification.rst:64 3f37491fb612466f9fe7cde058387dbc
+#, fuzzy
+msgid "500 GB, erweiterbar bis 2 TB"
+msgstr "500 GB, expandable up to 2 TB"
+
+#: ../../intro/specification.rst:66 e6ac289e09884498acbabc044afa024d
+#, fuzzy
+msgid "Flash-Format"
+msgstr "Flash-Format"
+
+#: ../../intro/specification.rst:66 d0eee07e14814bd9981b92602559c906
+#, fuzzy
+msgid "NVMe, m.2, 2230, 2242"
+msgstr "NVMe, m.2, 2230, 2242"
+
+#: ../../intro/specification.rst:68 15fa009bcb994e4599641f6f38dc9131
+#, fuzzy
+msgid "Displaygröße"
+msgstr "Display size"
+
+#: ../../intro/specification.rst:68 6c5822d3513d4d94b5ab1748986bd5eb
+#, fuzzy
+msgid "1250 x 800 pix, 60 Hz"
+msgstr "1250 x 800 pix, 60 Hz"
+
+#: ../../intro/specification.rst:70 2ccbce5e5d994d61b88d90a6b51a4ef1
+#, fuzzy
+msgid "Displayhelligkeit"
+msgstr "Display brightness"
+
+#: ../../intro/specification.rst:70 83d7c185dee74f199406def7254fbec1
+#, fuzzy
+msgid "1000 nits, autom. geregelt"
+msgstr "1000 nits, automatically controlled"
+
+#: ../../intro/specification.rst:72 f58677f0ef294a93a9a89891c34dfe2f
+#, fuzzy
+msgid "Bedienung"
+msgstr "Operation"
+
+#: ../../intro/specification.rst:72 be59213af6bc4edfa4c9fd10e771eb0e
+#, fuzzy
+msgid "5-Finger-Touch, regensicher"
+msgstr "5-Finger-Touch, regensicher"
+
+#: ../../intro/specification.rst:74 7e4a082b5265450aa6f24e253a86f6d9
+#, fuzzy
+msgid "Sensortasten"
+msgstr "Sensor buttons"
+
+#: ../../intro/specification.rst:74 c6a28c5ab5064d08b63176a062160231
+#, fuzzy
+msgid "3x kapazitiv"
+msgstr "3x capacitive"
+
+#: ../../intro/specification.rst:76 6dbe2855deb84176961a9daf3d9ee226
+#, fuzzy
+msgid "Fernbedienung"
+msgstr "remote control"
+
+#: ../../intro/specification.rst:76 bee30c5be65040509c1fc4ed87331099
+#, fuzzy
+msgid "IR, 8 m"
+msgstr "IR, 8 m"
+
+#: ../../intro/specification.rst:78 674243a8033b450ba7721dd0aa70f59d
+#, fuzzy
+msgid "Kommunikation"
+msgstr "Communication"
+
+#: ../../intro/specification.rst:78 c4b3792415c24bc49864584d1df14247
+#, fuzzy
+msgid "WiFi, 802.11 bgnac, 50 m"
+msgstr "WiFi, 802.11 bgnac, 50 m"
+
+#: ../../intro/specification.rst:80 2bd6bc96d97848078178298ae0314001
+#, fuzzy
+msgid "WiFi Frequenzen"
+msgstr "WiFi frequencies"
+
+#: ../../intro/specification.rst:80 a0a0e59891d1412e9a3937c0f08d1024
+#, fuzzy
+msgid "2.4 GHz, 5.0 GHz"
+msgstr "2.4 GHz, 5.0 GHz"
+
+#: ../../intro/specification.rst:82 b361de60e22344118ea3d0f0f1cf3ce6
+#, fuzzy
+msgid "Ethernet-Protokolle"
+msgstr "Ethernet protocols"
+
+#: ../../intro/specification.rst:82 4c55f10b71594d85b950c85169934bd7
+#, fuzzy
+msgid "HTTP, SSH, VNC, SMB, UDP"
+msgstr "HTTP, SSH, VNC, SMB, UDP"
+
+#: ../../intro/specification.rst:84 f0727fc63bfe44c281bf7e9ddc901c3b
+#, fuzzy
+msgid "BT 5.0, BLE"
+msgstr "BT 5.0, BLE"
+
+#: ../../intro/specification.rst:86 63f2c8e975764b9894a0e3b150d1abef
+#, fuzzy
+msgid "Bluetooth-Profile"
+msgstr "Bluetooth-Profile"
+
+#: ../../intro/specification.rst:86 57eb4eccd54744829d883886104c41fe
+#, fuzzy
+msgid "Heatset, A2DP, Fitness"
+msgstr "Heatset, A2DP, Fitness"
+
+#: ../../intro/specification.rst:88 20400d41038c4a33b6a904aeb53d8a48
+#, fuzzy
+msgid "Erweiterungsport"
+msgstr "Expansion port"
+
+#: ../../intro/specification.rst:88 ae6be6bafa92418681de317c38b7cb4a
+#, fuzzy
+msgid "USB 3.0, I2C, SPI"
+msgstr "USB 3.0, I2C, SPI"
+
+#: ../../intro/specification.rst:90 2a6732c306054ea9aea1a6335f62a8aa
+#, fuzzy
+msgid "Schnittstellen"
+msgstr "Interfaces"
+
+#: ../../intro/specification.rst:90 94c6e903e25942b8b38f64e0cdf7065d
+#, fuzzy
+msgid "1x USB 3.0, 2x USB 2.0, Pwr"
+msgstr "1x USB 3.0, 2x USB 2.0, Pwr"
+
+#: ../../intro/specification.rst:92 8a30a9ebc4534049892bbe45dfc2f5ea
+#, fuzzy
+msgid "Signaleinrichtungen"
+msgstr "Signaling devices"
+
+#: ../../intro/specification.rst:92 efb6f5747c1c4eb097f051e6b5416f09
+#, fuzzy
+msgid "2x LED, frontseitig"
+msgstr "2x LED, frontseitig"
+
+#: ../../intro/specification.rst:94 991562af21714ce0b2f9d4701957f9ad
+#, fuzzy
+msgid "Lautsprecher"
+msgstr "Speaker"
+
+#: ../../intro/specification.rst:94 241daf65ca1749b7a51a8d4a505deff2
+#, fuzzy
+msgid "Mono, 10 W"
+msgstr "Mono, 10 W"
+
+#: ../../intro/specification.rst:96 a7e70d743cec4de0a64c67d1fe85dc24
+#, fuzzy
+msgid "Betriebssystem"
+msgstr "Operating system"
+
+#: ../../intro/specification.rst:96 5ad55da60c7649ada49cf996197a661b
+#, fuzzy
+msgid "Android 15, AOSP"
+msgstr "Android 15, AOSP"
+
+#: ../../intro/specification.rst:98 509a6970e2e948aa945e1acec19affae
+#, fuzzy
+msgid "ESD-Schutz"
+msgstr "ESD protection"
+
+#: ../../intro/specification.rst:98 4d56b1dd7f774a8a8c17374ec0001683
+#, fuzzy
+msgid "8 kV"
+msgstr "8 kV"
+
+#: ../../intro/specification.rst:100 b27969f0a0bb4a53ac3d30b028f16d6a
+#, fuzzy
+msgid "Schutzgrad"
+msgstr "Degree of protection"
+
+#: ../../intro/specification.rst:100 44424ac5e0a14dc298d9ee0bd4dc6147
+#, fuzzy
+msgid "IP65"
+msgstr "IP65"
+
+#: ../../intro/specification.rst:102 967b32b7786543f1906251d8669dbd12
+#, fuzzy
+msgid "Zulassung"
+msgstr "Permit"
+
+#: ../../intro/specification.rst:102 3b60e8b0fbec48949e3748a7ff65e63a
+#, fuzzy
+msgid "CE, in Vorbereitung"
+msgstr "CE, in preparation"
+
+#: ../../intro/specification.rst:104 f24eeac92aa8400a9735ada00eaffb4a
+#, fuzzy
+msgid "Abmessungen"
+msgstr "Dimensions"
+
+#: ../../intro/specification.rst:104 29568dd7b24c403381a351e092250f70
+#, fuzzy
+msgid "285 x 198 x 46 mm"
+msgstr "285 x 198 x 46 mm"
+
+#: ../../intro/specification.rst:106 011a5ebd70d84143ac02f9acbc6d5bac
+#, fuzzy
+msgid "Gewicht"
+msgstr "Weight"
+
+#: ../../intro/specification.rst:106 9b3759c0131440a79366300ca4586bf4
+#, fuzzy
+msgid "1280 g"
+msgstr "1280 g"
+
+#: ../../intro/specification.rst:110 738f1d5d8c624143a2ce840292082a14
+#, fuzzy
+msgid "Anschlussbelegung"
+msgstr "Pin assignment"
+
+#: ../../intro/specification.rst:114 b5aa1acd3abc4601b24365b9fd99b2ab
+#, fuzzy
+msgid "Abb.: OBP-Plotter Basisgerät Rückseite"
+msgstr "Fig.: OBP plotter base unit back"
+
+#: ../../intro/specification.rst:117 7bed283f1f3a42c78ce3566b825b5c82
+#, fuzzy
+msgid "Schaltplan"
+msgstr "Circuit diagram"
+
+#: ../../intro/specification.rst:119 30f237ee438c4106893cec8c501c7997
+#, fuzzy
+msgid "`Schaltplan V2.1 [PDF] <../_static/files/OBP_Plotter_Dimensions.pdf>`_"
+msgstr ""
+"`Schaltplan V2.1 [PDF] <../_static/files/OBP_Plotter_Dimensions.pdf>`_"
+
+#: ../../intro/specification.rst:123 f667135086d34d98937e518a76140d74
+#, fuzzy
+msgid "Maßbilder"
+msgstr "Dimensional drawings"
+
+#: ../../intro/specification.rst:125 5782137bf68740a2b6cafcc2873eab42
+#, fuzzy
+msgid "`Maßbild [PDF] <../_static/files/OBP_Plotter_Dimensions.pdf>`_"
+msgstr "`Maßbild [PDF] <../_static/files/OBP_Plotter_Dimensions.pdf>`_"
+
+#: ../../intro/specification.rst:129 7804d64bdf214aeaac6918f617db3321
+#, fuzzy
+msgid "Nutzbare Telegramme"
+msgstr "Usable telegrams"
+
+#: ../../intro/specification.rst:131 cc7b5d4427f243c7bc9d6bd7a7c32367
+#, fuzzy
+msgid "**NMEA0183 via WiFi**"
+msgstr "**NMEA0183 via WiFi**"
+
+#: ../../intro/specification.rst:132 0dd57bfabe3b443581558f17854185fc
+#, fuzzy
+msgid ""
+"AIVDM, AIVDO, DBK, DBS, DBT, DPT, GGA, GLL, GSA, GSV, HDG, HDM, HDT, MTW, "
+"MWD, MWV, RMB, RMC, ROT, RSA, VHW, VTG, VWR, XDR, XTE, ZDA"
+msgstr ""
+"AIVDM, AIVDO, DBK, DBS, DBT, DPT, GGA, GLL, GSA, GSV, HDG, HDM, HDT, MTW, "
+"MWD, MWV, RMB, RMC, ROT, RSA, VHW, VTG, VWR, XDR, XTE, ZDA"
+
+#: ../../intro/specification.rst:135 773a5de70b9f4927955562428ca4f3d9
+#, fuzzy
+msgid "Nutzbare I2C-Sensorik"
+msgstr "Usable I2C sensors"
+
+#: ../../intro/specification.rst:137 0ea158eaab614148b5a585604d491c9e
+#, fuzzy
+msgid "SHT30 (Temperatur, Luftfeuchtigkeit)"
+msgstr "SHT30 (temperature, humidity)"
+
+#: ../../intro/specification.rst:138 bda177f2776f4122a128deccbafcdaf7
+#, fuzzy
+msgid "QMP6988 (Luftdruck)"
+msgstr "QMP6988 (air pressure)"
+
+#: ../../intro/specification.rst:139 9108a13271754ee1b8003eee1e9d7fe1
+#, fuzzy
+msgid "BMP280 (Temperatur, Luftdruck)"
+msgstr "BMP280 (temperature, air pressure)"
+
+#: ../../intro/specification.rst:140 4f378ea3406541b1bf8564b7b4a4e6ae
+#, fuzzy
+msgid "BME280 (Temperatur, Luftdruck, Luftfeuchtigkeit)"
+msgstr "BME280 (temperature, air pressure, humidity)"
+
+#: ../../intro/specification.rst:143 134eccc882c14be2a545d4badfed5707
+#, fuzzy
+msgid "Nutzbare 1Wire-Sensorik"
+msgstr "Usable 1Wire sensors"
+
+#: ../../intro/specification.rst:145 faec1be331a244e28fc5708bd46d4503
+#, fuzzy
+msgid "DS18B20 (Temperatur)"
+msgstr "DS18B20 (temperature)"
+
+#: ../../intro/specification.rst:148 94f84dbd7de848399a9389804988fcd9
+#, fuzzy
+msgid "Nutzbare SSI-Sensorik"
+msgstr "Usable SSI sensors"
+
+#: ../../intro/specification.rst:150 cd5be9b58048451392157e5684c8e976
+#, fuzzy
+msgid "DMS22B (Winkelencoder)"
+msgstr "DMS22B (Shop Encoder)"
+
+#: ../../intro/specification.rst:153 3cd292391f9e401fb74f63d2e7d655e9
+#, fuzzy
+msgid "Nutzbare M5Stack-Module"
+msgstr "Usable M5Stack modules"
+
+#: ../../intro/specification.rst:155 a731f19f1f3948bbbe8e4265e2c8a880
+#, fuzzy
+msgid "M5Stack CAN Kit (NMEA2000)"
+msgstr "M5Stack CAN Kit (NMEA2000)"
+
+#: ../../intro/specification.rst:156 b85ee8794a49408698d34b4ef0d69b57
+#, fuzzy
+msgid "M5Stack RS232 Base"
+msgstr "M5Stack RS232 Base"
+
+#: ../../intro/specification.rst:157 c26f41216a41461488ca181cd36d726a
+#, fuzzy
+msgid "M5Stack RS485 Base (NMEA0183)"
+msgstr "M5Stack RS485 Base (NMEA0183)"
+
+#: ../../intro/specification.rst:158 976e987e53e94dcca7d05e29e6962bfb
+#, fuzzy
+msgid "M5Stack GPS Kit"
+msgstr "M5Stack GPS Kit"
+
+#: ../../intro/specification.rst:159 3450fd962b2940ff8ca59bb9f126b2c3
+#, fuzzy
+msgid "M5Stack Hub Proto"
+msgstr "M5Stack Hub Proto"
+
+#: ../../intro/specification.rst:160 056331f88ba84b17a6c44443fea7bbdc
+#, fuzzy
+msgid "M5Stack Port ABC Base"
+msgstr "M5Stack Port ABC Base"
+
+#: ../../intro/specification.rst:163 6fb000024bfe436e9916880d5f3b2f45
+#, fuzzy
+msgid "Nutzbare M5Stack-Units"
+msgstr "Usable M5Stack units"
+
+#: ../../intro/specification.rst:164 7683334689a74e6da65157d8d49fdb3e
+#, fuzzy
+msgid "M5 ENV III (Temperatur, Luftdruck, Luftfeuchtigkeit"
+msgstr "M5 ENV III (temperature, air pressure, humidity"
+
+#: ../../intro/specification.rst:165 7a82e1c7bfc14e51b773122f2bd97f7e
+#, fuzzy
+msgid "M5 RS485 Unit (NMEA0183)"
+msgstr "M5 RS485 Unit (NMEA0183)"
+
+#: ../../intro/specification.rst:166 d3c9d474cf664baba05128b57a80651e
+#, fuzzy
+msgid "M5 GPS Unit"
+msgstr "M5 GPS Unit"
+
+#: ../../intro/specification.rst:167 ebe2aa53b46d4d4c9767e81a40176e47
+#, fuzzy
+msgid "M5 Tail 485 (NMEA0183)"
+msgstr "M5 Tail 485 (NMEA0183)"
+
+#: ../../intro/specification.rst:170 3a3e01b5e6da4c7e89fa003ee86477a6
+#, fuzzy
+msgid "Vorinstallierte Apps"
+msgstr "Pre-installed apps"
+
+#: ../../intro/specification.rst:172 03741d2bea47468d90bcd04e614563b4
+#, fuzzy
+msgid ""
+"Der OBP-Plotter ist so vorkonfiguriert, dass die Navigationslösung AVnav, "
+"das AVnav O-Charts Plugin, der AIS Catcher sowie das NMEA Dashboard "
+"aufeinander abgestimmt sind und funktionieren. Die Online- und Offline-"
+"Karten sind in AVnav bereits integriert. Der VNC- und SSH-Server sind "
+"standardmäßig aktiviert."
+msgstr ""
+"The OBP plotter is preconfigured to ensure the AVnav navigation solution, "
+"the AVnav O-Charts plugin, the AIS Catcher, and the NMEA Dashboard are fully"
+" integrated and work together. The online and offline charts are already "
+"integrated into AVnav. The VNC and SSH servers are enabled by default."
+
+#: ../../intro/specification.rst:174 f12f7af482bd44a2b4a82379b00ae318
+#, fuzzy
+msgid "**System**"
+msgstr "**System**"
+
+#: ../../intro/specification.rst:175 af2dc93b19f2446ea2f48caf256c435b
+#, fuzzy
+msgid "Aptoide (Alternativer App Store)"
+msgstr "Aptoide (Alternative App Store)"
+
+#: ../../intro/specification.rst:176 03342763309a4da9a89f9af05b9edd44
+#, fuzzy
+msgid "Device Info (System Infobar)"
+msgstr "Device Info (System Infobar)"
+
+#: ../../intro/specification.rst:177 6eec5171155148c4a23ac5540cc060c0
+#, fuzzy
+msgid "Dateien"
+msgstr "Files"
+
+#: ../../intro/specification.rst:178 f8afa66e50e843c8b67407ec3af9aacb
+#, fuzzy
+msgid "File Manager + (Filemanager mit Remote-Datenaustausch)"
+msgstr "File Manager + (File manager with remote data exchange)"
+
+#: ../../intro/specification.rst:179 8f2c40d05f774917a4de27fb42390c7c
+#, fuzzy
+msgid "Galerie"
+msgstr "Gallery"
+
+#: ../../intro/specification.rst:180 3141796ae9044633ba038298bd8ad092
+#, fuzzy
+msgid "Google PlayStore"
+msgstr "Google PlayStore"
+
+#: ../../intro/specification.rst:181 b3d73d6dfbc5409bb8d3a356537d6fd0
+#, fuzzy
+msgid "Kontakte"
+msgstr "Contact"
+
+#: ../../intro/specification.rst:182 27223f0b6f734c4889f4f50b766c9433
+#, fuzzy
+msgid "Kalender"
+msgstr "Calendar"
+
+#: ../../intro/specification.rst:183 94a2fc3c4460440fbfd33ab7710a2d8e
+#, fuzzy
+msgid "VNC-Server (in Android integriert)"
+msgstr "VNC server (integrated into Android)"
+
+#: ../../intro/specification.rst:184 b7943537b9f14fcc80907d179c91d926
+#, fuzzy
+msgid "SSH-Server (in Android integriert)"
+msgstr "SSH server (integrated into Android)"
+
+#: ../../intro/specification.rst:185 c71522feb6a74d8da0776193bc7230eb
+#, fuzzy
+msgid "Systemeinstellungen"
+msgstr "System settings"
+
+#: ../../intro/specification.rst:186 bd7f399b479d4f34a55fb55ecdbca243
+#, fuzzy
+msgid "Offline Manual"
+msgstr "Offline Manual"
+
+#: ../../intro/specification.rst:188 8819738071ae47e9a3f7361205803eb1
+#, fuzzy
+msgid "**Navigation**"
+msgstr "**Navigation**"
+
+#: ../../intro/specification.rst:189 b5d0c393b83741c7a20092f1a8b45878
+#, fuzzy
+msgid "AIS Catcher (AIS Empfänger via USB RTL-SDR Stick)"
+msgstr "AIS Catcher (AIS receiver via USB RTL-SDR stick)"
+
+#: ../../intro/specification.rst:190 aac8c4f2ecec489c9b53f8f0cd714b3d
+#, fuzzy
+msgid "AVnav (Webbasierte Open Source Navigation)"
+msgstr "AVnav (Web-based Open Source Navigation)"
+
+#: ../../intro/specification.rst:191 322b443e7c00424db46779e58b9a72d1
+#, fuzzy
+msgid "AVnav O-Charts Plugin (für kommerzielle Seekarten)"
+msgstr "AVnav O-Charts Plugin (for commercial nautical charts)"
+
+#: ../../intro/specification.rst:192 1b955626364a43cda235289dee751df6
+#, fuzzy
+msgid "Boating App (Navigation)"
+msgstr "Boating App (Navigation)"
+
+#: ../../intro/specification.rst:193 4576dd6cc0a24ed0ac6d3a9c136dec8d
+#, fuzzy
+msgid "C-Maps (Navigation)"
+msgstr "C-Maps (Navigation)"
+
+#: ../../intro/specification.rst:194 dd1e699f85ed43c6917d3cd55c8562c9
+#, fuzzy
+msgid "GPS Connector (Einbindung GPS-Daten)"
+msgstr "GPS Connector (integration of GPS data)"
+
+#: ../../intro/specification.rst:195 8264de1db22d419d9d7c0b727b32a594
+#, fuzzy
+msgid "Grib (Wetterdaten)"
+msgstr "Grib (weather data)"
+
+#: ../../intro/specification.rst:196 a2e8dec619334063b5c91dba86cdd308
+#, fuzzy
+msgid "Maps(Navigation)"
+msgstr "Maps(Navigation)"
+
+#: ../../intro/specification.rst:197 0ff1a47d780f48339298cdf848f1be1d
+#, fuzzy
+msgid "NV-Carts (Navigation)"
+msgstr "NV-Carts (Navigation)"
+
+#: ../../intro/specification.rst:198 979a5cd8d3d140c9a27cb18dd792f5ae
+#, fuzzy
+msgid "Navily (Navigation)"
+msgstr "Navigation (Navigation)"
+
+#: ../../intro/specification.rst:199 f9240d221e9d40848cf33bb1756faf0e
+#, fuzzy
+msgid "NMEA Dashboard (Instrumentenanzeige)"
+msgstr "NMEA Dashboard (instrument display)"
+
+#: ../../intro/specification.rst:200 875c1bd750b445a58f4803606baf6d3d
+#, fuzzy
+msgid "Osmand (Navigation)"
+msgstr "Osmand (Navigation)"
+
+#: ../../intro/specification.rst:201 b8a562ae387c45739db12d0012ac9544
+#, fuzzy
+msgid "Orca (Navigation)"
+msgstr "Orca (Navigation)"
+
+#: ../../intro/specification.rst:202 a7d0eb8bc7c34c41a667c0c3a55d9fc4
+#, fuzzy
+msgid "OpenCPN (Open Source Navigation)"
+msgstr "OpenCPN (Open Source Navigation)"
+
+#: ../../intro/specification.rst:203 9cd0b16a68fc4ad0be725972f605f81a
+#, fuzzy
+msgid "Windfinder (Wetterinfo)"
+msgstr "Windfinder (Wetterinfo)"
+
+#: ../../intro/specification.rst:204 8d37e0db93644721acaa7d68047dd23f
+#, fuzzy
+msgid "Windy (Wetterinfo)"
+msgstr "Windy (Wetterinfo)"
+
+#: ../../intro/specification.rst:205 803fd138ef42407daf7878024081300d
+#, fuzzy
+msgid "SDRangel (SDR-Empfänger)"
+msgstr "SDRangel (SDR receiver)"
+
+#: ../../intro/specification.rst:206 10ad01aedbca4c57a6995df30cae8257
+#, fuzzy
+msgid "TiniCAM (IP-Kamera Dashborad)"
+msgstr "TiniCAM (IP-Dashboard Camera)"
+
+#: ../../intro/specification.rst:208 59691928b2a34796bc13d79da4abfa39
+#, fuzzy
+msgid "**Unterhaltung**"
+msgstr "**Unterhaltung**"
+
+#: ../../intro/specification.rst:209 1024a7626e8444da90df4aa6591b16a8
+#, fuzzy
+msgid "Chrome (Webbrowser)"
+msgstr "Chrome (Web browser)"
+
+#: ../../intro/specification.rst:210 07274d507cf44e6ab10a803d78ec26f6
+#, fuzzy
+msgid "Fusion Audio (Control-System für Raymarine Audio)"
+msgstr "Fusion Audio (control system for Raymarine Audio)"
+
+#: ../../intro/specification.rst:211 dff4ccf934b4401c9968281b2329d91d
+#, fuzzy
+msgid "GMail"
+msgstr "GMail"
+
+#: ../../intro/specification.rst:212 c1db757936b94157b7f046c97c004e51
+#, fuzzy
+msgid "Firefox (Webbrowser)"
+msgstr "Firefox (Webbrowser)"
+
+#: ../../intro/specification.rst:213 dcc54e766ec14ad48cef9a72c7455a58
+#, fuzzy
+msgid "Internetradio"
+msgstr "Internet radio"
+
+#: ../../intro/specification.rst:214 48b88f9bb65c4ec59cbf56ebaa1713d6
+#, fuzzy
+msgid "Lautsärkeregler"
+msgstr "Loudspeaker rules"
+
+#: ../../intro/specification.rst:215 c5010ba8edf447eebc4aa022cb7ec388
+#, fuzzy
+msgid "Prime Video"
+msgstr "Prime Video"
+
+#: ../../intro/specification.rst:216 b2589c3ee549478bbfa9de838301cfd4
+#, fuzzy
+msgid "RTL-SDR Driver (für SDR-Empfang)"
+msgstr "RTL-SDR Driver (for SDR reception)"
+
+#: ../../intro/specification.rst:217 776316c38a9549a19be8526ce7699cdd
+#, fuzzy
+msgid "FM-Radio (RTL-SDR basiert)"
+msgstr "FM radio (RTL-SDR based)"
+
+#: ../../intro/specification.rst:218 33c31d0d808349a992d772b1a724700b
+#, fuzzy
+msgid "Spotify"
+msgstr "Spotify"
+
+#: ../../intro/specification.rst:219 c08da6088174407082f3034495250571
+#, fuzzy
+msgid "Syntesizer (Klangeinstellung)"
+msgstr "Synthesizer (sound setting)"
+
+#: ../../intro/specification.rst:220 e2aae25bfdd840909448e7dbe92287cc
+#, fuzzy
+msgid "VLC (Universeller Mediaplayer für Bilder, Audio und Video)"
+msgstr "VLC (Universal Media Player for Images, Audio and Video)"
+
+#: ../../intro/specification.rst:221 724b761d05d74fa98108136557d5ffbe
+#, fuzzy
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: ../../intro/specification.rst:224 f322b03ce9764865a7ec36f04dfe24bb
+#, fuzzy
+msgid "Vorinstallierte Seekarten"
+msgstr "Pre-installed nautical charts"
+
+#: ../../intro/specification.rst:226 cff158e6016944739a66c76d440937b5
+#, fuzzy
+msgid "**Online**"
+msgstr "**Online**"
+
+#: ../../intro/specification.rst:227 4afa057d01424c3b803c95d287fb6cc8
+#, fuzzy
+msgid "BSH (rudimentäre Karte mit Tiefenlinien)"
+msgstr "BSH (rudimentary map with depth contours)"
+
+#: ../../intro/specification.rst:228 4895d4c0cdb34c06b5f0d585eaf3876e
+#, fuzzy
+msgid "Open Sea Map (weltweit, ohne Tiefenangaben)"
+msgstr "Open Sea Map (worldwide, without depth information)"
+
+#: ../../intro/specification.rst:229 139ec7c02f1545f6af082c4f26e411f2
+#, fuzzy
+msgid "Waddenzee (DE, Wattenmeer NL, mit Tiefenangaben)"
+msgstr "Wadden Sea (DE, Wadden Sea NL, with depth information)"
+
+#: ../../intro/specification.rst:231 db4d06f69548424ab2a738be694ee563
+#, fuzzy
+msgid "**Offline**"
+msgstr "**Offline**"
+
+#: ../../intro/specification.rst:232 639ca6fe047f4ef8a3b6d2312c067952
+#, fuzzy
+msgid "Open Sea Map (Europa, ohne Tiefenangaben)"
+msgstr "Open Sea Map (Europe, without depth information)"
+
+#: ../../intro/specification.rst:235 9805b11b77824ac0aaf20b69e7bcfe9f
+#, fuzzy
+msgid "Integrierte Sensorik"
+msgstr "Integrated sensors"
+
+#: ../../intro/specification.rst:237 51a68ed1514e49639e5fce51ab3364f6
+#, fuzzy
+msgid "**Umgebungssensoren**"
+msgstr "**Umgebungssensoren**"
+
+#: ../../intro/specification.rst:238 3c0aed0bec3349df8700bf6ef1a48c9e
+#, fuzzy
+msgid "Bewegung"
+msgstr "Movement"
+
+#: ../../intro/specification.rst:239 452b74733f0f4481a04eec9f83f18cab
+#, fuzzy
+msgid "Helligkeit"
+msgstr "brightness"
+
+#: ../../intro/specification.rst:240 c0c0a456b47642f0aeccd9ffec049e2e
+#, fuzzy
+msgid "IR-Remote"
+msgstr "IR-Remote"
+
+#: ../../intro/specification.rst:242 9cab1ebfcf3c4aba85de79b356c54a31
+#, fuzzy
+msgid "**Echtzeit-Uhren**"
+msgstr "**Echtzeit-Uhren**"
+
+#: ../../intro/specification.rst:243 a4b7e6b90f9f42c399d6d8f8616c43bd
+#, fuzzy
+msgid "Integriert in CM5"
+msgstr "Integrated in CM5"

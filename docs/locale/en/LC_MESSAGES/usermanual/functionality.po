@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Open Boat Projects
+# This file is distributed under the same license as the OBP-Plotter V4 Info
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OBP-Plotter V4 Info\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-20 12:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../usermanual/functionality.rst:2 fc9f6d9614c543f3afac6f356ef0cb75
+#, fuzzy
+msgid "Funktionsweise"
+msgstr "How it works"
+
+#: ../../usermanual/functionality.rst:5 660be39c5f31417eb0da5c7d3cc2257b
+#, fuzzy
+msgid "Bussysteme"
+msgstr "Bus systems"
+
+#: ../../usermanual/functionality.rst:10 4e07b0347fd143ac8feff0301bd994f6
+#, fuzzy
+msgid ""
+"Der OBP-Plotter V4 ist ein Datenanzeigegerät für den Marinebereich, mit dem "
+"verschiedenste Informationen aus Bussystemen ausgelesen und angezeigt "
+"werden. Zu den typischen Bussystemen im Marinebereich, die das OPB60 "
+"verarbeitet, gehören:"
+msgstr ""
+"The OBP-Plotter V4 is a marine data display device that reads and displays a"
+" wide variety of information from bus systems. Typical marine bus systems "
+"supported by the OPB60 include:"
+
+#: ../../usermanual/functionality.rst:12 a62542e70f3b47819267c28d17622b0e
+#, fuzzy
+msgid "NMEA0183 (RS485, isoliert)"
+msgstr "NMEA0183 (RS485, isolated)"
+
+#: ../../usermanual/functionality.rst:13 b0067e23b51b4c899de92ff13cd8e994
+#, fuzzy
+msgid "NMEA2000 (CAN, isoliert)"
+msgstr "NMEA2000 (CAN, isolated)"
+
+#: ../../usermanual/functionality.rst:15 5e5524dc8ace42968f5ff0e67fd3762e
+#, fuzzy
+msgid ""
+"Damit lässt sich der OBP-Plotter V4 in vorhandene Bootsnetze integrieren. Es"
+" kann selbst Daten einspeisen und auslesen. Darüber hinaus verarbeitet der "
+"Plotter weitere Sensornetzwerke wie:"
+msgstr ""
+"This allows the OBP Plotter V4 to be integrated into existing boat networks."
+" It can input and read data itself. The plotter also processes other sensor "
+"networks, such as:"
+
+#: ../../usermanual/functionality.rst:17 4f463f4a86f943b28b6b9d32d784b028
+#, fuzzy
+msgid "I2C-Bus (5V, isoliert)"
+msgstr "I2C bus (5V, isolated)"
+
+#: ../../usermanual/functionality.rst:20 28b6edb4a71d4bdab90d773ed85cbb4b
+#, fuzzy
+msgid "Gateway"
+msgstr "Gateway"

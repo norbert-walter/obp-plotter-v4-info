@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Open Boat Projects
+# This file is distributed under the same license as the OBP-Plotter V4 Info
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OBP-Plotter V4 Info\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-20 12:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../usermanual/start.rst:2 6af8fd9f09ab45f6b03267dc3dd0939e
+#, fuzzy
+msgid "Inbetriebnahme"
+msgstr "Commissioning"
+
+#: ../../usermanual/start.rst:4 2d90a29e158148d49b9687104b02114a
+#, fuzzy
+msgid ""
+"Dieser Abschnitt hat die Erstinbetriebnahme Ihres OBP-Plotters zum Inhalt. "
+"Das geht am einfachsten, wenn das Gerät noch nicht im Boot eingebaut ist. "
+"Dazu wird das Gerät mit Strom versorgt, um die ersten Einstellungen "
+"vorzunehmen. So können Sie die Funktionalität testen, bevor Sie das Gerät im"
+" Boot einbauen."
+msgstr ""
+"This section covers the initial setup of your OBP plotter. This is easiest "
+"when the device is not yet installed in the boat. To do this, power the "
+"device up and make the initial settings. This allows you to test its "
+"functionality before installing the device in the boat."
+
+#: ../../usermanual/start.rst:7 3c9c479da747458595cfd75420433407
+#, fuzzy
+msgid "Schutzkonzept"
+msgstr "Protection concept"
+
+#: ../../usermanual/start.rst:11 b9bec357b84b4f1dabc7100286e2ada3
+#, fuzzy
+msgid "Stromversorgung 12V/24V"
+msgstr "Power supply 12V/24V"
+
+#: ../../usermanual/start.rst:13 c2374841e58f4716a9908d1695fc25b9
+#, fuzzy
+msgid "Die Stromversorgung des OBP-Plotters erfolgt über den Steckverbinder"
+msgstr "The OBP plotter is powered via the connector"
+
+#: ../../usermanual/start.rst:15 5e5c0fa7197c4b939dac723f2336df0a
+#, fuzzy
+msgid "verpolungssicher"
+msgstr "reverse polarity protected"
+
+#: ../../usermanual/start.rst:16 0d4c79cdeebf4a2f982fa64c6193ded8
+#, fuzzy
+msgid "kurzschlussfest"
+msgstr "short-circuit proof"
+
+#: ../../usermanual/start.rst:17 4f51aaa88d7a4e0287e77c76307ea5bc
+#, fuzzy
+msgid "überspannungssicher"
+msgstr "surge-proof"
+
+#: ../../usermanual/start.rst:18 0df7cb0cdffb4d21ae7ebf6b544d31c2
+#, fuzzy
+msgid "ESD-geschützt"
+msgstr "ESD protected"
+
+#: ../../usermanual/start.rst:20 9132733a6bcd44b2b8a7f0f53fea915d
+#, fuzzy
+msgid "Der zulässige Spannungsbereich liegt zwischen 10V...28V."
+msgstr "The permissible voltage range is between 10V...28V."
+
+#: ../../usermanual/start.rst:24 f020825761e842c283c59f6efebc6106
+#, fuzzy
+msgid "Abb.: Stromversorgung"
+msgstr "Fig.: Power supply"
+
+#: ../../usermanual/start.rst:28 75501904ef5146a4b1e173f2a5149783
+#, fuzzy
+msgid "Stromversorgung USB-C"
+msgstr "Power supply USB-C"

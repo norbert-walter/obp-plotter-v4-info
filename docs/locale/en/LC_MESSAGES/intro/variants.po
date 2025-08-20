@@ -1,0 +1,616 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Open Boat Projects
+# This file is distributed under the same license as the OBP-Plotter V4 Info
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OBP-Plotter V4 Info\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-20 12:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../intro/variants.rst:2 601c1de5fcc149e7bedb17d9f4f94dcb
+#, fuzzy
+msgid "Erweiterungen"
+msgstr "Extensions"
+
+#: ../../intro/variants.rst:5 5075798ac7c7407eba03dd6fb3a930b4
+#, fuzzy
+msgid "Software"
+msgstr "Software"
+
+#: ../../intro/variants.rst:7 1df88c76d87a4c65acd025a095e4c23c
+#, fuzzy
+msgid "**Android 15** (Standard)"
+msgstr "**Android 15** (Standard)"
+
+#: ../../intro/variants.rst:8 11ce29ab9eeb43b58177f34ada779f64
+#, fuzzy
+msgid ""
+"Als Standard-Betriebssystem wird Android 15 AOSP verwendet. AOSP basiert auf"
+" der freien Android Open Source Platform und nutzt die aktuellen "
+"Entwicklungen, die in Google Android verwendet werden. Android 15 AOSP "
+"enthält im Original keine Google-Services. Für das Plotter-Image wurden "
+"einige Google-Services eingefügt, wie PlayStore, Maps, GMail und Files. Zur "
+"Nutzung der Google Serices muss man sich mit einem Google-Account anmelden. "
+"Standardmäßig sind alle Sicherungsaktivitäten deaktiviert, die Daten zu "
+"Google auslagern."
+msgstr ""
+"Android 15 AOSP is used as the default operating system. AOSP is based on "
+"the free Android Open Source Platform and utilizes the latest developments "
+"used in Google Android. Android 15 AOSP does not include any Google services"
+" in its original form. Some Google services, such as Play Store, Maps, "
+"GMail, and Files, were included for the plotter image. To use Google "
+"services, you must log in with a Google account. By default, all backup "
+"activities that outsource data to Google are disabled."
+
+#: ../../intro/variants.rst:10 72a8c7934b184518b83a3d2ff0f5479f
+#, fuzzy
+msgid "**Android 14** (getestet)"
+msgstr "**Android 14** (tested)"
+
+#: ../../intro/variants.rst:11 49aad0426e4540ecbbcd1a6217c26d07
+#, fuzzy
+msgid ""
+"Android 14 AOSP kann als alternatives Betriebssystem genutzt werden. Es ist "
+"in gleicher Weise konfiguriert wie Android 15."
+msgstr ""
+"Android 14 AOSP can be used as an alternative operating system. It is "
+"configured in the same way as Android 15."
+
+#: ../../intro/variants.rst:13 33638838c6cc438a8e564c23233052a2
+#, fuzzy
+msgid "**Raspbian mit AVnav** (in Vorbereitung)"
+msgstr "**Raspbian mit AVnav** (in preparation)"
+
+#: ../../intro/variants.rst:14 1a06b092a14f4b88a5589bee508d54e8
+#, fuzzy
+msgid ""
+"Das AVnav Rasbian Image ist aktuell in Vorbereitung. Es stellt Raspian als "
+"Linux-Betriebssystem in der Version 12 (Bookworm) bereit. AVnav und SignalK "
+"und einige andere wichtige Komponenten sind vorinstalliert. Das System ist "
+"headless und benutzt keine Tastatur oder Maus. Die Bedienung erfolgt "
+"ausschließlich über die Weboberfläche per Touch."
+msgstr ""
+"The AVnav Raspbian image is currently being developed. It provides Raspbian "
+"version 12 (Bookworm) as a Linux operating system. AVnav and SignalK, along "
+"with several other important components, are preinstalled. The system is "
+"headless and does not use a keyboard or mouse. Operation is handled "
+"exclusively via the web interface using touchscreen."
+
+#: ../../intro/variants.rst:16 516c6d43e13f467889e94cb4f1b4a417
+#, fuzzy
+msgid "**Raspbian mit Open Plotter** (in Vorbereitung)"
+msgstr "**Raspbian mit Open Plotter** (in preparation)"
+
+#: ../../intro/variants.rst:17 41f3491f921641e79d22493270207b92
+#, fuzzy
+msgid ""
+"Das Open Plotter Image ist aktuell in Vorbereitung. Open Plotter benutzt "
+"einen gewöhnlichen Linux-Desktop als Bedienoberfläche. Die Bedienung erfolgt"
+" haupsächlich über Tastatur und Maus. Einige Programme sind auch über ein "
+"Webinterface bedienbar wie z.B. SignalK. Open Plotter unterstützt AVnav und "
+"OpenCPN als Plugin."
+msgstr ""
+"The Open Plotter image is currently in preparation. Open Plotter uses a "
+"standard Linux desktop as its user interface. Operation is primarily via "
+"keyboard and mouse. Some programs, such as SignalK, can also be operated via"
+" a web interface. Open Plotter supports AVnav and OpenCPN as plugins."
+
+#: ../../intro/variants.rst:19 690171ba279f45ce836f313db1b59c10
+#, fuzzy
+msgid "**O-Charts Seekarten**"
+msgstr "**O-Charts Seekarten**"
+
+#: ../../intro/variants.rst:23 18326aed1ea440b2981096a2122dba7b
+#, fuzzy
+msgid ""
+"O-Charts Seekarten sind kommerzielle Seekarten, die in AVnav oder OpenCPN "
+"verwendet werden können. Die oeSENC Vektorkarten sind recht preisgünstig und"
+" decken die wichtigsten Seegebiete für Wassersportler ab. Sie können online "
+"über den `Store von O-Charts`_ bezogen werden. Die Seekarten werden über "
+"einen Software-Token geschützt, der Ihnen nach dem Kauf per Mail übergeben "
+"wird. Die Karte kann auf einem Gerät benutzt werden. Nach Ablauf der "
+"Gültigkeit ist die Seekarte weiterhin nutzbar, jedoch nicht mehr "
+"aktualisierbar."
+msgstr ""
+"O-Charts nautical charts are commercial nautical charts that can be used in "
+"AVnav or OpenCPN. The oeSENC vector charts are quite affordable and cover "
+"the most important water areas for water sports enthusiasts. They can be "
+"purchased online via `Store von O-Charts`_. The nautical charts are "
+"protected by a software token, which will be sent to you via email after "
+"purchase. The chart can be used on one device. After expiration, the chart "
+"can still be used, but can no longer be updated."
+
+#: ../../intro/variants.rst:26 36fe15036efb449fa628f9dca0fd48f3
+#, fuzzy
+msgid ""
+"Der Token kann nicht auf einen USB-Dongle übertragen werden. Bereits "
+"gekaufte Seekarten, die einem USB-Dongle zugeordnet sind, können nicht unter"
+" Android genutzt werden, da USB-Dongles vom Betriebssystem nicht erkannt "
+"werden."
+msgstr ""
+"The token cannot be transferred to a USB dongle. Previously purchased "
+"nautical charts associated with a USB dongle cannot be used on Android "
+"because USB dongles are not recognized by the operating system."
+
+#: ../../intro/variants.rst:31 f076077bf30c4ba9a7326ed2f217fa37
+#, fuzzy
+msgid "Hardware"
+msgstr "Hardware"
+
+#: ../../intro/variants.rst:34 37b1987ba547435e926eb7e6480ee7ca
+#, fuzzy
+msgid ""
+"Aktuell arbeiten wir daran, Erweiterungen anzubieten. Nicht alle "
+"Erweiterungen werden sofort verfügbar sein. Wir bitten um etwas Geduld."
+msgstr ""
+"We're currently working on adding new features. Not all of them will be "
+"available immediately. Please be patient."
+
+#: ../../intro/variants.rst:36 c79f591c78dc43c48085f28f928ceecf
+#, fuzzy
+msgid "**Gehäuseschalen**"
+msgstr "**Gehäuseschalen**"
+
+#: ../../intro/variants.rst:40 4e303488bf9d4fac9bb432eb51bdf9ae
+#, fuzzy
+msgid ""
+"Die Gehäuseschalen sind bearbeitet und verfügen über die nötigen Ausbrüche "
+"im Gehäuse. Eine Gehäusedichtung und die notwendigen Schrauben gehören "
+"ebenfalls dazu."
+msgstr ""
+"The housing shells are machined and feature the necessary cutouts. A housing"
+" gasket and the necessary screws are also included."
+
+#: ../../intro/variants.rst:42 d166581318e54582b22235fffe3fc1cc
+#, fuzzy
+msgid "**Tragekoffer**"
+msgstr "**Tragekoffer**"
+
+#: ../../intro/variants.rst:46 6d6d046f6da4488fa7fdbbfa884191da
+#, fuzzy
+msgid ""
+"In dem Kunststoff-Tragekoffer kann der OBP-Plotter sicher aufbewahrt werden,"
+" wenn er nicht auf dem Boot benutzt wird."
+msgstr ""
+"The OBP plotter can be safely stored in the plastic carrying case when not "
+"in use on the boat."
+
+#: ../../intro/variants.rst:48 050818f92ba64abdbcac6d3c8121c676
+#, fuzzy
+msgid "**Mainboard**"
+msgstr "**Mainboard**"
+
+#: ../../intro/variants.rst:52 c45173e49ab1465faa913839b4fc7778
+#, fuzzy
+msgid ""
+"Auf dem Mainboard sind alle funktionswichtigen Hardwarekomponenten "
+"vereinigt. Mit nur wenigen Kabelverbindungen und einem zusätzlichen "
+"Raspberry Pi CM5 Modul kann ein lauffähiges System bereit gestellt werden. "
+"Das Mainboard ist an das Gehäuse angepasst und wird an vier Domen im Gehäuse"
+" mit Schrauben befestigt. Das Mainboard lässt sich auch in anderen Gehäusen "
+"verwenden. Das Raspberry Pi CM5 Modul ist nicht Bestandteil des Mainboards."
+msgstr ""
+"The mainboard combines all the essential hardware components. With just a "
+"few cable connections and an additional Raspberry Pi CM5 module, a fully "
+"functional system can be set up. The mainboard is designed to fit the case "
+"and is attached to four domes within the case with screws. The mainboard can"
+" also be used in other cases. The Raspberry Pi CM5 module is not included "
+"with the mainboard."
+
+#: ../../intro/variants.rst:54 272549b2f1464636be2346b1e4206ca6
+#, fuzzy
+msgid "**HDMI-Controller**"
+msgstr "**HDMI-Controller**"
+
+#: ../../intro/variants.rst:57 f973997f07424d3491df0c86c4ed63a1
+#, fuzzy
+msgid ""
+"Der HDMI-Controller ist ein Zusatzbord, das verwendet wird, wenn keine "
+"Mainbord eingesetzt wird und das Plottergehäuse mit integriertem Display als"
+" Monitor verwendet werden soll. Der Controller verfügt über einen Anschluss "
+"für den Streifenleiter zum Display. Über einne Keyboard-Platine lassen sich "
+"die Grundeinstellungen, wie Auflösung, Helligkeit, Kontrast und Farbe des "
+"HDMI-Controllers vornehmen, wie man es von einem Monitor gewohnt ist. Der "
+"HDMI-Controller dient nur zur Bildübertragung. Die Touchfunktion des "
+"Displays und der IR-Fernbedinung werden nicht unterstützt."
+msgstr ""
+"The HDMI controller is an add-on board used when no motherboard is installed"
+" and the plotter housing with its integrated display is to be used as a "
+"monitor. The controller has a connector for the stripline to the display. A "
+"keyboard board allows basic settings such as resolution, brightness, "
+"contrast, and color of the HDMI controller to be adjusted, just as you would"
+" with a monitor. The HDMI controller is used only for image transmission. "
+"The touch function of the display and the IR remote control are not "
+"supported."
+
+#: ../../intro/variants.rst:59 204f7bcd0968409aa1f38ba0c50052ef
+#, fuzzy
+msgid "HDMI-Controller-Platine für 10\" TFT-Display"
+msgstr "HDMI controller board for 10\" TFT display"
+
+#: ../../intro/variants.rst:60 022f21cacc2c461b8d49ae1240cf16a4
+#, fuzzy
+msgid "Auflösung: VGA, SVGA, HD, 2K, 4K"
+msgstr "Resolution: VGA, SVGA, HD, 2K, 4K"
+
+#: ../../intro/variants.rst:61 817c36221db144fbadb7458b646b353d
+#, fuzzy
+msgid "Funktionen: Upscaler, PIP"
+msgstr "Features: Upscaler, PIP"
+
+#: ../../intro/variants.rst:62 7bf0f9d7d8b14527a40e8e21851719dd
+#, fuzzy
+msgid "Eingang: HDMI, VGA"
+msgstr "Input: HDMI, VGA"
+
+#: ../../intro/variants.rst:63 7d7303b9367f4508953c192530e15b02
+#, fuzzy
+msgid "Stromversorgung: 12V 1.5A, Hohlklinkenstecker"
+msgstr "Power supply: 12V 1.5A, hollow jack plug"
+
+#: ../../intro/variants.rst:65 0fa7e31e01a24c2581cf8f77dd71dd4f
+#, fuzzy
+msgid "**HDMI-Connector-Board**"
+msgstr "**HDMI-Connector-Board**"
+
+#: ../../intro/variants.rst:68 a0f5f5f7dc6143dfbea308aa19a81a3c
+#, fuzzy
+msgid ""
+"Das HDMI-Connector-Board wird anstelle des Compute Moduls im Mainboard "
+"eingesteckt. Dadurch kann die Plotter-Hardware wie ein normaler Monitor "
+"benutzt werden. Zusätzlich können über USB unabhängig vom verwendeten "
+"Betriebssystem die Touchfunktion des 10\" TFT-Displays und die Funktionen "
+"der IR-Fernbedienung genutzt werden. Der so entstandene Monitor lässt sich "
+"unter Linux, Mac OS und Windows nutzen."
+msgstr ""
+"The HDMI connector board is plugged into the mainboard in place of the "
+"compute module. This allows the plotter hardware to be used like a normal "
+"monitor. Additionally, the touch function of the 10\" TFT display and the IR"
+" remote control functions can be used via USB, regardless of the operating "
+"system used. The resulting monitor can be used under Linux, Mac OS, and "
+"Windows."
+
+#: ../../intro/variants.rst:71 ca4a84dc0d16431993f81a731cbecfae
+#, fuzzy
+msgid "**Compute Modul CM5** (Standard)"
+msgstr "**Compute Modul CM5** (Standard)"
+
+#: ../../intro/variants.rst:75 94a8dbd4be8544189e406c954fca66c4
+#, fuzzy
+msgid ""
+"Das Raspberry Pi Compute Modul CM5 ist die zentrale Recheneinheit des OBP-"
+"Plotters. Es ist das derzeit leistungsfähigste Modul der Raspberry "
+"Fondation. Als Standard-Modul wird eine Modul mit folgenden Komponeneten "
+"eingesetzt:"
+msgstr ""
+"The Raspberry Pi Compute Module CM5 is the central processing unit of the "
+"OBP plotter. It is currently the most powerful module available from the "
+"Raspberry Pi Foundation. The standard module uses the following components:"
+
+#: ../../intro/variants.rst:77 ../../intro/variants.rst:90
+#: 3b48fccae2844202b1c36215ee53aaa0 8af28257e59e4953933c93db88dd4b93
+#, fuzzy
+msgid "CPU: BCM2712, Quad Core, 64 Bit"
+msgstr "CPU: BCM2712, Quad Core, 64 Bit"
+
+#: ../../intro/variants.rst:78 ../../intro/variants.rst:91
+#: 28e5c3d21b724b5495f3a2545851cd6d e5676f81b81c4624bab820283c33c6a9
+#, fuzzy
+msgid "CPU-Speed: 2.5 GHz, Auto-Speedstepping"
+msgstr "CPU-Speed: 2.5 GHz, Auto-Speedstepping"
+
+#: ../../intro/variants.rst:79 ../../intro/variants.rst:105
+#: 3e23ad0d10a44ec8aae4aa75fbd56ce6 db7a6f38a5b448a78c64eedf7f836ce0
+#, fuzzy
+msgid "RAM: 4 GB, fix"
+msgstr "RAM: 4 GB, fixed"
+
+#: ../../intro/variants.rst:80 ../../intro/variants.rst:106
+#: 06dc2f9a89c74fe4b01b7e3bb150c26c 78edc792e79c409c9109cc32900abac3
+#, fuzzy
+msgid "eMMC: 0 GB"
+msgstr "eMMC: 0 GB"
+
+#: ../../intro/variants.rst:81 ../../intro/variants.rst:94
+#: ../../intro/variants.rst:107 3d853021a2984763b8edbae1296e4d94
+#: 40c9be59eee240e5b87f3d4264833a3a 79698e012b6c41649e553118114a5215
+#, fuzzy
+msgid "WiFi, BT"
+msgstr "WiFi, BT"
+
+#: ../../intro/variants.rst:82 ../../intro/variants.rst:108
+#: 809eb37d6cb44e608d8170fe795c0d40 f3b9d2e234ff475c9b0cc4d22e41db75
+#, fuzzy
+msgid "Angepasster Bootloader für SSD NVMe"
+msgstr "Custom bootloader for SSD NVMe"
+
+#: ../../intro/variants.rst:84 d5ba469a227c438191fd1a8d7f78c9d9
+#, fuzzy
+msgid "**Compute Modul CM5 Extended**"
+msgstr "**Compute Modul CM5 Extended**"
+
+#: ../../intro/variants.rst:88 aaf0f8de7bcf4b2db883bb248b71c070
+#, fuzzy
+msgid ""
+"Das Compute Modul CM5 Extended verfügt über mehr RAM und über einen eMMC "
+"Flash-Speicher. Alle weiteren Daten sind identisch zum Standard-Modul. Der "
+"Bootloader wurde an die Verwendung einer SSD NVMe angepasst. Die "
+"Bootreihenfolge wurde verändert, so dass automatisch zwischen dem "
+"Betriebssystem der SSD und des eMMC umgeschaltet wird. Beim Fehlen einer SSD"
+" wird das Betriebssystem des eMMC verwendet."
+msgstr ""
+"The CM5 Extended Compute Module features more RAM and an eMMC flash drive. "
+"All other specifications are identical to the standard module. The "
+"bootloader has been adapted for use with an NVMe SSD. The boot order has "
+"been changed to automatically switch between the SSD and eMMC operating "
+"systems. If an SSD is not available, the eMMC operating system is used."
+
+#: ../../intro/variants.rst:92 f9eaa68c840e430eb1174452e7a32065
+#, fuzzy
+msgid "RAM: 8 GB, fix"
+msgstr "RAM: 8 GB, fixed"
+
+#: ../../intro/variants.rst:93 bbdcb3862ea74b3aad5b5d871dc531a6
+#, fuzzy
+msgid "eMMC: 32 GB (Bootfähiges Backupmedium mit Android 15)"
+msgstr "eMMC: 32 GB (Bootable backup media with Android 15)"
+
+#: ../../intro/variants.rst:95 c9f38da062bc41899b71f0ca072ddfc7
+#, fuzzy
+msgid "Angepasster Bootloader für SSD NVMe und Bootreihenfolge"
+msgstr "Custom bootloader for SSD NVMe and boot order"
+
+#: ../../intro/variants.rst:97 057d0715aec5438bb80b29da116e0713
+#, fuzzy
+msgid "**Compute Modul CM4** (getestet)"
+msgstr "**Compute Modul CM4** (tested)"
+
+#: ../../intro/variants.rst:101 fd744d27d70344f388bac4367912065b
+#, fuzzy
+msgid ""
+"Das Raspberry Pi Compute Modul CM4 kann als alternative Recheneinheit des "
+"OBP-Plotters verwendet werden. Das Modul hat folgende Komponeneten:"
+msgstr ""
+"The Raspberry Pi Compute Module CM4 can be used as an alternative computing "
+"unit for the OBP plotter. The module has the following components:"
+
+#: ../../intro/variants.rst:103 17a66f928ce144ebbc7dff0b9bedad3d
+#, fuzzy
+msgid "CPU: BCM2711, Quad Core, 64 Bit"
+msgstr "CPU: BCM2711, Quad Core, 64 Bit"
+
+#: ../../intro/variants.rst:104 57807fade8eb49ba9c78996d278efe3f
+#, fuzzy
+msgid "CPU-Speed: 1.5 GHz, Auto-Speedstepping"
+msgstr "CPU-Speed: 1.5 GHz, Auto-Speedstepping"
+
+#: ../../intro/variants.rst:110 4d599a1cfebf4af797054a6a891e0541
+#, fuzzy
+msgid "**SSD NVMe 1 TB**"
+msgstr "**SSD NVMe 1 TB**"
+
+#: ../../intro/variants.rst:114 1478bc104cf54f628c02506f1809e23d
+#, fuzzy
+msgid ""
+"Die SSD NVMe 1 TB ist mit Android 15 vorinstalliert und verfügt über "
+"deutlich mehr Speicher als die Standard-SSD mit 512 GB."
+msgstr ""
+"The 1 TB NVMe SSD comes pre-installed with Android 15 and has significantly "
+"more storage than the standard 512 GB SSD."
+
+#: ../../intro/variants.rst:116 e1d44c010bee4c11bb7120ff485088d3
+#, fuzzy
+msgid "**NMEA2000-Erweiterung (demnächst)**"
+msgstr "**NMEA2000-Erweiterung (demnächst)**"
+
+#: ../../intro/variants.rst:120 24e2ddc69e98474986a301d4eed4ee22
+#, fuzzy
+msgid ""
+"Die NMEA2000-Erweiterung dient zur Bereitstellung der "
+"NMEA2000-Funktionalität. Sie wird als kleine Zusatzplatine im Mainbord "
+"aufgesteckt. Der NMEA2000-Bus wird über Kabelverbindungen mit einer M12 "
+"Einbaubuchse verbunden. Zusätzlich gibt es Anschlüsse für I2C- und 1Wire-"
+"Sensorik. Das Erweiterungsmodul enthält folgende Komponenten:"
+msgstr ""
+"The NMEA 2000 extension provides NMEA 2000 functionality. It is plugged into"
+" the mainboard as a small add-on board. The NMEA 2000 bus is connected via "
+"cable to an M12 panel socket. There are also connections for I2C and 1Wire "
+"sensors. The extension module contains the following components:"
+
+#: ../../intro/variants.rst:122 523282590b214400b9466a8bf9029ff3
+#, fuzzy
+msgid "ESP32-S3"
+msgstr "ESP32-S3"
+
+#: ../../intro/variants.rst:123 2c5a055c1781415cafad3fee5c9a3337
+#, fuzzy
+msgid "NMEA2000-Gateway-Firmware"
+msgstr "NMEA2000-Gateway-Firmware"
+
+#: ../../intro/variants.rst:124 a7519699840f4e19b39f5b299789f688
+#, fuzzy
+msgid "NMEA2000-Port"
+msgstr "NMEA2000-Port"
+
+#: ../../intro/variants.rst:125 b781316aa5574dae9c993a5d9dbae575
+#, fuzzy
+msgid "NMEA0183-Port"
+msgstr "NMEA0183-Port"
+
+#: ../../intro/variants.rst:126 a3296ca825d74139a1e38757344c6971
+#, fuzzy
+msgid "Unterstützung von I2C- und 1Wire-Sensorik"
+msgstr "Support for I2C and 1Wire sensors"
+
+#: ../../intro/variants.rst:127 295a57d8b0cf4aadbba2348a1f0edfc9
+#, fuzzy
+msgid "M12-Buche mit Verbindungskabel"
+msgstr "M12 socket with connecting cable"
+
+#: ../../intro/variants.rst:128 939e4f3977184093a70385cb232d1882
+#, fuzzy
+msgid "2 Befestigungsschrauben"
+msgstr "2 fastening screws"
+
+#: ../../intro/variants.rst:130 4690a0a26d8d472db7c26b17647f5fc6
+#, fuzzy
+msgid "**U-Mount**"
+msgstr "**U-Mount**"
+
+#: ../../intro/variants.rst:134 ae7894fc69564e82974914cb620a50a2
+#, fuzzy
+msgid ""
+"Der U-Mount ist ein Befestigungsbügel für den OBP-Plotter. Der Plotter lässt"
+" sich einhängen und mit zwei Knäufen arretieren. Der Betrachtungswinkel kann"
+" vertikal eingestellt werden. Der Befestigungsbügel ist aus mattem Edelstahl"
+" hergestellt. Der Befestigungsbügel kann an horizontalen oder vertikalen "
+"Flächen angebracht werden. Eine Deckenmontage ist ebenfalls möglich. Das Kit"
+" besteht aus:"
+msgstr ""
+"The U-Mount is a mounting bracket for the OBP plotter. The plotter can be "
+"hung on it and secured with two knobs. The viewing angle can be adjusted "
+"vertically. The mounting bracket is made of matte stainless steel. The "
+"mounting bracket can be attached to horizontal or vertical surfaces. Ceiling"
+" mounting is also possible. The kit consists of:"
+
+#: ../../intro/variants.rst:136 2937c46bea74455d9c58ec4e8c3fe1bb
+#, fuzzy
+msgid "1x Befestigungsbügel"
+msgstr "1x mounting bracket"
+
+#: ../../intro/variants.rst:137 c8dbdeeb384e4185ad848f47f6f6af01
+#, fuzzy
+msgid "2x Haltewinkel für Plotter"
+msgstr "2x mounting brackets for plotter"
+
+#: ../../intro/variants.rst:138 dda69b6ea02f4e0a9110009c76efc52b
+#, fuzzy
+msgid "2x Knäufe mit Unterlegscheiben und Federn"
+msgstr "2x knobs with washers and springs"
+
+#: ../../intro/variants.rst:139 08a012b7b60644e78cf83df4a7adfa7f
+#, fuzzy
+msgid "4x Selbstsichernde Mutter mit Unterlkegscheibe und Dichtung"
+msgstr "4x self-locking nut with washer and seal"
+
+#: ../../intro/variants.rst:140 3c9cc8e563eb4659a4b03c77d8647518
+#, fuzzy
+msgid "3x Befestigungsschrauben für Bügel"
+msgstr "3x mounting screws for bracket"
+
+#: ../../intro/variants.rst:141 3c0a008b79544081b5d5d419838edb56
+#, fuzzy
+msgid "1x Bohrschablone"
+msgstr "1x Bohrschablone"
+
+#: ../../intro/variants.rst:143 09dbefc522aa4b5f884715d2dfbc1060
+#, fuzzy
+msgid "**RAM-Mount**"
+msgstr "**RAM-Mount**"
+
+#: ../../intro/variants.rst:147 8cb86448f28e4009ab6d054724d3d48d
+#, fuzzy
+msgid ""
+"Der RAM-Mount ist eine universelle Befestigungsmöglichkeit für den OBP-"
+"Plotter. DDer RAM-Mount besteht aus einem witterungsbeständigen Kunststoff "
+"und wird über die VESA-Halterung mit der Rückseite des OBP-Plotters "
+"verbunden. Über zwei Kugelgelenke lässt sich der Plotter beliebig im Hoch- "
+"oder Querformat in beliebigen Winkeln positionieren. Mit einer zentralen "
+"Klemmschraube lässt sioch die Position fixieren. Das Kit besteht aus:"
+msgstr ""
+"The RAM Mount is a universal mounting option for the OBP plotter. The RAM "
+"Mount is made of weather-resistant plastic and connects to the back of the "
+"OBP plotter via the VESA mount. Two ball joints allow the plotter to be "
+"positioned in portrait or landscape format at any angle. A central clamping "
+"screw secures the position. The kit includes:"
+
+#: ../../intro/variants.rst:149 cd0d2a10215b40c7abb89834605447f6
+#, fuzzy
+msgid "RAM-Mount mit 2 Kugelplatten und 2 Verbindungsstegen"
+msgstr "RAM mount with 2 ball plates and 2 connecting bars"
+
+#: ../../intro/variants.rst:150 f6168145aed645839be23cc5ede18c37
+#, fuzzy
+msgid "Fixierschraube"
+msgstr "Fixing screw"
+
+#: ../../intro/variants.rst:151 d3067c5b04b440dabbc8c008f22cd24d
+#, fuzzy
+msgid "4x Befestigungtsschrauben für VESA-Halterung"
+msgstr "4x mounting screws for VESA mount"
+
+#: ../../intro/variants.rst:152 715db0bce0964395aa21a926ee1d69e9
+#, fuzzy
+msgid "4x Befestigungschrauben für Untergrund"
+msgstr "4x fixing screws for the substrate"
+
+#: ../../intro/variants.rst:154 0e8f061774d949b5b5cff935c8ea9e86
+#, fuzzy
+msgid "**IR-Fernbedienung**"
+msgstr "**IR-Fernbedienung**"
+
+#: ../../intro/variants.rst:158 fb5f282afd3e4a1f92af765da3c42117
+#, fuzzy
+msgid ""
+"Mit der leistungsstarken IR-Fernbedienung kann der OBP-Plotter auch unter "
+"Sonnenlicht über eine Entfernung mit bis zu 8 m bedient werden. Über 15 "
+"Tasten lassen sich die wichtigsten Funktionen des Plotters erreichen. Die "
+"Fernbedienung ist an AVnav angepasst und besteht aus einem "
+"spritzwassergeschützen Kunststoffgehäuse mit Folientastatur. Eine Kordel als"
+" universelle Befestigungsmöglichkeit gehört zum Lieferumfang. Mit einer "
+"CR2032 Batterie ist die Fernbedienung über mehrere Jahre einsatzbereit."
+msgstr ""
+"With the powerful IR remote control, the OBP plotter can be operated even in"
+" sunlight from a distance of up to 8 m. Fifteen buttons provide access to "
+"the plotter's most important functions. The remote control is designed for "
+"AVnav and consists of a splash-proof plastic housing with a membrane keypad."
+" A cord for universal attachment is included. With a CR2032 battery, the "
+"remote control can be used for several years."
+
+#: ../../intro/variants.rst:160 d03f2342d43045c1915d95230f5087f6
+#, fuzzy
+msgid "Gehäuse: ABS, spritzwassergeschützt"
+msgstr "Housing: ABS, splash-proof"
+
+#: ../../intro/variants.rst:161 df1b6b21033a4b8cbc83781b8a1966a5
+#, fuzzy
+msgid "Tastenanzahl: 15, Folientastatur"
+msgstr "Number of keys: 15, membrane keyboard"
+
+#: ../../intro/variants.rst:162 b97319027f1e4642be2a71c7db0e6924
+#, fuzzy
+msgid "Übertragungsart: IR"
+msgstr "Transmission type: IR"
+
+#: ../../intro/variants.rst:163 098a574818ad421181aacc40ba5d5d1b
+#, fuzzy
+msgid "Reichweite: bis zu 8 man"
+msgstr "Range: up to 8 people"
+
+#: ../../intro/variants.rst:164 53800a8a987441d5bc82358d7d4875b8
+#, fuzzy
+msgid "Sonnentauglich"
+msgstr "Suitable for sun"
+
+#: ../../intro/variants.rst:165 64fa60f430e74d8190caa8ff8c403e6e
+#, fuzzy
+msgid "Stromversorgung: 1x CR2032, 3V"
+msgstr "Power supply: 1x CR2032, 3V"
+
+#: ../../intro/variants.rst:166 2585b9d76f7c4a4fbcecef89a25ccb19
+#, fuzzy
+msgid "Einsatzdauer: mehr als 1 Jahr (nutzungsabhängig)"
+msgstr "Service life: more than 1 year (depending on usage)"

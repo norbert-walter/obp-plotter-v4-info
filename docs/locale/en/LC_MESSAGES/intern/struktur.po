@@ -1,0 +1,346 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Open Boat Projects
+# This file is distributed under the same license as the OBP-Plotter V4 Info
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OBP-Plotter V4 Info\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-20 12:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../intern/struktur.rst:2 642df043932f433d9425236f4570dd6c
+#, fuzzy
+msgid "Strukturvorschlag Michael"
+msgstr "Structural proposal Michael"
+
+#: ../../intern/struktur.rst:5 3cb637f9dc4048d3b4a923f03c5ca028
+#, fuzzy
+msgid "Version 1:"
+msgstr "Version 1:"
+
+#: ../../intern/struktur.rst:8 075fdc8aa5ac4f679bb358c518a9dc70
+#, fuzzy
+msgid "**1. Einführung**"
+msgstr "**1. Einführung**"
+
+#: ../../intern/struktur.rst:10 873683d7a1184fe9946677cea5b3b9af
+#, fuzzy
+msgid ""
+"*(>>> Ziel: schnelle Information über Möglichkeiten und Besonderheiten des "
+"Geräts)*"
+msgstr ""
+"*(>>> Ziel: schnelle Information über Möglichkeiten und Besonderheiten des "
+"Geräts)*"
+
+#: ../../intern/struktur.rst:12 04cdb8dd7fe64d04913e133f77f63596
+#, fuzzy
+msgid "1.1. Das Gerät"
+msgstr "1.1. The device"
+
+#: ../../intern/struktur.rst:14 13bf67873a274337b7389c3238941914
+#, fuzzy
+msgid ""
+"*(>>> wie sieht er aus? Was kann er? Wo und wie kann er an Bord genutzt "
+"werden?)*"
+msgstr ""
+"*(>>> wie sieht er aus? Was kann er? Wo und wie kann er an Bord genutzt "
+"werden?)*"
+
+#: ../../intern/struktur.rst:16 ecd41280aae64f6ca93e33f62549da2f
+#, fuzzy
+msgid "1.2. Einsatzmöglichkeiten"
+msgstr "1.2. Possible applications"
+
+#: ../../intern/struktur.rst:18 8a1691e0609f48439cf84a0c4558c801
+#, fuzzy
+msgid ""
+"*(>>> Welche Navigationssoftware läuft drauf, welche Karten kann man nutzen?"
+msgstr "*(>>> Which navigation software runs on it, which maps can you use?"
+
+#: ../../intern/struktur.rst:19 d47525f5c28f443bb8e6a7b52a1ee455
+#, fuzzy
+msgid "(Welche Schnittstellen fürs Bordnetzwerk stehen zur Verfügung?)*"
+msgstr "(Which interfaces for the on-board network are available?)*"
+
+#: ../../intern/struktur.rst:21 fcc6a395a15c499abaf74bccd9902033
+#, fuzzy
+msgid "1.3. Auslieferungszustand"
+msgstr "1.3. Delivery condition"
+
+#: ../../intern/struktur.rst:23 9cc9280877e24be897c90c260db9d427
+#, fuzzy
+msgid ""
+"*(>>> In welchem Konfigurationsvariante wird das Gerät an den Kunden "
+"geliefert?)*"
+msgstr ""
+"*(>>> In welchem Konfigurationsvariante wird das Gerät an den Kunden "
+"geliefert?)*"
+
+#: ../../intern/struktur.rst:26 5e4280e66cdf43a4bd72356987a30482
+#, fuzzy
+msgid "**2. Handbuch**"
+msgstr "**2. Handbuch**"
+
+#: ../../intern/struktur.rst:28 9485393af334492989705c8b054658e1
+#, fuzzy
+msgid "**2.1. Inbetriebnahme**"
+msgstr "**2.1. Inbetriebnahme**"
+
+#: ../../intern/struktur.rst:29 4086bd945b0141069620a0c065b886f0
+#, fuzzy
+msgid ""
+"*(>>> was muss getan werden, um das Gerät an Bord oder zu Haus in Betrieb "
+"nehmen zu können?)*"
+msgstr ""
+"*(>>> was muss getan werden, um das Gerät an Bord oder zu Haus in Betrieb "
+"nehmen zu können?)*"
+
+#: ../../intern/struktur.rst:31 f6542345a6824bc5abfe5848872075b5
+#, fuzzy
+msgid "2.1.1. Einbau/ Aufbau"
+msgstr "2.1.1. Installation/Construction"
+
+#: ../../intern/struktur.rst:32 475f2c1c97f84557a5db8555ac4bd58a
+#, fuzzy
+msgid "(>>> Anbaumöglichkeiten: Vesa, Schottmantage etc)*"
+msgstr "(>>> Mounting options: Vesa, Schottmantage etc.)*"
+
+#: ../../intern/struktur.rst:34 18ddfcea606a4229b98c66426e786701
+#, fuzzy
+msgid "2.1.2. Stromversorgung"
+msgstr "2.1.2. Power supply"
+
+#: ../../intern/struktur.rst:36 3a62fd4acac348d9b91e5e8efe2a7d64
+#, fuzzy
+msgid "2.1.3. Ein/Ausschalten"
+msgstr "2.1.3. Switching on/off"
+
+#: ../../intern/struktur.rst:38 bec7c284dc6e4b2299d22fdd3dce0241
+#, fuzzy
+msgid "2.2. **Installation Software**"
+msgstr "2.2. **Installation Software**"
+
+#: ../../intern/struktur.rst:39 94467a38f1414115a646f11c89380c6b
+#, fuzzy
+msgid "*(>>> wie bekommt man die gewünschte Software auf das Gerät?)*"
+msgstr "*(>>> wie bekommt man die gewünschte Software auf das Gerät?)*"
+
+#: ../../intern/struktur.rst:41 62404f4fe90c4ffda0c3c95530dc6839
+#, fuzzy
+msgid "2.2.1. AvNav und Android"
+msgstr "2.2.1. AvNav and Android"
+
+#: ../../intern/struktur.rst:42 870b7c8e1a444598aa3e70a8346d7a84
+#, fuzzy
+msgid "*(fertiges AvNav-Android-Image einspielen)*"
+msgstr "*(fertiges AvNav-Android-Image einspielen)*"
+
+#: ../../intern/struktur.rst:44 7dfcbd33162142638d4b3b4d8e9bae44
+#, fuzzy
+msgid "2.2.2. AvNav und Raspbian"
+msgstr "2.2.2. AvNav and Raspbian"
+
+#: ../../intern/struktur.rst:45 bd7c1fb3bbf44c39bd66e5fcea2468ca
+#, fuzzy
+msgid "*(fertiges AvNav-Raspbian-Image einspielen)*"
+msgstr "*(fertiges AvNav-Raspbian-Image einspielen)*"
+
+#: ../../intern/struktur.rst:47 3ef3e7b243de478b8716b8f069a26926
+#, fuzzy
+msgid "2.2.3. Alternativen"
+msgstr "2.2.3. Alternatives"
+
+#: ../../intern/struktur.rst:48 beccadea97694bbca6416f4a34ee2fb2
+#, fuzzy
+msgid ""
+"*(Android-ASOP und weitere Plottersoftware, Openplotter für Raspbian etc.)*"
+msgstr ""
+"*(Android-ASOP und weitere Plottersoftware, Openplotter für Raspbian etc.)*"
+
+#: ../../intern/struktur.rst:50 eda6fd3d655742e581cfd0274eb60f97
+#, fuzzy
+msgid "**2.3. Konfiguration**"
+msgstr "**2.3. Konfiguration**"
+
+#: ../../intern/struktur.rst:52 5ff168b009714a74b3745a059b8fc241
+#, fuzzy
+msgid ""
+"*(>>> Überblick über die Einstellmöglichkeiten der Softwarevarianten, "
+"Konzentration auf AvNav und Android. AvNav-Raspbian Verweis auf AvNav)*"
+msgstr ""
+"*(>>> Überblick über die Einstellmöglichkeiten der Softwarevarianten, "
+"Konzentration auf AvNav und Android. AvNav-Raspbian Verweis auf AvNav)*"
+
+#: ../../intern/struktur.rst:54 afefe27b2c3a40f9aebb61fb2c3b43c1
+#, fuzzy
+msgid "2.3.1 Avnav"
+msgstr "2.3.1 Avnav"
+
+#: ../../intern/struktur.rst:55 cc95c66ea4c34bd3aae55893f7638858
+#, fuzzy
+msgid "*(>>> knapp halten, mit Verweisen/ Liks arbeiten)*"
+msgstr "*(>>> knapp halten, mit Verweisen/ Liks arbeiten)*"
+
+#: ../../intern/struktur.rst:57 5bc397ad1f484cbd9669300d000df23b
+#, fuzzy
+msgid "2.3.1.1 Bedienoberfläche"
+msgstr "2.3.1.1 User interface"
+
+#: ../../intern/struktur.rst:58 1a6e0a0b1f3544969d00425a61af6d9c
+#, fuzzy
+msgid "2.3.1.2. Schnittstellen einrichten"
+msgstr "2.3.1.2. Setting up interfaces"
+
+#: ../../intern/struktur.rst:59 47a9bbe793164602aeca42fb4ecbe8e5
+#, fuzzy
+msgid "2.3.1.3. Fernbedienung einrichten"
+msgstr "2.3.1.3. Setting up the remote control"
+
+#: ../../intern/struktur.rst:62 8db3ca27f30944658d8939f7d7089eaf
+#, fuzzy
+msgid "**2.4. Konstruktion**"
+msgstr "**2.4. Konstruktion**"
+
+#: ../../intern/struktur.rst:63 0914c5369a2441418ffc4e32390aa971
+#, fuzzy
+msgid ""
+"*(>>> wie sieht der Plotter innen aus, wie öffnen, wie Kabel verbinden etc)*"
+msgstr ""
+"*(>>> wie sieht der Plotter innen aus, wie öffnen, wie Kabel verbinden etc)*"
+
+#: ../../intern/struktur.rst:65 5b591034f50048aabf70bd7c1d3f4d87
+#, fuzzy
+msgid "Gerät öffnen"
+msgstr "Open device"
+
+#: ../../intern/struktur.rst:66 73f3cfcfde014c7a9d35e59c6eea4b90
+#, fuzzy
+msgid "Lageplan Platinen"
+msgstr "Circuit board layout plan"
+
+#: ../../intern/struktur.rst:67 8f41f3180b5c4321a1268b6f434e8ed4
+#, fuzzy
+msgid "Kabelplan"
+msgstr "Cable plan"
+
+#: ../../intern/struktur.rst:70 c930520245b74c6c97af3b58567a25b5
+#, fuzzy
+msgid "**2.5. Erweiterungsmöglichkeiten**"
+msgstr "**2.5. Erweiterungsmöglichkeiten**"
+
+#: ../../intern/struktur.rst:72 ab53bc1b178d4c219a30d485a333861f
+#, fuzzy
+msgid "2.5.1. PiggyBack-Platine(n)"
+msgstr "2.5.1. PiggyBack-Platine(n)"
+
+#: ../../intern/struktur.rst:74 af2c3fafd0a1468e93788ff488c3a666
+#, fuzzy
+msgid "Welche Platinen gibt es"
+msgstr "Which boards are available"
+
+#: ../../intern/struktur.rst:75 df4640cbac5349fdbdcb18836ff1718e
+#, fuzzy
+msgid "Wozu sind sie da?"
+msgstr "What are they for?"
+
+#: ../../intern/struktur.rst:76 9231e679a5b349939c1ba3f7412b148a
+#, fuzzy
+msgid "Wie baut man sie ein und konfiguriert sie?"
+msgstr "How do you install and configure it?"
+
+#: ../../intern/struktur.rst:78 a3866bf446634d6f94356a99abe64d10
+#, fuzzy
+msgid "2.5.2. Alternative Rückwände"
+msgstr "2.5.2. Alternative back walls"
+
+#: ../../intern/struktur.rst:79 0b55a398914b4080b7d50de693add03f
+#, fuzzy
+msgid "Verweise auf STL-Dateien"
+msgstr "References to STL files"
+
+#: ../../intern/struktur.rst:83 03c47fe3fc5445e0b67c0e323fd22cae
+#, fuzzy
+msgid "**3. Support**"
+msgstr "**3. Support**"
+
+#: ../../intern/struktur.rst:85 7235c94773db4be786dec36b5f8b75ad
+#, fuzzy
+msgid "F & Q"
+msgstr "F & Q"
+
+#: ../../intern/struktur.rst:86 d8a0def7bf1f4ad6a5b28499763add33
+#, fuzzy
+msgid "Bekannte Fehler"
+msgstr "Known bugs"
+
+#: ../../intern/struktur.rst:87 83680f87e3b8451da301ef1993e09796
+#, fuzzy
+msgid "Technische Unterstützung"
+msgstr "Technical support"
+
+#: ../../intern/struktur.rst:89 8a98266719f649578b527d7a759141ff
+#, fuzzy
+msgid "**4. Team**"
+msgstr "**4. Team**"
+
+#: ../../intern/struktur.rst:91 324a065257f145a3a112e0604af0549f
+#, fuzzy
+msgid "Service"
+msgstr "Service"
+
+#: ../../intern/struktur.rst:92 f128fbc24d9849d6974e86fa4684405e
+#, fuzzy
+msgid "Mitarbeit"
+msgstr "cooperation"
+
+#: ../../intern/struktur.rst:93 90a7c82cf4a5465dab90d7df4b818ba3
+#, fuzzy
+msgid "Spenden"
+msgstr "Donate"
+
+#: ../../intern/struktur.rst:95 392bd55023844d96b033eb821181a3bb
+#, fuzzy
+msgid "**5. Technische Daten**"
+msgstr "**5. Technische Daten**"
+
+#: ../../intern/struktur.rst:97 bb14c6bc99144e2187b7dd7b39687975
+#, fuzzy
+msgid "**6. Glossar**"
+msgstr "**6. Glossar**"
+
+#: ../../intern/struktur.rst:99 5045aaee71b24f2c937b9c30b381a930
+#, fuzzy
+msgid "**7. Kontakt**"
+msgstr "**7. Kontakt**"
+
+#: ../../intern/struktur.rst:101 be8d9cb8b7d74581a044a98d9f68c577
+#, fuzzy
+msgid "Open Boat Projects"
+msgstr "Open Boat Projects"
+
+#: ../../intern/struktur.rst:102 1ba2794e630e417cad126113fdad1e9e
+#, fuzzy
+msgid "Meinungen und Tipps"
+msgstr "Opinions and tips"
+
+#: ../../intern/struktur.rst:104 0be975ed115e4433ac1798ff35f838c0
+#, fuzzy
+msgid "**8. Impressum**"
+msgstr "**8. Impressum**"
+
+#: ../../intern/struktur.rst:107 05356377df924b6d90180d78237a9c19
+#, fuzzy
+msgid "Version 2:"
+msgstr "Version 2:"

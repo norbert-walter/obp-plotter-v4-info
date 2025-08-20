@@ -90,7 +90,8 @@ html_static_path = ["_static"]
 language = "de"                 # Basis language German
 locale_dirs = ['locale/']       # Path for translations .po/.mo
 gettext_compact = False         # Better file separation
-gettext_uuid = True             # Stable IDs for text (recommended) 
+gettext_uuid = True             # Stable IDs for text (recommended)
+gettext_allow_fuzzy_translations = True # Activate direct translation
 
 # Paths for static files and CSS
 html_static_path = ['_static']          # Need folder /docs/_static

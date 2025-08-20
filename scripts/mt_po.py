@@ -73,8 +73,8 @@ MASK_PATTERNS: List[re.Pattern] = [
     re.compile(r"``[^`]+``"),                # inline code
     re.compile(r":[\w.-]+:`[^`]+`"),         # :role:`...`
     re.compile(r"`[^`]+`_"),                 # `text`_
-    re.compile(r"\*\*[^*\n]+\*\*"),          # **bold**
-    re.compile(r"\*[^*\s][^*\n]*\*"),        # *italic*
+#    re.compile(r"\*\*[^*\n]+\*\*"),          # **bold**
+#    re.compile(r"\*[^*\s][^*\n]*\*"),        # *italic*
     re.compile(r"\|[^|\n]+\|"),              # |subst|
     # Platzhalter:
     re.compile(r"%\([^)]+\)[#0\- +]*(?:\d+|\*)?(?:\.(?:\d+|\*))?[hlL]?[diouxXeEfFgGcrs%]"),

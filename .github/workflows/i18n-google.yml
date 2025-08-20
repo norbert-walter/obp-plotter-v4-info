@@ -2,10 +2,9 @@ name: i18n MT (Google API key)
 
 on:
   push:
-    # Triggert nur bei Änderungen an den Quellen, nicht an locale/**
+    # Trigger nur bei Änderungen an den Quellen (nicht locale/**), um Loops zu vermeiden
     paths:
       - "docs/**/*.rst"
-      - "docs/**"
       - "docs/conf.py"
   workflow_dispatch:
 
@@ -15,30 +14,43 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        # <-- Hier deine Zielsprachen eintragen:
+        # <-- Zielsprachen hier pflegen:
         lang: [en]  # Beispiel: [en, fr, es]
     steps:
       - uses: actions/checkout@v4
-        with: { fetch-depth: 0 }
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
-        with: { python-version: "3.11" }
+        with:
+          python-version: "3.11"
 
       - name: Install Sphinx + tools
         run: |
           pip install -U sphinx sphinx-intl polib requests
 
-      # 1) Texte extrahieren (POT)
+      # Optionaler Schnelltest, ob der Key da ist / API erreichbar ist
+      - name: Sanity check Google API key (masked)
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+        run: |
+          if [ -z "$GOOGLE_API_KEY" ]; then
+            echo "GOOGLE_API_KEY is NOT set"; exit 1
+          fi
+          echo "GOOGLE_API_KEY is set (length: ${#GOOGLE_API_KEY})"
+          curl -sS -X GET "https://translation.googleapis.com/language/translate/v2/languages?key=$GOOGLE_API_KEY" | head -c 400 || true
+
+      # 1) gettext-Templates extrahieren
       - name: Extract gettext templates
         working-directory: docs
         run: sphinx-build -b gettext . _build/gettext
 
-      # 2) PO-Dateien anlegen/aktualisieren
+      # 2) PO-Dateien anlegen/aktualisieren (legt docs/locale/<lang>/... an)
       - name: Update PO files for ${{ matrix.lang }}
         working-directory: docs
         run: sphinx-intl update -p _build/gettext -l ${{ matrix.lang }}
 
-      # 3) MT über Google v2 (API-Key)
+      # 3) Machine Translation mit Google v2 (API-Key)
       - name: Machine-translate PO (${{ matrix.lang }})
         working-directory: docs
         env:
@@ -46,10 +58,12 @@ jobs:
           TARGET_LANG: ${{ matrix.lang }}
           REWRITE_FUZZY: "true"
           REWRITE_FILLED: "false"
+          BATCH_SIZE: "128"         # max. 128 Texte pro Request
+          THROTTLE_SECONDS: "0.2"   # bei Quotenengpässen erhöhen; sonst "0"
         run: |
           python ../scripts/mt_po.py
 
-      # 4) Änderungen committen
+      # 4) Änderungen committen (nur locale/**)
       - name: Commit translation updates
         run: |
           git config user.name "github-actions[bot]"

@@ -86,5 +86,12 @@ html_theme_options = {
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ["_static"]
 
+# ---- i18n / translation ----
+language = "de"                 # Basis language German
+locale_dirs = ['locale/']       # Path for translations .po/.mo
+gettext_compact = False         # Better file separation
+gettext_uuid = True             # Stable IDs for text (recommended) 
+
+
 def setup(app):
     app.add_stylesheet("my-styles.css")

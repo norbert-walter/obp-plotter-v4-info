@@ -1,0 +1,59 @@
+name: i18n MT (Google API key)
+
+on:
+  push:
+    # Triggert nur bei Änderungen an den Quellen, nicht an locale/**
+    paths:
+      - "docs/**/*.rst"
+      - "docs/**"
+      - "docs/conf.py"
+  workflow_dispatch:
+
+jobs:
+  i18n:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        # <-- Hier deine Zielsprachen eintragen:
+        lang: [en]  # Beispiel: [en, fr, es]
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+
+      - name: Install Sphinx + tools
+        run: |
+          pip install -U sphinx sphinx-intl polib requests
+
+      # 1) Texte extrahieren (POT)
+      - name: Extract gettext templates
+        working-directory: docs
+        run: sphinx-build -b gettext . _build/gettext
+
+      # 2) PO-Dateien anlegen/aktualisieren
+      - name: Update PO files for ${{ matrix.lang }}
+        working-directory: docs
+        run: sphinx-intl update -p _build/gettext -l ${{ matrix.lang }}
+
+      # 3) MT über Google v2 (API-Key)
+      - name: Machine-translate PO (${{ matrix.lang }})
+        working-directory: docs
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          TARGET_LANG: ${{ matrix.lang }}
+          REWRITE_FUZZY: "true"
+          REWRITE_FILLED: "false"
+        run: |
+          python ../scripts/mt_po.py
+
+      # 4) Änderungen committen
+      - name: Commit translation updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/locale || true
+          git commit -m "chore(i18n): update ${{ matrix.lang }} translations [skip ci]" || echo "No changes"
+          git push || true

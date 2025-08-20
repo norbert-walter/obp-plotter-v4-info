@@ -28,7 +28,7 @@ msgstr "Installation Android"
 #: ../../usermanual/android_install.rst:15 720bb43794d14c61bd1091462e2700e5
 #, fuzzy
 msgid "**Stromversorgung**"
-msgstr "**Stromversorgung**"
+msgstr "**Power supply**"
 
 #: ../../usermanual/android_install.rst:19 26a1c0a7b00049f690e62bef5f30ee08
 #, fuzzy
@@ -48,7 +48,7 @@ msgstr "If the"
 #: ../../usermanual/android_install.rst:27 6c008938d8394e68b80fa04a69f24b97
 #, fuzzy
 msgid "**Kommunikation**"
-msgstr "**Kommunikation**"
+msgstr "**Communication**"
 
 #: ../../usermanual/android_install.rst:29 00e7c670c25a42478678242d866f85c0
 #, fuzzy

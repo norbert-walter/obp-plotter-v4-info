@@ -72,7 +72,7 @@ msgstr ""
 #: ../../intro/variants.rst:13 33638838c6cc438a8e564c23233052a2
 #, fuzzy
 msgid "**Raspbian mit AVnav** (in Vorbereitung)"
-msgstr "**Raspbian mit AVnav** (in preparation)"
+msgstr "**Raspbian with AVnav** (in preparation)"
 
 #: ../../intro/variants.rst:14 1a06b092a14f4b88a5589bee508d54e8
 #, fuzzy
@@ -92,7 +92,7 @@ msgstr ""
 #: ../../intro/variants.rst:16 516c6d43e13f467889e94cb4f1b4a417
 #, fuzzy
 msgid "**Raspbian mit Open Plotter** (in Vorbereitung)"
-msgstr "**Raspbian mit Open Plotter** (in preparation)"
+msgstr "**Raspbian with Open Plotter** (in preparation)"
 
 #: ../../intro/variants.rst:17 41f3491f921641e79d22493270207b92
 #, fuzzy
@@ -162,7 +162,7 @@ msgstr ""
 #: ../../intro/variants.rst:36 c79f591c78dc43c48085f28f928ceecf
 #, fuzzy
 msgid "**Gehäuseschalen**"
-msgstr "**Gehäuseschalen**"
+msgstr "**Housing shells**"
 
 #: ../../intro/variants.rst:40 4e303488bf9d4fac9bb432eb51bdf9ae
 #, fuzzy
@@ -177,7 +177,7 @@ msgstr ""
 #: ../../intro/variants.rst:42 d166581318e54582b22235fffe3fc1cc
 #, fuzzy
 msgid "**Tragekoffer**"
-msgstr "**Tragekoffer**"
+msgstr "**Carrying case**"
 
 #: ../../intro/variants.rst:46 6d6d046f6da4488fa7fdbbfa884191da
 #, fuzzy
@@ -286,7 +286,7 @@ msgstr ""
 #: ../../intro/variants.rst:71 ca4a84dc0d16431993f81a731cbecfae
 #, fuzzy
 msgid "**Compute Modul CM5** (Standard)"
-msgstr "**Compute Modul CM5** (Standard)"
+msgstr "**Compute Module CM5** (Standard)"
 
 #: ../../intro/variants.rst:75 94a8dbd4be8544189e406c954fca66c4
 #, fuzzy
@@ -376,7 +376,7 @@ msgstr "Custom bootloader for SSD NVMe and boot order"
 #: ../../intro/variants.rst:97 057d0715aec5438bb80b29da116e0713
 #, fuzzy
 msgid "**Compute Modul CM4** (getestet)"
-msgstr "**Compute Modul CM4** (tested)"
+msgstr "**Compute Module CM4** (tested)"
 
 #: ../../intro/variants.rst:101 fd744d27d70344f388bac4367912065b
 #, fuzzy
@@ -400,7 +400,7 @@ msgstr "CPU-Speed: 1.5 GHz, Auto-Speedstepping"
 #: ../../intro/variants.rst:110 4d599a1cfebf4af797054a6a891e0541
 #, fuzzy
 msgid "**SSD NVMe 1 TB**"
-msgstr "**SSD NVMe 1 TB**"
+msgstr "**1TB NVMe SSD**"
 
 #: ../../intro/variants.rst:114 1478bc104cf54f628c02506f1809e23d
 #, fuzzy
@@ -414,7 +414,7 @@ msgstr ""
 #: ../../intro/variants.rst:116 e1d44c010bee4c11bb7120ff485088d3
 #, fuzzy
 msgid "**NMEA2000-Erweiterung (demnächst)**"
-msgstr "**NMEA2000-Erweiterung (demnächst)**"
+msgstr "**NMEA2000 extension (coming soon)**"
 
 #: ../../intro/variants.rst:120 24e2ddc69e98474986a301d4eed4ee22
 #, fuzzy
@@ -560,7 +560,7 @@ msgstr "4x fixing screws for the substrate"
 #: ../../intro/variants.rst:154 0e8f061774d949b5b5cff935c8ea9e86
 #, fuzzy
 msgid "**IR-Fernbedienung**"
-msgstr "**IR-Fernbedienung**"
+msgstr "**IR remote control**"
 
 #: ../../intro/variants.rst:158 fb5f282afd3e4a1f92af765da3c42117
 #, fuzzy

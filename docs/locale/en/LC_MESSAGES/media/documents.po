@@ -164,7 +164,7 @@ msgstr "Main advantages:"
 msgid ""
 "**Nachhaltigkeit:** Einbindung älterer Systeme, dauerhafte Updatefähigkeit"
 msgstr ""
-"**Nachhaltigkeit:** Integration of older systems, permanent update "
+"**Sustainability:** Integration of older systems, permanent update "
 "capability"
 
 #: ../../media/documents.rst:29 0945360eaa744b39a5925db8364d15ad
@@ -173,8 +173,8 @@ msgid ""
 "**Offenheit:** Bereitstellung von CAD-Daten, Quellcodes und Dokumentationen "
 "für individuelle Anpassungen"
 msgstr ""
-"**Offenheit:** Provision of CAD data, source codes and documentation for "
-"individual customizations"
+"**Openness:** Provision of CAD data, source codes and documentation for "
+"individual adaptations"
 
 #: ../../media/documents.rst:30 3e438f5d5c8745558804851f190c0f94
 #, fuzzy
@@ -182,7 +182,7 @@ msgid ""
 "**Erweiterbarkeit:** Universelle Schnittstellen erlauben Anpassungen für "
 "Marineanwendungen"
 msgstr ""
-"**Erweiterbarkeit:** Universal interfaces allow adaptations for marine "
+"**Expandability:** Universal interfaces allow adaptations for marine "
 "applications"
 
 #: ../../media/documents.rst:31 cdc32fa299e24bc8a4fc327c37cbf758
@@ -191,7 +191,7 @@ msgid ""
 "**Multifunktional:** Neben Navigationsanwendungen könenn alle Arten von Apps"
 " auf der Hardwareplatform verwendet werden"
 msgstr ""
-"**Multifunktional:** In addition to navigation applications, all types of "
+"**Multifunctional:** In addition to navigation applications, all types of "
 "apps can be used on the hardware platform"
 
 #: ../../media/documents.rst:32 141fc2c198f848b4b8331ae31deca082
@@ -319,5 +319,5 @@ msgid ""
 "**Propritäre Lizenzen** (Apps aus Google PlayStore, siehe individuelle "
 "Lizenzvereinbarungen)"
 msgstr ""
-"**Propritäre Lizenzen** (Apps from Google PlayStore, see individual license "
-"agreements)"
+"**Proprietary Licenses** (Apps from Google PlayStore, see individual license"
+" agreements)"

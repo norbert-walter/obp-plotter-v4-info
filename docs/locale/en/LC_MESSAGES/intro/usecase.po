@@ -279,7 +279,7 @@ msgstr "Base unit with GPS and AIS"
 #: ../../intro/usecase.rst:73 0d94dbf086d24a7ab2ed9045f14ef8b0
 #, fuzzy
 msgid "**Gehäuseschalen**"
-msgstr "**Gehäuseschalen**"
+msgstr "**Housing shells**"
 
 #: ../../intro/usecase.rst:77 24e2b155f5e64ae2af38102ab19f321e
 #, fuzzy

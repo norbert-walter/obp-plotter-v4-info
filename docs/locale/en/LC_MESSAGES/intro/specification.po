@@ -605,10 +605,11 @@ msgid ""
 "Karten sind in AVnav bereits integriert. Der VNC- und SSH-Server sind "
 "standardmäßig aktiviert."
 msgstr ""
-"The OBP plotter is preconfigured to ensure the AVnav navigation solution, "
-"the AVnav O-Charts plugin, the AIS Catcher, and the NMEA Dashboard are fully"
-" integrated and work together. The online and offline charts are already "
-"integrated into AVnav. The VNC and SSH servers are enabled by default."
+"The OBP plotter is preconfigured to ensure that the AVnav navigation "
+"solution, the AVnav O-Charts plugin, the AIS Catcher, and the NMEA Dashboard"
+" are all coordinated and functional. The online and offline charts are "
+"already integrated into AVnav. The VNC and SSH servers are enabled by "
+"default."
 
 #: ../../intro/specification.rst:174 f12f7af482bd44a2b4a82379b00ae318
 #, fuzzy
@@ -773,7 +774,7 @@ msgstr "TiniCAM (IP-Dashboard Camera)"
 #: ../../intro/specification.rst:208 59691928b2a34796bc13d79da4abfa39
 #, fuzzy
 msgid "**Unterhaltung**"
-msgstr "**Unterhaltung**"
+msgstr "**Entertainment**"
 
 #: ../../intro/specification.rst:209 1024a7626e8444da90df4aa6591b16a8
 #, fuzzy
@@ -883,7 +884,7 @@ msgstr "Integrated sensors"
 #: ../../intro/specification.rst:237 51a68ed1514e49639e5fce51ab3364f6
 #, fuzzy
 msgid "**Umgebungssensoren**"
-msgstr "**Umgebungssensoren**"
+msgstr "**Environmental sensors**"
 
 #: ../../intro/specification.rst:238 3c0aed0bec3349df8700bf6ef1a48c9e
 #, fuzzy
@@ -903,7 +904,7 @@ msgstr "IR-Remote"
 #: ../../intro/specification.rst:242 9cab1ebfcf3c4aba85de79b356c54a31
 #, fuzzy
 msgid "**Echtzeit-Uhren**"
-msgstr "**Echtzeit-Uhren**"
+msgstr "**Real-time clocks**"
 
 #: ../../intro/specification.rst:243 a4b7e6b90f9f42c399d6d8f8616c43bd
 #, fuzzy

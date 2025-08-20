@@ -53,7 +53,7 @@ msgstr "**SSID:** OBP60V2"
 #: 5e39afd805544364baa93da568f1e106
 #, fuzzy
 msgid "**Passwort:** esp32nmea2k"
-msgstr "**Passwort:** esp32nmea2k"
+msgstr "**Password:** esp32nmea2k"
 
 #: ../../usermanual/android_configuration.rst:22
 #: 7e01177e3abb40a8859c66e25c0dc8cc

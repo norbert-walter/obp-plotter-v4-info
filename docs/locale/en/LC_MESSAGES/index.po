@@ -150,7 +150,7 @@ msgstr ""
 #: ../../index.rst:21 0c656e4416924ce8b2a1a4ed4ac4f198
 #, fuzzy
 msgid "**Eigenschaften der Hardware**"
-msgstr "**Eigenschaften der Hardware**"
+msgstr "**Hardware Features**"
 
 #: ../../index.rst:23 188d791ca1cd43808cdea4990cebe282
 #, fuzzy
@@ -218,7 +218,7 @@ msgstr "Open interfaces for individual extensions"
 #: ../../index.rst:37 a83ee66d11154de39fe98348472e25f8
 #, fuzzy
 msgid "**Offene Plattform und Community**"
-msgstr "**Offene Plattform und Community**"
+msgstr "**Open platform and community**"
 
 #: ../../index.rst:39 3cb819ca55794b20a24339ff0e3256f8
 #, fuzzy
@@ -271,7 +271,7 @@ msgstr "Pre-built operating system images"
 #: ../../index.rst:49 7eeac07e899940518d87ec058638e516
 #, fuzzy
 msgid "**Produktion und Vermarktung**"
-msgstr "**Produktion und Vermarktung**"
+msgstr "**Production and Marketing**"
 
 #: ../../index.rst:51 9c52a7ef266446fdbc3ea55950f93833
 #, fuzzy
@@ -295,7 +295,7 @@ msgstr ""
 #: ../../index.rst:53 499a88346d6e4fcbaa112a758fc0758e
 #, fuzzy
 msgid "**Innovatives Hardwarekonzept**"
-msgstr "**Innovatives Hardwarekonzept**"
+msgstr "**Innovative hardware concept**"
 
 #: ../../index.rst:55 ad60cb8dd25445e5b2b30691b1c4c14f
 #, fuzzy
@@ -317,7 +317,7 @@ msgstr ""
 #: ../../index.rst:57 8e73d117e9664d74a39b582bcae23396
 #, fuzzy
 msgid "**Einsatzmöglichkeiten und Erweiterungen**"
-msgstr "**Einsatzmöglichkeiten und Erweiterungen**"
+msgstr "**Possible uses and extensions**"
 
 #: ../../index.rst:59 0bb00f1c40234e67aa27bdc4a1539d8e
 #, fuzzy
@@ -342,7 +342,7 @@ msgstr ""
 #: ../../index.rst:61 eb315170f4754384a202161fbec12f5f
 #, fuzzy
 msgid "**Vorteile der offenen Plattform**"
-msgstr "**Vorteile der offenen Plattform**"
+msgstr "**Advantages of the open platform**"
 
 #: ../../index.rst:63 11a256ac6b7646ae869f56d76a64ebf6
 #, fuzzy

@@ -67,12 +67,12 @@ msgid ""
 "ähnliche Funktionalität aufweisen."
 msgstr ""
 "Starting with Android 10, open the Wi-Fi settings and display all nearby Wi-"
-"Fi networks. At the bottom of the list, under **Netzwerk hinzufügen**, "
-"you'll find a small, blue QR symbol on the right. Clicking the symbol opens "
-"a window for scanning the QR code. After a successful scan, the device "
-"automatically logs into the Wi-Fi network. You don't need to enter the SSID "
-"or password. There are scanner apps for older Android versions that offer "
-"similar functionality."
+"Fi networks. At the bottom of the list, under **Add Network**, you'll find a"
+" small, blue QR symbol on the right. Clicking the symbol opens a window for "
+"scanning the QR code. After a successful scan, the device automatically logs"
+" into the Wi-Fi network. You don't need to enter the SSID or password. There"
+" are scanner apps for older Android versions that offer similar "
+"functionality."
 
 #: ../../usermanual/configuration.rst:21 bf30aacb6f40442b8dd0183dd57755cc
 #, fuzzy
@@ -97,7 +97,7 @@ msgstr "**SSID:** OBP60V2"
 #: ../../usermanual/configuration.rst:27 6bfa0ca4562349e9950b0c61a45318c3
 #, fuzzy
 msgid "**Passwort:** esp32nmea2k"
-msgstr "**Passwort:** esp32nmea2k"
+msgstr "**Password:** esp32nmea2k"
 
 #: ../../usermanual/configuration.rst:29 cb8272f3d9bb4bc297cf86c29a0ba3b0
 #, fuzzy
@@ -109,11 +109,11 @@ msgid ""
 "Benutzeroberfläche befinden sich Tabs, mit denen verschiedene Bereiche der "
 "Konfiguration ausgewählt werden können:"
 msgstr ""
-"Once your device is logged into the Wi-Fi network, open the address "
+"Once your device is connected to the Wi-Fi network, open the address "
 "**OBP60V2.local** or the IP address **192.168.15.1** in a web browser. This "
-"will take you to the OPB60 user interface and allow you to check the "
-"device's current status. The user interface contains tabs that allow you to "
-"select different configuration options:"
+"will take you to the OPB60 user interface, where you can check the device's "
+"current status. The interface contains tabs that allow you to select "
+"different configuration options:"
 
 #: ../../usermanual/configuration.rst:31 819f5eaba0104ce8afc9ff6e17b3f82a
 #, fuzzy
@@ -155,9 +155,9 @@ msgid ""
 " Die Passwortabfrage kann zudem deaktiviert werden."
 msgstr ""
 "Please note that when you first access the configuration interface, no "
-"password is required to save the configuration. **esp32admin** is used as "
-"**Default-Passwort**. You can also enter your own password. Use only ASCII "
-"characters. The password prompt can also be disabled."
+"password is required to save the configuration. The default password is "
+"esp32admin. You can also enter your own password. Use only ASCII characters."
+" The password prompt can also be disabled."
 
 #: ../../usermanual/configuration.rst:42 0cf0a8526ba1404284f968d4c62bd52f
 #, fuzzy
@@ -313,9 +313,9 @@ msgid ""
 msgstr ""
 "Clicking on the question mark after **Version** displays all telegrams that "
 "the OBP60 can process. You can see more detailed information about the "
-"received telegrams by expanding the row for the respective bus system. The "
-"appendix contains a table listing all NMEA0183 and NMEA2000 telegrams that "
-"can be processed."
+"received telegrams by expanding the row for the respective bus system. A "
+"table listing all NMEA0183 and NMEA2000 telegrams that can be processed is "
+"attached."
 
 #: ../../usermanual/configuration.rst:79 7f9119b4996443b89fcd278dfb7d3ecd
 #, fuzzy
@@ -365,7 +365,7 @@ msgstr ""
 #: ../../usermanual/configuration.rst:87 39a4d9733b4e47aa909c106c10e5f499
 #, fuzzy
 msgid "**Konfiguration zum NMEA2000-Gateway**"
-msgstr "**Konfiguration zum NMEA2000-Gateway**"
+msgstr "**NMEA2000 Gateway Configuration**"
 
 #: ../../usermanual/configuration.rst:92 12e8db48107740fcb79d81c8fdbab6c7
 #, fuzzy
@@ -389,7 +389,7 @@ msgstr ""
 #: ../../usermanual/configuration.rst:101 94d63139e72148e1af35904ea382b3fd
 #, fuzzy
 msgid "**Reload Config** - Erneutes Laden der Konfiguration"
-msgstr "**Reload Config** - Reloading the configuration"
+msgstr "**Reload Config** - Reload the configuration"
 
 #: ../../usermanual/configuration.rst:102 51a495a5fc6f441bb8e8157feb60d5fc
 #, fuzzy
@@ -414,7 +414,7 @@ msgstr "**Export** - Export a configuration as a JSON file"
 #: ../../usermanual/configuration.rst:105 f7df7784ff174386a199f4ec8d508683
 #, fuzzy
 msgid "**Import** - Import einer Konfiguration über ein JSON-File"
-msgstr "**Import** - Importing a configuration via a JSON file"
+msgstr "**Import** - Import a configuration via a JSON file"
 
 #: ../../usermanual/configuration.rst:106 162faa1ec4b64d789d8e235a548a2de9
 #, fuzzy
@@ -510,10 +510,10 @@ msgid ""
 "das OPB60 bei veränderter IP-Adresse im Ihrem WLAN unter Umständen nicht "
 "mehr erreichbar sein könnte."
 msgstr ""
-"The IP address of the WiFi access point can be set here. The default IP "
-"address is **192.168.15.1**. In exceptional cases, the IP address can be set"
-" to a different address. Please note that if the IP address is changed, the "
-"OPB60 may no longer be accessible in your WLAN."
+"The IP address of the WiFi access point can be set here. By default, the IP "
+"address is set to **192.168.15.1**. In exceptional cases, the IP address can"
+" be set to a different address. Please note that changing the IP address may"
+" make the OPB60 unreachable within your WiFi network."
 
 #: ../../usermanual/configuration.rst:135 c9d2e168600e48e9b277d98fefc856c9
 #, fuzzy
@@ -528,7 +528,7 @@ msgid ""
 "empfohlen, diesen Wert nicht zu verändern, es sei denn, Sie wissen genau, "
 "welche Auswirkungen eine Änderung hat."
 msgstr ""
-"This is where the subnet mask for the WiFi access point is specified. By "
+"This is where you specify the subnet mask for the WiFi access point. By "
 "default, the subnet mask is set to **255.255.255.0**. It is strongly "
 "recommended not to change this value unless you know exactly what effect a "
 "change will have."
@@ -612,8 +612,8 @@ msgid ""
 " USB-C-Schnittstelle einstellen. Folgende Einstellungen stehen zur "
 "Verfügung:"
 msgstr ""
-"The level of detail of notifications via the USB-C interface can be adjusted"
-" via **Log Level**. The following settings are available:"
+"**Log Level** lets you adjust the level of detail for notifications via the "
+"USB-C interface. The following settings are available:"
 
 #: ../../usermanual/configuration.rst:153 8bf02a2799f6499f92f728c2928ca656
 #, fuzzy
@@ -648,10 +648,10 @@ msgid ""
 "stellen Sie **NMEA to USB** und **NMEA from USB** auf ``off``."
 msgstr ""
 "If you intend to exchange NMEA 0183 data via the USB-C interface, you should"
-" set **Log Level** to ``off``. If you don't, analyzing logging outputs can "
-"become very confusing, as logging data and NMEA 0183 telegrams will be "
-"mixed. If you only want to see logging outputs, set **NMEA to USB** and "
-"**NMEA from USB** to ``off``."
+" set the **Log Level** to ``off``. If you ignore this, analyzing logging "
+"outputs can become very confusing, as logging data and NMEA 0183 telegrams "
+"will be mixed. If you only want to see logging outputs, set **NMEA to USB** "
+"and **NMEA from USB** to ``off``."
 
 #: ../../usermanual/configuration.rst:164 3c05d751283a4e29ab867ee057045b15
 #, fuzzy
@@ -745,8 +745,8 @@ msgid ""
 "Über die Seite **USB** Port können die Funktionen des USB-Ports detailliert "
 "eingestellt werden."
 msgstr ""
-"The functions of the USB port can be configured in detail on the **USB** "
-"Port page."
+"The **USB** Port page allows you to configure the functions of the USB port "
+"in detail."
 
 #: ../../usermanual/configuration.rst:195 408309039d1544c48bf810e4ac7da81f
 #, fuzzy
@@ -880,13 +880,12 @@ msgid ""
 "einschliessen sollen (Whitelist), dann solche, die zum Ausschluss von Daten "
 "führen (Blacklist)."
 msgstr ""
-"The next two settings define the filter functions **USB read Filter** and "
-"**USB write Filter** for reading and writing on the USB interface. Only "
-"NMEA0183 data can be filtered. A separate setting can be made for whether "
-"AIS position signals are processed. The available filter types are "
-"<Whitelist> and <Blacklist>. These allow you to specify filter criteria that"
-" include the relevant data (whitelist), and those that exclude data "
-"(blacklist)."
+"The next two settings configure the filter functions **USB read filter** and"
+" **USB write filter** for reading and writing on the USB interface. Only "
+"NMEA 0183 data can be filtered. You can also specify whether AIS position "
+"signals are processed. The available filter types are <Whitelist> and "
+"<Blacklist>. These allow you to specify filter criteria that include the "
+"relevant data (whitelist), and those that exclude data (blacklist)."
 
 #: ../../usermanual/configuration.rst:225 cedcf6d31a844c438db2debc1152eb57
 #, fuzzy
@@ -1026,9 +1025,9 @@ msgid ""
 " auf die RS485-Schnittstelle am Steckverbinder **CN1** mit den Signalen "
 "``A``, ``B`` und ``Shield``."
 msgstr ""
-"Settings for the serial NMEA 0183 interface can be made via **serial port**."
-" These settings refer to the RS485 interface on connector **CN1** with the "
-"signals ``A``, ``B``, and ``Shield``."
+"Settings for the serial NMEA 0183 interface can be configured via **serial "
+"port**. These settings refer to the RS485 interface on connector **CN1** "
+"with the signals ``A``, ``B``, and ``Shield``."
 
 #: ../../usermanual/configuration.rst:255 6a96aa54eebf4efdb60a5ef798190267
 #, fuzzy
@@ -1108,9 +1107,9 @@ msgid ""
 " verarbeitet werden. Als Filterformen stehen Whitelist und Blacklist zur "
 "Verfügung."
 msgstr ""
-"The next two settings configure the filter functions **Serial read Filter** "
-"and **Serial write Filter** for reading and writing on the serial interface."
-" Only NMEA0183 data can be filtered. You can also specify whether AIS "
+"The next two settings configure the filter functions **Serial Read Filter** "
+"and **Serial Write Filter** for reading and writing on the serial interface."
+" Only NMEA 0183 data can be filtered. You can also specify whether AIS "
 "position signals are processed. Whitelist and blacklist filter types are "
 "available."
 
@@ -1362,11 +1361,11 @@ msgid ""
 "Gegenseite ebenfalls **Seasmart** aktiviert ist."
 msgstr ""
 "Seasmart allows you to translate NMEA 2000 data into NMEA 0183 telegrams. If"
-" you enable **Seasmart**, all NMEA 2000 data will be output and tunneled via"
-" NMEA 0183 telegrams. The data is transmitted in binary form in a single "
-"NMEA 0183 telegram. This allows you to transmit NMEA 2000 data from one "
-"OBP60 (TCP server) to another OBP60 (TCP client) via Wi-Fi. Make sure that "
-"**Seasmart** is also enabled on the other end."
+" you enable Seasmart, all NMEA 2000 data is output and tunneled via NMEA "
+"0183 telegrams. The data is transmitted in binary form in a single NMEA 0183"
+" telegram. This allows you to transmit NMEA 2000 data from one OBP60 (TCP "
+"server) to another OBP60 (TCP client) via Wi-Fi. Make sure Seasmart is also "
+"enabled on the other end."
 
 #: ../../usermanual/configuration.rst:340 a27aab996bea4c30929651761688616b
 #, fuzzy
@@ -1487,9 +1486,8 @@ msgid ""
 msgstr ""
 "The next two settings configure the filter functions **NMEA Read Filter** "
 "and **NMEA Write Filter** for reading and writing on the TCP port. Only "
-"NMEA0183 data can be filtered. You can also separately specify whether AIS "
-"position signals are processed. Whitelist and blacklist filter types are "
-"available."
+"NMEA0183 data can be filtered. You can also specify whether AIS position "
+"signals are processed. Whitelist and blacklist filter types are available."
 
 #: ../../usermanual/configuration.rst:398 85bcf1f282ef4f658f8c031c352fbe46
 #, fuzzy
@@ -1508,10 +1506,10 @@ msgid ""
 "Gegenseite ebenfalls **SeaSmart** aktiviert ist."
 msgstr ""
 "SeaSmart allows you to translate NMEA 2000 data into NMEA 0183 telegrams. If"
-" you enable **SeaSmart**, all NMEA 2000 data will be output and tunneled via"
-" NMEA 0183 telegrams. The data is transmitted in binary form in a single "
-"NMEA 0183 telegram. This allows you to transmit NMEA 2000 data from one "
-"OBP60 (TCP server) to another OBP60 (TCP client) via Wi-Fi. Make sure that "
+" you enable **SeaSmart**, all NMEA 2000 data is output and tunneled via NMEA"
+" 0183 telegrams. The data is transmitted in binary form in a single NMEA "
+"0183 telegram. This allows you to transmit NMEA 2000 data from one OBP60 "
+"(TCP server) to another OBP60 (TCP client) via Wi-Fi. Make sure that "
 "**SeaSmart** is also enabled on the other end."
 
 #: ../../usermanual/configuration.rst:400 120fc4ff788b4bf6ab2d916000498b67
@@ -1626,7 +1624,7 @@ msgid ""
 "beachten Sie die entsprechenden Einheiten. Die Einstellungen dienen dazu, "
 "verschiedene Betriebszustände auf dem OPB60 in Grafiken darzustellen."
 msgstr ""
-"On page **OBP60 Settings**, you can configure settings specific to your "
+"On the **OBP60 Settings** page, you can configure settings specific to your "
 "boat, in which the OBP60 is installed. The entered values are used, for "
 "example, to determine an approximate range for water, fuel, and battery. "
 "Please enter the values for your boat as accurately as possible and note the"
@@ -1673,11 +1671,11 @@ msgid ""
 "Visualisierung der Energieflüsse benötigt."
 msgstr ""
 "Most settings should be self-explanatory. Unless you're using solar panels, "
-"leave the value of **Solar Power** at 0. **Generator Power** refers to an "
+"leave the **Solar Power** value at 0. **Generator Power** refers to an "
 "electrical generator operating on the boat. This could be an alternator, a "
 "wind generator, a tow generator, or another auxiliary generator. The power "
-"values for **Solar Power** and **Generator Power** are needed to visualize "
-"the energy flows."
+"values for **Solar Power** and **Generator Power** are required to visualize"
+" energy flows."
 
 #: ../../usermanual/configuration.rst:443 3113f735531a4efa849b643d85bf4fa9
 #, fuzzy
@@ -1703,7 +1701,7 @@ msgstr "**Date Format**"
 #, fuzzy
 msgid ""
 "Mit **Date Format** kann das Ausgabeformat des Datums angepasst werden."
-msgstr "With **Date Format** the output format of the date can be adjusted."
+msgstr "With **Date Format** you can adjust the output format of the date."
 
 #: ../../usermanual/configuration.rst:452 c133a7de08e640328f711f210da7ba33
 #, fuzzy
@@ -1734,10 +1732,10 @@ msgid ""
 "nach verbauter Hardware können unterschiedliche Sensoren und Funktionen zum "
 "Einsatz kommen."
 msgstr ""
-"All settings related to the installed hardware or external additional "
-"hardware of the OPB60 are configured under **Hardware**. The default "
-"settings correspond to the minimum settings for an OBP60 device. Depending "
-"on the installed hardware, different sensors and functions can be used."
+"Under **Hardware**, all settings related to the OPB60's installed hardware "
+"or external add-on hardware are configured. The default settings correspond "
+"to the minimum settings for an OBP60 device. Depending on the installed "
+"hardware, different sensors and functions may be used."
 
 #: ../../usermanual/configuration.rst:466 865511ea2f6b4858a7c3d04f5dc21d2b
 #, fuzzy
@@ -1771,7 +1769,7 @@ msgstr "``240`` - 240 MHz"
 #: ../../usermanual/configuration.rst:472 15d8bac6b030413191010e8ac0887350
 #, fuzzy
 msgid "**RTC Modul**"
-msgstr "**RTC Modul**"
+msgstr "**RTC Module**"
 
 #: ../../usermanual/configuration.rst:473 da6d92aba0354d64aad193d6158a1f3f
 #, fuzzy
@@ -2166,7 +2164,7 @@ msgid ""
 " Rollen des Bootes an. Unter realen Bedingungen sind 20 Grad als Grenzwert "
 "realistisch."
 msgstr ""
-"**Roll Limit** indicates the maximum permissible lateral roll angle for the "
+"**Roll Limit** specifies the maximum permissible lateral roll angle for the "
 "boat. Under real-world conditions, 20 degrees is a realistic limit."
 
 #: ../../usermanual/configuration.rst:562 8117c801ffd44592b6ac2c8146b299e5
@@ -2234,7 +2232,7 @@ msgid ""
 "entstehen."
 msgstr ""
 "``Max Power`` - All power supplies are switched on. This is when the device "
-"is at its most efficient and can generate the highest power consumption."
+"is at its most powerful and can generate the highest power consumption."
 
 #: ../../usermanual/configuration.rst:576 f8b8ccc375514d0080aefc4723ab8eff
 #, fuzzy
@@ -2596,13 +2594,13 @@ msgid ""
 msgstr ""
 "Power supply undervoltage detection. If an undervoltage below 9 V is "
 "detected, the OBP60 can be automatically deactivated to help prevent deep "
-"discharge of the on-board battery. In critical situations, the OBP60 can "
+"discharge of the onboard battery. In critical situations, the OBP60 can "
 "remain functional despite undervoltage down to 7 V if the undervoltage "
-"protection is deactivated. Undervoltage protection is activated by default. "
-"If an undervoltage occurs while the power supply is activated, the OBP60 is "
+"protection is deactivated. Undervoltage protection is enabled by default. If"
+" an undervoltage occurs while the power supply is activated, the OBP60 is "
 "deactivated and put into deep sleep. The message **Undervoltage** appears on"
 " the display. This state can only be changed by completely switching the "
-"power supply off and then on again."
+"power supply off and on again."
 
 #: ../../usermanual/configuration.rst:645 29be5027f7e04f1698752769cf3a0418
 #, fuzzy
@@ -2639,8 +2637,8 @@ msgid ""
 msgstr ""
 "**Simulation Data** allows you to simulate bus and sensor data. This "
 "function is useful when testing the functionality of the device in a "
-"disassembled state without any connected buses or sensors. The device is "
-"then in demo mode."
+"disassembled state without any connected buses or sensors. The device then "
+"enters demo mode."
 
 #: ../../usermanual/configuration.rst:653 6205d6127dde4befa0f799f68f7b71b7
 #, fuzzy
@@ -2677,9 +2675,9 @@ msgid ""
 "Messwerten korrigieren. Die Korrektur kann je nach Sensor mit einer linearen"
 " oder quadratischen Korrektur durchgeführt werden."
 msgstr ""
-"Calibration settings can be configured on the **Calibrations** page. This "
-"allows you to correct inaccuracies in certain measured values. Depending on "
-"the sensor, the correction can be performed using a linear or quadratic "
+"Calibration settings can be configured on the Calibrations page. This allows"
+" you to correct inaccuracies in certain measured values. Depending on the "
+"sensor, the correction can be performed using a linear or quadratic "
 "correction."
 
 #: ../../usermanual/configuration.rst:667 951927906c454edf990578c559c2bce4
@@ -2729,7 +2727,8 @@ msgstr "Config - OBP Display"
 msgid ""
 "Der Bereich **Display** enthält alle Einstellungen, die das Display "
 "betreffen."
-msgstr "The **Display** area contains all settings that affect the display."
+msgstr ""
+"The **Display** section contains all settings that affect the display."
 
 #: ../../usermanual/configuration.rst:684 aec7d093723e4df3b6f909edd918baea
 #, fuzzy
@@ -2742,7 +2741,7 @@ msgid ""
 "Über den **Display Mode** wird eingestellt, wie sich das Display unmittelbar"
 " nach dem Einschalten verhält."
 msgstr ""
-"The **Display Mode** sets how the display behaves immediately after "
+"The **Display Mode** determines how the display behaves immediately after "
 "switching on."
 
 #: ../../usermanual/configuration.rst:686 4794bb3e67db4d97ad8c110add5cfe4c
@@ -2906,9 +2905,9 @@ msgid ""
 "wesentlich stärker."
 msgstr ""
 "Depending on the display type, a loss of contrast may occur after some time "
-"in strong sunlight. To minimize this effect, **Fast Refresh** should be "
-"deactivated and **Full Refresh Time** set to 1 minute. This significantly "
-"increases the recovery effect for the display."
+"in strong sunlight. To minimize this effect, disable **Fast Refresh** and "
+"set the **Full Refresh Time** to 1 minute. This significantly increases the "
+"recovery effect on the display."
 
 #: ../../usermanual/configuration.rst:716 32de5735ef6a478bb3cb347a0ba3b515
 #, fuzzy
@@ -3325,7 +3324,7 @@ msgid ""
 "Audioausgaben."
 msgstr ""
 "The volume of the warning tone can be adjusted between 0 and 100% using "
-"**Buzzer Power**. The volume generally applies to all audio outputs."
+"**Buzzer Power**. This volume generally applies to all audio outputs."
 
 #: ../../usermanual/configuration.rst:810 b2092e3939f84de1906296bb14832517
 #, fuzzy
@@ -3340,10 +3339,10 @@ msgid ""
 "darstellen soll. Außerdem lässt sich festlegen, welche Anzeigeseite beim "
 "Einschalten gezeigt werden soll."
 msgstr ""
-"The configuration of the OPB60's possible display pages is done on page "
-"[[[[M0]]]. Here, you can specify how many display pages the OPB60 should "
-"display. You can also specify which display page should be shown when the "
-"device is switched on."
+"The OPB60's possible display pages are configured on the **Pages** page. "
+"Here, you can specify how many display pages the OPB60 should display. You "
+"can also specify which display page should be shown when the device is "
+"turned on."
 
 #: ../../usermanual/configuration.rst:817 e89bd00e2019431e820a82db7e77f3f0
 #, fuzzy
@@ -3374,7 +3373,7 @@ msgid ""
 "(**Number of Pages**) liegen."
 msgstr ""
 "This value determines which page should be displayed at startup. Only pages "
-"within the page count (**Number of Pages**) can be displayed."
+"within the specified number of pages can be displayed."
 
 #: ../../usermanual/configuration.rst:824 c53ce8d7cedc4345a22fd61411fe211c
 #, fuzzy
@@ -3406,7 +3405,7 @@ msgstr "Pages with changeable content"
 #: ../../usermanual/configuration.rst:832 d9d60370fed34ebebe21e14ca16f38a1
 #, fuzzy
 msgid "**OneValue** - Ein Anzeigewert"
-msgstr "**OneValue** - A display value"
+msgstr "**OneValue** - One display value"
 
 #: ../../usermanual/configuration.rst:833 2dcd7da959d14c88963b51d7c5ad7458
 #, fuzzy
@@ -3528,7 +3527,7 @@ msgid ""
 "**Generator** - Grafische Anzeige des Generator-Ladezustandes (**INA219, "
 "INA226** I2C)"
 msgstr ""
-"**Generator** - Graphic display of the generator charge level (**INA219, "
+"**Generator** - Graphical display of the generator charge level (**INA219, "
 "INA226** I2C)"
 
 #: ../../usermanual/configuration.rst:854 0eb9f54b02da4bfd8292d359fb2932dd
@@ -3540,8 +3539,8 @@ msgid ""
 "werden."
 msgstr ""
 "Please note that all pages with fixed content require certain sensor values "
-"to display measured values. The availability of the necessary data can be "
-"checked under the **Data** tab."
+"to display measured values. You can check the availability of the necessary "
+"data under the **Data** tab."
 
 #: ../../usermanual/configuration.rst:856 a192a876153b4913a8a0613a819a97f1
 #, fuzzy
@@ -3592,7 +3591,7 @@ msgstr "**COG** - Course over Ground"
 #: ../../usermanual/configuration.rst:869 469338dd27cc42a3975abe57c70a8498
 #, fuzzy
 msgid "**DBS** - Depth Below Surface, Tiefe unter Wasseroberfläche"
-msgstr "**DBS** - Depth Below Surface, depth below water surface"
+msgstr "**DBS** - Depth Below Surface"
 
 #: ../../usermanual/configuration.rst:870 6d7777a31787474696159fc98ffb19cd
 #, fuzzy
@@ -3627,12 +3626,12 @@ msgstr "**HDM** - Magnetic Heading, magnetic true heading"
 #: ../../usermanual/configuration.rst:876 ba8bb8b45446445b86177860ec388d27
 #, fuzzy
 msgid "**HDT** - Heading, wahrer rechtweisender Kurs"
-msgstr "**HDT** - Heading, true course"
+msgstr "**HDT** - Heading, true heading"
 
 #: ../../usermanual/configuration.rst:877 29a9fb8b5c8a49cf9a34b6845107def9
 #, fuzzy
 msgid "**HDOP** - GPS-Genauigkeit in der Horizontalen"
-msgstr "**HDOP** - GPS accuracy in the horizontal plane"
+msgstr "**HDOP** - GPS accuracy in the horizontal"
 
 #: ../../usermanual/configuration.rst:878 7ff3a79efb2349c98847e7f0aa9990fc
 #, fuzzy
@@ -3655,8 +3654,8 @@ msgid ""
 "**MaxAws** - Maximum Apperant Wind Speed, Maximum der relativen "
 "Windgeschwindigkeit seit Gerätestart"
 msgstr ""
-"**MaxAws** - Maximum Appearant Wind Speed, maximum relative wind speed since"
-" device start"
+"**MaxAws** - Maximum Apperant Wind Speed, maximum relative wind speed since "
+"device start"
 
 #: ../../usermanual/configuration.rst:882 dcc005b8d3e44da98ec3ff7640ba7000
 #, fuzzy
@@ -3675,7 +3674,7 @@ msgstr "**PDOP** - GPS accuracy across all 3 spatial axes"
 #: ../../usermanual/configuration.rst:884 7b8d8cba96ad499985f4089968026e49
 #, fuzzy
 msgid "**PRPOS** - Auslenkung Sekundärruder"
-msgstr "**PRPOS** - Deflection of secondary rudder"
+msgstr "**PRPOS** - Secondary rudder deflection"
 
 #: ../../usermanual/configuration.rst:885 f1403bc7553f44f5b2b43e4412daf042
 #, fuzzy
@@ -3685,7 +3684,7 @@ msgstr "**ROT** - Rotation, Drehrate"
 #: ../../usermanual/configuration.rst:886 00763840223b436d823364b6f469f5c6
 #, fuzzy
 msgid "**RPOS** - Rudder Position, Auslenkung Hauptruder"
-msgstr "**RPOS** - Rudder position, main rudder deflection"
+msgstr "**RPOS** - Rudder Position, Main Rudder Deflection"
 
 #: ../../usermanual/configuration.rst:887 1d01e04dcc0c4242bcfbb24db9258189
 #, fuzzy
@@ -3700,7 +3699,7 @@ msgstr "**STW** - Speed Through Water"
 #: ../../usermanual/configuration.rst:889 a63c08277ce84fb48795fa3dd348de70
 #, fuzzy
 msgid "**SatInfo** - Satellit Info, Anzahl der sichtbaren Satelliten"
-msgstr "**SatInfo** - Satellite info, number of visible satellites"
+msgstr "**SatInfo** - Satellite Info, number of visible satellites"
 
 #: ../../usermanual/configuration.rst:890 420ae4a21e304f0a8bedd5236a50dbc8
 #, fuzzy
@@ -3715,12 +3714,12 @@ msgstr "**TWS** - True Wind Speed"
 #: ../../usermanual/configuration.rst:892 f06b93e2508d41d68db59d88db043608
 #, fuzzy
 msgid "**TZ** - Time Zone, Zeitzone"
-msgstr "**TZ** - Time Zone, Zeitzone"
+msgstr "**TZ** - Time Zone"
 
 #: ../../usermanual/configuration.rst:893 19f5e1d723e54c5dbb2da1697dcfa6da
 #, fuzzy
 msgid "**TripLog** - Trip Log, Tages-Entfernungszähler"
-msgstr "**TripLog** - Trip Log, Daily Distance Counter"
+msgstr "**TripLog** - Trip Log, daily distance counter"
 
 #: ../../usermanual/configuration.rst:894 667ef6bea51745168dd74de2093a80cc
 #, fuzzy
@@ -3751,12 +3750,12 @@ msgstr "**WTemp** - Water Temperature"
 #: ../../usermanual/configuration.rst:899 7933a802595b4654aac8168bac6ea229
 #, fuzzy
 msgid "**XTE** - Cross Track Error, Kursfehler"
-msgstr "**XTE** - Cross Track Error, Kursfehler"
+msgstr "**XTE** - Cross Track Error, Course Error"
 
 #: ../../usermanual/configuration.rst:900 d93f07c03fe549f88dea6f58e66c1bbc
 #, fuzzy
 msgid "**xdrVBat** - Bordspannung"
-msgstr "**xdrVBat** - Bordspannung"
+msgstr "**xdrVBat** - On-board voltage"
 
 #: ../../usermanual/configuration.rst:903 793283ba9d294c70aa0e282519892050
 #, fuzzy
@@ -3865,9 +3864,9 @@ msgstr ""
 "be displayed vertically one above the other and horizontally side by side. "
 "Short names and units are displayed next to the measured values. This "
 "display corresponds to the old Raymarine ST60 TriData display, with the "
-"difference that any values can be displayed here. There is also the display "
-"page **DST810** with fixed content, which shows the same measured values as "
-"on the ST60 TriData."
+"difference that any values can be displayed here. There is also the "
+"**DST810** display page with fixed content, which displays the same measured"
+" values as the ST60 TriData."
 
 #: ../../usermanual/configuration.rst:948 b5bd74e1f71b45b2a40c150446751726
 #, fuzzy
@@ -3999,10 +3998,10 @@ msgid ""
 "oder einen Teil der Daten liefern"
 msgstr ""
 "The DST810 display shows water speed, depth, distance traveled, and water "
-"temperature. Along with the measured values, the abbreviations and units are"
-" shown. The display page corresponds to the old **Raymarine ST60 TriData**. "
-"Valid information must be present in the data pool for the data to be "
-"displayed. In addition to the Airmar DST810, readings from other sensor "
+"temperature. Short names and units are displayed alongside the measured "
+"values. The display page corresponds to the old Raymarine ST60 TriData "
+"display. Valid information must be present in the data pool for the data to "
+"be displayed. In addition to the Airmar DST810, readings from other sensor "
 "manufacturers that provide the same or part of the data can also be "
 "displayed."
 
@@ -4036,11 +4035,11 @@ msgid ""
 "Settings** eingestellt werden."
 msgstr ""
 "The clock display shows the time, date, sunrise, and sunset times. The "
-"display values are primarily obtained from GPS data. The sunrise and sunset "
+"display values are primarily derived from GPS data. The sunrise and sunset "
 "times are calculated based on the geographical location and correspond to "
-"the astronomical sunrise and sunset times. The time can be displayed as "
-"global world time **UTC** or local time **LOT**. The time zone can be set "
-"via the configuration page **Config - OBP Settings**."
+"the astronomical sunrise and sunset times. The global world time **UTC** or "
+"the local time **LOT** can be displayed. The time zone can be selected via "
+"the configuration page **Config - OBP Settings**."
 
 #: ../../usermanual/configuration.rst:999 cd2d5bcc7c524d72ad362b52b294b843
 #, fuzzy
@@ -4123,10 +4122,10 @@ msgid ""
 "Beachten Sie das nicht, so können die externen Module beschädigt werden oder"
 " nur fehlerbehaftet arbeiten."
 msgstr ""
-"Please note that the external I2C bus **5V** uses signal levels for **SCL** "
-"and **SDA**. Use modules that are 5V tolerant, or use level converters from "
-"5V to 3.3V for the SCL and SDA signals. Failure to do so could result in "
-"damage to the external modules or cause malfunctions."
+"Please note that the external I2C bus uses a 5V signal level for SCL and "
+"SDA. Use modules that are 5V tolerant, or use level converters from 5V to "
+"3.3V for the SCL and SDA signals. Failure to do so could result in damage to"
+" the external modules or cause malfunctions."
 
 #: ../../usermanual/configuration.rst:1027 3a8e2ce1ca89443a8b06b0bb63bd365d
 #, fuzzy
@@ -4229,7 +4228,7 @@ msgid ""
 msgstr ""
 "In order to display the keel position, a rotation sensor module **AS5600** "
 "must be connected to the I2C bus and the sensor must be parameterized as "
-"**Kielsensor** on the configuration page **Config - OBP Hardware**."
+"**keel sensor** on the configuration page **Config - OBP Hardware**."
 
 #: ../../usermanual/configuration.rst:1066 ffa42b4e8f074ead8235ffdbab958086
 #, fuzzy
@@ -4243,8 +4242,8 @@ msgid ""
 "Beachten Sie auch die Hinweise im Kapitel **Datenaustausch - I2C-Bus** und "
 "**Bussysteme - I2C**."
 msgstr ""
-"Please also note the information in chapters **Datenaustausch - I2C-Bus** "
-"and **Bussysteme - I2C**."
+"Please also note the information in the chapter **Data exchange - I2C bus** "
+"and **Bus systems - I2C**."
 
 #: ../../usermanual/configuration.rst:1071 cbf69a4b46d94ecfa0901da4b103ca24
 #, fuzzy
@@ -4279,7 +4278,7 @@ msgstr ""
 "The battery display shows the current values for on-board voltage, current, "
 "and power. In addition to the measured values, the abbreviations and units "
 "are shown. To display the battery values, an I2C module **INA226** must be "
-"connected to the I2C bus and set to the address **0x41**. The shunt can be "
+"connected to the I2C bus and set to address **0x41**. The shunt can be "
 "configured for various maximum currents in amperes "
 "[10|50|100|200|300|400|500] under **Config - OBP Hardware**."
 
@@ -4322,9 +4321,9 @@ msgid ""
 "Widerstand **R100** auf der Frontseite der Platine entfernt werden. Danach "
 "ist das Modul wie folgt zu verschalten."
 msgstr ""
-"For measurements with an external power shunt, the large black resistor "
-"**R100** on the front of the board must be removed. The module must then be "
-"wired as follows."
+"To measure with an external power shunt, the large black resistor **R100** "
+"on the front of the board must be removed. The module must then be wired as "
+"follows."
 
 #: ../../usermanual/configuration.rst:1093
 #: ../../usermanual/configuration.rst:1152 5a5ccd5ecd914a99ba14621a027b3b79
@@ -4366,17 +4365,17 @@ msgstr ""
 "must be designed for the maximum current. Use suitable fuses in the power "
 "circuits to prevent cable fires in the event of short circuits. For a long-"
 "lasting installation, you should use stranded wires with tin-plated "
-"individual cores. If this is not possible for cost reasons, the cable ends "
-"should be provided with crimped cable lugs or wire end ferrules. The cable "
-"lugs should then also be soldered with tin to prevent corrosion in the cable"
-" sleeves. Covering the crimp and solder joints with heat shrink tubing "
-"prevents rising moisture in the cable, which can also cause corrosion over "
+"individual conductors. If this is not possible for cost reasons, the cable "
+"ends should be fitted with crimped cable lugs or wire end ferrules. The "
+"cable lugs should then also be soldered with tin to prevent corrosion in the"
+" cable sleeves. Covering the crimp and solder joints with heat-shrink tubing"
+" prevents rising moisture in the cable, which can also cause corrosion over "
 "long periods of time. Ensure that the INA226 is housed in an insulated "
-"housing to protect it from water and that the sensor connections **VBS** and"
-" **GND** are protected with an **Feinsicherung 100 mA**. If you do not have "
-"sufficient technical knowledge, you should leave the installation of the "
-"sensor to a specialist or have your installation checked by a specialist "
-"before commissioning."
+"housing, protected from water, and that the sensor connections **VBS** and "
+"**GND** are protected with a **100 mA micro-fuse**. If you do not have "
+"sufficient expertise, you should leave the sensor installation to a "
+"specialist or have your installation inspected by a specialist before "
+"commissioning."
 
 #: ../../usermanual/configuration.rst:1102 9cd5f1f489124249bd88204adf10eb7b
 #, fuzzy
@@ -4401,8 +4400,8 @@ msgid ""
 "**Leitungen und Kabel** :download:`pdf "
 "</info_material/Querschnittsbestimmung_Leitungen_Kabel.pdf>` verwenden."
 msgstr ""
-"For further information, please refer to the information material "
-"**Leitungen und Kabel** :download:`pdf "
+"For further information, please refer to the information material **Wires "
+"and Cables** :download:`pdf "
 "</info_material/Querschnittsbestimmung_Leitungen_Kabel.pdf>`."
 
 #: ../../usermanual/configuration.rst:1111 de44d9036ccd4a938ef079a2f2192cea
@@ -4519,8 +4518,8 @@ msgid ""
 "werden."
 msgstr ""
 "To display the battery values, an I2C module **INA226** must be connected to"
-" the I2C bus and set to the address **0x41**. The shunt can be configured "
-"for various maximum currents in amperes [10|50|100|200|300|400|500] under "
+" the I2C bus and set to address **0x41**. The shunt can be configured for "
+"various maximum currents in amperes [10|50|100|200|300|400|500] under "
 "**Config - OBP Hardware**."
 
 #: ../../usermanual/configuration.rst:1155 c1ed35d2eb6343258faa4198fa898951
@@ -4546,9 +4545,9 @@ msgid ""
 " sind die selben wie im Kapitel **Battery** beschrieben. Folgen Sie den "
 "Empfehlungen und beachten Sie die Gefahren."
 msgstr ""
-"The hazards and risks associated with using the INA226 for battery "
-"monitoring are the same as those described in chapter **Battery**. Follow "
-"the recommendations and be aware of the hazards."
+"The dangers and risks associated with using the INA226 for battery "
+"monitoring are the same as those described in the Battery chapter. Follow "
+"the recommendations and be aware of the dangers."
 
 #: ../../usermanual/configuration.rst:1161 4b3ece73d5c34cdcab119c4708f38c70
 #, fuzzy
@@ -4579,7 +4578,7 @@ msgstr ""
 #: ../../usermanual/configuration.rst:1169 2e512a7b694f4c0b9715fd41c2569afd
 #, fuzzy
 msgid "**Roll** - Neigung in Querrichtung"
-msgstr "**Roll** - Inclination in transverse direction"
+msgstr "**Roll** - Tilt in transverse direction"
 
 #: ../../usermanual/configuration.rst:1170 47d97af7f8e0473d81d62e741d5f60ba
 #, fuzzy
@@ -4643,8 +4642,8 @@ msgid ""
 "werden."
 msgstr ""
 "To display the measured values, an I2C module **INA226** must be connected "
-"to the I2C bus and set to the address **0x44**. The shunt can be configured "
-"for various maximum currents in amperes [10|50|100|200|300|400|500] under "
+"to the I2C bus and set to address **0x44**. The shunt can be configured for "
+"various maximum currents in amperes [10|50|100|200|300|400|500] under "
 "**Config - OBP Hardware**."
 
 #: ../../usermanual/configuration.rst:1206 0066f82bf3c241679422692b99bdd357
@@ -4678,7 +4677,7 @@ msgid ""
 "Empfehlungen und beachten Sie die Gefahren."
 msgstr ""
 "The hazards and risks associated with using the INA226 for battery "
-"monitoring are the same as those described in chapter **Battery**. Follow "
+"monitoring are the same as those described in the Battery chapter. Follow "
 "the recommendations and be aware of the hazards."
 
 #: ../../usermanual/configuration.rst:1215 40475d4cbf664639a396be2bd246b49c
@@ -4731,8 +4730,8 @@ msgid ""
 "werden."
 msgstr ""
 "To display the measured values, an I2C module **INA226** must be connected "
-"to the I2C bus and set to the address **0x45**. The shunt can be configured "
-"for various maximum currents in amperes [10|50|100|200|300|400|500] under "
+"to the I2C bus and set to address **0x45**. The shunt can be configured for "
+"various maximum currents in amperes [10|50|100|200|300|400|500] under "
 "**Config - OBP Hardware**."
 
 #: ../../usermanual/configuration.rst:1238 3f46b2acd1d74422ae3384281f752310
@@ -4809,7 +4808,7 @@ msgstr "An XDR sentence is structured as follows:"
 #: ../../usermanual/configuration.rst:1265 9ce8b1e8da8e440d8b17d99611afc448
 #, fuzzy
 msgid "**Sensor Werte**"
-msgstr "**Sensor Werte**"
+msgstr "**Sensor values**"
 
 #: ../../usermanual/configuration.rst:1267 14f4c8b8e780435b90db64821644c46a
 #, fuzzy
@@ -5015,7 +5014,8 @@ msgid ""
 "Dazu öffnet man als erstes über **Show Unmapped** eine Liste der nicht "
 "verknüpften Sensordaten."
 msgstr ""
-"To do this, first open a list of unlinked sensor data via **Show Unmapped**."
+"To do this, first open a list of unlinked sensor data using **Show "
+"Unmapped**."
 
 #: ../../usermanual/configuration.rst:1305 0bc7c1473afb43a9971408ca9c6d860e
 #, fuzzy
@@ -5038,9 +5038,9 @@ msgid ""
 "individuell geändert werden. Die Erklärung zu den Einstellungen ist "
 "nachfolgend aufgeführt."
 msgstr ""
-"After assigning the sensor name, an example of the XDR telegram is displayed"
-" under **Example**. After that, all settings can be changed individually. "
-"The explanation of the settings is listed below."
+"After assigning the sensor name, an example XDR telegram is displayed under "
+"**Example**. All settings can then be changed individually. The explanation "
+"of the settings is listed below."
 
 #: ../../usermanual/configuration.rst:1312 1cab9944ed964f07860788540a638e7b
 #, fuzzy
@@ -5053,7 +5053,7 @@ msgid ""
 "Über **Direction** lässt sich einstellen, wie Sensordaten eingelesen werden "
 "sollen und wohin sie übertragen werden:"
 msgstr ""
-"Using **Direction** you can specify how sensor data should be read and where"
+"**Direction** allows you to specify how sensor data should be read and where"
 " it should be transferred:"
 
 #: ../../usermanual/configuration.rst:1315 13a1debf6bbd47b981f9865075a4d847
@@ -5152,8 +5152,9 @@ msgid ""
 " nach verwendetem Sensortyp stehen verschiedene Sensor-Quellen zur "
 "Verfügung."
 msgstr ""
-"The sensor data source can be configured more precisely using **Source**. "
-"Depending on the sensor type used, different sensor sources are available."
+"The source of the sensor data can be more precisely configured using "
+"**Source**. Depending on the sensor type used, various sensor sources are "
+"available."
 
 #: ../../usermanual/configuration.rst:1334 dcd4170e536b48e1977b78bb3e940204
 #, fuzzy
@@ -5169,9 +5170,9 @@ msgid ""
 "einen Anzeigewert oder um einen Einstellwert handelt."
 msgstr ""
 "**Field** can be used to describe more precisely how the sensor data should "
-"be understood. This is additional data that can be configured context-"
-"dependently depending on the sensor type used. For example, it can be "
-"specified whether it is a display value or a setting value."
+"be interpreted. This is additional data that can be configured context-"
+"dependently depending on the sensor type used. For example, you can specify "
+"whether it is a display value or a setting value."
 
 #: ../../usermanual/configuration.rst:1337 3a2a5f94f6f6488098d13bddcc212430
 #, fuzzy
@@ -5190,7 +5191,7 @@ msgid ""
 msgstr ""
 "**Instance** can be used to specify whether there are multiple sensors of "
 "the same type. This can occur, for example, if two engines are installed in "
-"a boat and two fuel levels need to be displayed. The sensors are "
+"a boat and two fuel levels should be displayed. The sensors are "
 "differentiated using an instance number. \\#1, for example, is then appended"
 " to the sensor name. The type of instantiation can be specified as follows:"
 
@@ -5234,7 +5235,7 @@ msgid ""
 msgstr ""
 "The sensor name is specified via **Transducer**. This is a plain text "
 "description of the sensor using ASCII characters. Use only letters and "
-"numbers, without spaces or special characters."
+"numbers, no spaces or special characters."
 
 #: ../../usermanual/configuration.rst:1348 a1274efd114745b5a99266c5ce574bb3
 #, fuzzy
@@ -5335,7 +5336,7 @@ msgid ""
 "den Dateinamen **xxx-update.bin**."
 msgstr ""
 "During a standard firmware update, only the program part of the firmware is "
-"updated. An existing configuration is retained and can be used again after "
+"updated. Existing configurations are retained and can be used again after "
 "the firmware update. Standard firmware updates use the file name **xxx-"
 "update.bin**."
 
@@ -5358,9 +5359,9 @@ msgid ""
 " zu finden. Beachten Sie dabei die jeweilige Hardware-Version, für die Sie "
 "eine Firmware benutzen wollen."
 msgstr ""
-"A number of available firmware updates for the OBP60 can be found at "
+"A number of available firmware updates for the OBP60 can be found under "
 "**Releases**. Please note the specific hardware version for which you want "
-"to use the firmware."
+"to use a firmware."
 
 #: ../../usermanual/configuration.rst:1389 a5857957d1d74ac5a6c11204cb7e37a9
 #, fuzzy
@@ -5400,11 +5401,11 @@ msgid ""
 " mehr möglich, die Firmware muss dann über USB geflasht werden."
 msgstr ""
 "Please note that when updating the firmware to an older version, you must "
-"perform a **Initial Firmware Update**. This will prevent complications with "
-"the saved configuration data. Failure to do so may result in the system "
-"becoming unusable and possibly freezing completely. A firmware update via "
-"the configuration pages will then no longer be possible; the firmware must "
-"then be flashed via USB."
+"perform an **Initial Firmware Update**. This will prevent complications with"
+" the saved configuration data. Failure to do so may result in the system "
+"becoming unusable and even freezing completely. A firmware update via the "
+"configuration pages will then no longer be possible; the firmware must then "
+"be flashed via USB."
 
 #: ../../usermanual/configuration.rst:1394 abb07da07d594a2886c7b1672573424f
 #, fuzzy
@@ -5424,9 +5425,9 @@ msgid ""
 "das Projekt gehostet wird. Dort sind einige weitergehende Informationen zum "
 "NMEA2000-Gateway zu finden, das die Basis für diese Firmware ist."
 msgstr ""
-"**Help** takes you online to the Github page where the project is hosted. "
-"There you'll find some more information about the NMEA2000 gateway, which "
-"forms the basis for this firmware."
+"Under **Help**, you'll be taken to the GitHub page where the project is "
+"hosted. There you'll find some more information about the NMEA2000 gateway, "
+"which forms the basis for this firmware."
 
 #: ../../usermanual/configuration.rst:1402 e25b63149c2d4b6c89bd4f6195e80f4e
 #, fuzzy

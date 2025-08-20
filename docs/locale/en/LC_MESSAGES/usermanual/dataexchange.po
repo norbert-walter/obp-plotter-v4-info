@@ -47,9 +47,9 @@ msgid ""
 "implementiert und nutzt die Grundfunktionalität des NMEA2000-Gateways."
 msgstr ""
 "The OBP plotter's firmware consists of two parts. The first part is the "
-"**NMEA2000-Gateway** and the second part is the **Hardwareansteuerung** of "
-"the OBP60. The `NMEA2000-Gateway`_ is an open source project by Andreas "
-"Wellenvogel. It is software that allows bidirectional data conversion "
+"**NMEA2000 gateway**, and the second part is the **hardware control** of the"
+" OBP60. The `NMEA2000-Gateway`_ is an open source project by Andreas "
+"Wellenvogel. It is software that enables bidirectional data conversion "
 "between NMEA2000 and NMEA0183. The software is designed to support various "
 "commercial hardware. For example, the NMEA2000 gateway runs on several "
 "products from the company `M5Stack`_, such as the **M5Stack Atom**, but also"
@@ -90,17 +90,17 @@ msgstr ""
 "(**RS485**), other bus systems such as **I2C** and **1Wire** are supported. "
 "The main task of the NMEA 2000 gateway is to receive all incoming data from "
 "the bus systems and map it into a common data pool. This data can be viewed "
-"on the **Data** website. Advanced sensors that are not part of NMEA 2000 and"
+"on the **Data** website. Extended sensors that are not part of NMEA 2000 and"
 " NMEA 0183 can be integrated via I2C and 1Wire. This allows for the use of "
 "inexpensive sensors. To ensure that the data from the extended sensors can "
 "be used in the NMEA 2000 and NMEA 0183 network, it is added to the data pool"
 " via NMEA 0183 as universal :ref:`XDR` data sets. As XDR data sets, the data"
-" can then also be converted to NMEA 2000, provided the appropriate "
-"translations are implemented in the converter. CAN, RS485, and WiFi are "
-"available as output interfaces. Only NMEA 2000 data can be exchanged via the"
-" CAN interface. Both NMEA 0183 and NMEA 2000 data can be exchanged via RS485"
-" and WiFi (TCP), provided the NMEA 2000 data in SeaSmart telegrams is "
-"tunneled through NMEA 0183."
+" can then also be converted to NMEA 2000, provided the converter implements "
+"the appropriate translations. CAN, RS485, and Wi-Fi are available as output "
+"interfaces. Only NMEA 2000 data can be exchanged via the CAN interface. Both"
+" NMEA 0183 and NMEA 2000 data can be exchanged via RS485 and Wi-Fi (TCP), "
+"provided the NMEA 2000 data in SeaSmart telegrams is tunneled through NMEA "
+"0183."
 
 #: ../../usermanual/dataexchange.rst:20 0586b4f2e4ed4cf58cc0fb61fc32c8dc
 #, fuzzy
@@ -197,7 +197,7 @@ msgstr "**I2C** (half duplex)"
 #: ../../usermanual/dataexchange.rst:43 c5f60a0adba148baa9d7c4cb0da64915
 #, fuzzy
 msgid "**1Wire** (halbduplex)"
-msgstr "**1Wire** (half duplex)"
+msgstr "**1Wire** (halbduplex)"
 
 #: ../../usermanual/dataexchange.rst:46 dbb496ef658842bbbc7fd799accff022
 #, fuzzy
@@ -499,7 +499,8 @@ msgid ""
 msgstr ""
 "Both devices must be on the same Wi-Fi network and have different network "
 "names and IP addresses. One device must be configured as a TCP server and "
-"the other as a TCP client, with **SeaSmart out** enabled on both devices."
+"the other as a TCP client, and **SeaSmart out** must be enabled on both "
+"devices."
 
 #: ../../usermanual/dataexchange.rst:125 09f627cccf16498f80d34b24a24e424c
 #, fuzzy
@@ -852,12 +853,12 @@ msgid ""
 msgstr ""
 "NMEA 0183 telegrams can also be transmitted full-duplex over USB. This means"
 " that data can be sent and received simultaneously. The USB port for data "
-"transmission is located on the back of the OBP60 below the **CN2** "
-"connector. It is designed as a USB-C port. The USB interface in the OBP60 is"
-" implemented as a serial RS232 device and supports transmission speeds of "
-"1,200 to 460,800 baud. The default setting for data transmission is 115,200 "
-"baud, which should be sufficiently fast for most applications. Data is "
-"transmitted exclusively as NMEA 0183 data over USB."
+"transmission is located on the back of the OBP60 below connector **CN2**. It"
+" is designed as a USB-C port. The USB interface in the OBP60 is implemented "
+"as a serial RS232 device and supports transmission speeds of 1,200 to "
+"460,800 baud. The default setting for data transmission is 115,200 baud, "
+"which should be sufficiently fast for most applications. Data is transmitted"
+" exclusively as NMEA 0183 data over USB."
 
 #: ../../usermanual/dataexchange.rst:218 6416bec5d67c4dcf9435c751d092f59c
 #, fuzzy
@@ -994,9 +995,9 @@ msgid ""
 "Logging-Ausgaben in den Datenstrom eingespeist werden, die ebenfalls über "
 "USB-C ausgegeben werden."
 msgstr ""
-"Make sure that the **Log Level** is set to ``off``. Otherwise, communication"
-" may be disrupted, as logging outputs are fed into the data stream, which is"
-" also output via USB-C."
+"Make sure the **Log Level** is set to ``off``. Otherwise, communication may "
+"be disrupted, as logging outputs are fed into the data stream, which is also"
+" output via USB-C."
 
 #: ../../usermanual/dataexchange.rst:262 b0f37822677b4ea38705fa00cdf4aa9c
 #, fuzzy
@@ -1024,10 +1025,10 @@ msgid ""
 msgstr ""
 "This example shows the integration of an OBP60 via USB into AVnav, which "
 "runs on a Raspberry Pi. NMEA 2000 bus data is read and transferred to NMEA "
-"0183. The connection is established directly in AVnav as a device, and the "
-"data is then available to the application. In this case, the AVnav image is "
-"used. Those using AVnav as a plugin under OpenPlotter should follow the "
-"**Konfigurationsbeispiel OpenPlotter auf Raspberry Pi**."
+"0183. The connection is made directly in AVnav as a device, and the data is "
+"then available to the application. In this case, the AVnav image is used. If"
+" you use AVnav as a plugin under OpenPlotter, please follow the "
+"**OpenPlotter configuration example on Raspberry Pi**."
 
 #: ../../usermanual/dataexchange.rst:269 57bd76921ac045f1b785a558b8a9cb94
 #, fuzzy
@@ -1036,8 +1037,8 @@ msgid ""
 " zu USB-A Kabel**. Am Raspberry Pi können Sie jeden beliebigen USB-A-Port "
 "verwenden."
 msgstr ""
-"To connect the OBP60 and the Raspberry Pi, you need a **USB-C zu USB-A "
-"Kabel**. You can use any USB-A port on the Raspberry Pi."
+"To connect the OBP60 to the Raspberry Pi, you need a **USB-C to USB-A "
+"cable**. You can use any USB-A port on the Raspberry Pi."
 
 #: ../../usermanual/dataexchange.rst:272 f9b5b4b563df4bc584062a9c00431aa3
 #, fuzzy
@@ -1115,10 +1116,10 @@ msgid ""
 "angeschlossen. Das Gerät ist der Schnittstelle **/dev/ttyACM0** zugeordnet "
 "und arbeitet mit einer Übertragungsrate von 38.400 Bd."
 msgstr ""
-"AVnav is configured to automatically detect and assign all serial USB "
+"AVnav is configured to automatically detect and assign all USB serial "
 "devices. Both the device and the transfer rate are detected. First, get an "
 "overview of which devices are already connected via USB. In the image above,"
-" under **[3] USBSerialReader**, you can see all currently detected and "
+" under item **[3] USBSerialReader**, you can see all currently detected and "
 "assigned devices. In our case, a GPS stick is already connected via USB. The"
 " device is assigned to the **/dev/ttyACM0** interface and operates at a "
 "transfer rate of 38,400 baud."
@@ -1137,8 +1138,8 @@ msgid ""
 "noch nicht korrekt eingestellt."
 msgstr ""
 "If you connect the OBP60 to the Raspberry Pi via USB, you'll see a newly "
-"added device **/dev/ttyACM1** in the image above under point 3. This is the "
-"OBP60. However, the interface speed isn't yet set correctly."
+"added device, **/dev/ttyACM1**, in the image above under point 3. This is "
+"the OBP60. However, the interface speed isn't yet set correctly."
 
 #: ../../usermanual/dataexchange.rst:307 f7b0f05de4944da19254df0980a8619a
 #, fuzzy
@@ -1147,7 +1148,7 @@ msgid ""
 "**/dev/ttyACM1** klicken, können die Einstellungen zum Gerät vorgenommen "
 "werden. Folgende Werte sind anzupassen:"
 msgstr ""
-"If you click on the pencil icon behind the line containing the entry "
+"If you click on the pencil icon next to the line containing "
 "**/dev/ttyACM1**, you can configure the device settings. The following "
 "values must be adjusted:"
 
@@ -1213,9 +1214,9 @@ msgid ""
 "Autoradio auflegen. Konsultieren Sie dazu das Handbuch zum Android-Autoradio"
 " und stellen Sie die USB-Verbindung wie gefordert her."
 msgstr ""
-"This example shows how to feed bus data into an Android radio so that it can"
-" be used in AVnav. To transfer data to the Android car radio, you will need "
-"an **USB-C zu USB-A Kabel**, provided a suitable adapter socket is "
+"This example demonstrates how to feed bus data into an Android radio so that"
+" it can be used in AVnav. To transfer data to the Android car radio, you "
+"will need a **USB-C to USB-A cable**, provided a suitable adapter socket is "
 "available. In some situations, you may need to connect the USB cable "
 "directly to the car radio via special connectors. Consult the Android car "
 "radio's manual and establish the USB connection as required."
@@ -1282,8 +1283,7 @@ msgid ""
 msgstr ""
 "Under **Device**, select the serial connection used to connect the OBP60 to "
 "the Raspberry Pi (``/dev/bus/usb/001/003``. Set the interface speed to "
-"``115200 Bd``. To be able to send and receive data in addition to sending, "
-"activate **SendOut**."
+"``115200 Bd``. To be able to both send and receive data, enable **SendOut**."
 
 #: ../../usermanual/dataexchange.rst:365 ec15ee9c61944c27ac79e200f6ae5131
 #, fuzzy
@@ -1336,11 +1336,11 @@ msgid ""
 " und stellen Sie die USB-Verbindung wie gefordert her."
 msgstr ""
 "This example shows how to import bus data into an Android radio for use in "
-"Navionics. To transfer data to the Android car radio, you will need an "
-"**USB-C zu USB-A Kabel**, provided a suitable adapter socket is available. "
-"In some situations, you may need to connect the USB cable directly to the "
-"car radio via special connectors. Consult the Android car radio's manual and"
-" establish the USB connection as required."
+"Navionics. To transfer data to the Android car radio, you will need a USB-C "
+"to USB-A cable, provided a suitable adapter is available. In some "
+"situations, you may need to connect the USB cable directly to the car radio "
+"via special connectors. Consult the Android car radio's manual and establish"
+" the USB connection as required."
 
 #: ../../usermanual/dataexchange.rst:390 c57fc1d760424fc89a687665e2afd5f0
 #, fuzzy
@@ -1366,12 +1366,12 @@ msgstr "**AIVDO** (AIS data)"
 #: ../../usermanual/dataexchange.rst:394 7f96c5336d2e4341bfb94f87a7eeba11
 #, fuzzy
 msgid "**DBT**  (Tiefe unter Sensor)"
-msgstr "**DBT** (Depth below sensor)"
+msgstr "**DBT** (Depth Below Sensor)"
 
 #: ../../usermanual/dataexchange.rst:395 d1e7a329929644b6bb48d6ff57398098
 #, fuzzy
 msgid "**DPT**  (Korrigierte Tiefe)"
-msgstr "**DPT** (Corrected depth)"
+msgstr "**DPT** (Corrected Depth)"
 
 #: ../../usermanual/dataexchange.rst:396 78560018b1724af5b16d681a00615a48
 #, fuzzy
@@ -1381,7 +1381,7 @@ msgstr "**GGA**  (Position)"
 #: ../../usermanual/dataexchange.rst:397 c2eb84c08b924d60a1d127d852d96219
 #, fuzzy
 msgid "**GLL**  (Position)"
-msgstr "**GLL**  (Position)"
+msgstr "**GLL** (Position)"
 
 #: ../../usermanual/dataexchange.rst:398 853efbfef3524fc489569c43b7410b23
 #, fuzzy
@@ -1394,12 +1394,12 @@ msgstr ""
 #: ../../usermanual/dataexchange.rst:399 1d3be6382a06488aa71bcc7e0eb31fcc
 #, fuzzy
 msgid "**VTG**  (Kurs und Speed über Grund)"
-msgstr "**VTG** (Course and speed over ground)"
+msgstr "**VTG** (Course and Speed over Ground)"
 
 #: ../../usermanual/dataexchange.rst:400 07dec40e4e6d43f5bc8f22817cd70aca
 #, fuzzy
 msgid "**ZDA**  (Uhrzeit und Datum)"
-msgstr "**ZDA** (Time and Date)"
+msgstr "**ZDA** (time and date)"
 
 #: ../../usermanual/dataexchange.rst:403 3296f4dc34804c1687445cde7f57a459
 #, fuzzy

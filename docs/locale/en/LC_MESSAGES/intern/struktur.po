@@ -33,7 +33,7 @@ msgstr "Version 1:"
 #: ../../intern/struktur.rst:8 075fdc8aa5ac4f679bb358c518a9dc70
 #, fuzzy
 msgid "**1. Einführung**"
-msgstr "**1. Einführung**"
+msgstr "**1. Introduction**"
 
 #: ../../intern/struktur.rst:10 873683d7a1184fe9946677cea5b3b9af
 #, fuzzy
@@ -41,8 +41,7 @@ msgid ""
 "*(>>> Ziel: schnelle Information über Möglichkeiten und Besonderheiten des "
 "Geräts)*"
 msgstr ""
-"*(>>> Ziel: schnelle Information über Möglichkeiten und Besonderheiten des "
-"Geräts)*"
+"*(>>> Goal: quick information about the device's capabilities and features)*"
 
 #: ../../intern/struktur.rst:12 04cdb8dd7fe64d04913e133f77f63596
 #, fuzzy
@@ -55,8 +54,8 @@ msgid ""
 "*(>>> wie sieht er aus? Was kann er? Wo und wie kann er an Bord genutzt "
 "werden?)*"
 msgstr ""
-"*(>>> wie sieht er aus? Was kann er? Wo und wie kann er an Bord genutzt "
-"werden?)*"
+"*(>>> what does it look like? What can it do? Where and how can it be used "
+"on board?)*"
 
 #: ../../intern/struktur.rst:16 ecd41280aae64f6ca93e33f62549da2f
 #, fuzzy
@@ -85,18 +84,18 @@ msgid ""
 "*(>>> In welchem Konfigurationsvariante wird das Gerät an den Kunden "
 "geliefert?)*"
 msgstr ""
-"*(>>> In welchem Konfigurationsvariante wird das Gerät an den Kunden "
-"geliefert?)*"
+"*(>>> In which configuration variant will the device be delivered to the "
+"customer?)*"
 
 #: ../../intern/struktur.rst:26 5e4280e66cdf43a4bd72356987a30482
 #, fuzzy
 msgid "**2. Handbuch**"
-msgstr "**2. Handbuch**"
+msgstr "**2. Manual**"
 
 #: ../../intern/struktur.rst:28 9485393af334492989705c8b054658e1
 #, fuzzy
 msgid "**2.1. Inbetriebnahme**"
-msgstr "**2.1. Inbetriebnahme**"
+msgstr "**2.1. Commissioning**"
 
 #: ../../intern/struktur.rst:29 4086bd945b0141069620a0c065b886f0
 #, fuzzy
@@ -104,8 +103,7 @@ msgid ""
 "*(>>> was muss getan werden, um das Gerät an Bord oder zu Haus in Betrieb "
 "nehmen zu können?)*"
 msgstr ""
-"*(>>> was muss getan werden, um das Gerät an Bord oder zu Haus in Betrieb "
-"nehmen zu können?)*"
+"*(>>> what needs to be done to operate the device on board or at home?)*"
 
 #: ../../intern/struktur.rst:31 f6542345a6824bc5abfe5848872075b5
 #, fuzzy
@@ -135,7 +133,7 @@ msgstr "2.2. **Installation Software**"
 #: ../../intern/struktur.rst:39 94467a38f1414115a646f11c89380c6b
 #, fuzzy
 msgid "*(>>> wie bekommt man die gewünschte Software auf das Gerät?)*"
-msgstr "*(>>> wie bekommt man die gewünschte Software auf das Gerät?)*"
+msgstr "*(>>> how do you get the desired software onto the device?)*"
 
 #: ../../intern/struktur.rst:41 62404f4fe90c4ffda0c3c95530dc6839
 #, fuzzy
@@ -145,7 +143,7 @@ msgstr "2.2.1. AvNav and Android"
 #: ../../intern/struktur.rst:42 870b7c8e1a444598aa3e70a8346d7a84
 #, fuzzy
 msgid "*(fertiges AvNav-Android-Image einspielen)*"
-msgstr "*(fertiges AvNav-Android-Image einspielen)*"
+msgstr "*(install finished AvNav Android image)*"
 
 #: ../../intern/struktur.rst:44 7dfcbd33162142638d4b3b4d8e9bae44
 #, fuzzy
@@ -155,7 +153,7 @@ msgstr "2.2.2. AvNav and Raspbian"
 #: ../../intern/struktur.rst:45 bd7c1fb3bbf44c39bd66e5fcea2468ca
 #, fuzzy
 msgid "*(fertiges AvNav-Raspbian-Image einspielen)*"
-msgstr "*(fertiges AvNav-Raspbian-Image einspielen)*"
+msgstr "*(install the finished AvNav Raspbian image)*"
 
 #: ../../intern/struktur.rst:47 3ef3e7b243de478b8716b8f069a26926
 #, fuzzy
@@ -167,12 +165,12 @@ msgstr "2.2.3. Alternatives"
 msgid ""
 "*(Android-ASOP und weitere Plottersoftware, Openplotter für Raspbian etc.)*"
 msgstr ""
-"*(Android-ASOP und weitere Plottersoftware, Openplotter für Raspbian etc.)*"
+"*(Android ASOP and other plotter software, Openplotter for Raspbian, etc.)*"
 
 #: ../../intern/struktur.rst:50 eda6fd3d655742e581cfd0274eb60f97
 #, fuzzy
 msgid "**2.3. Konfiguration**"
-msgstr "**2.3. Konfiguration**"
+msgstr "**2.3. Configuration**"
 
 #: ../../intern/struktur.rst:52 5ff168b009714a74b3745a059b8fc241
 #, fuzzy
@@ -180,8 +178,8 @@ msgid ""
 "*(>>> Überblick über die Einstellmöglichkeiten der Softwarevarianten, "
 "Konzentration auf AvNav und Android. AvNav-Raspbian Verweis auf AvNav)*"
 msgstr ""
-"*(>>> Überblick über die Einstellmöglichkeiten der Softwarevarianten, "
-"Konzentration auf AvNav und Android. AvNav-Raspbian Verweis auf AvNav)*"
+"*(>>> Overview of the configuration options for the software variants, "
+"focusing on AvNav and Android. AvNav-Raspbian reference to AvNav)*"
 
 #: ../../intern/struktur.rst:54 afefe27b2c3a40f9aebb61fb2c3b43c1
 #, fuzzy
@@ -191,7 +189,7 @@ msgstr "2.3.1 Avnav"
 #: ../../intern/struktur.rst:55 cc95c66ea4c34bd3aae55893f7638858
 #, fuzzy
 msgid "*(>>> knapp halten, mit Verweisen/ Liks arbeiten)*"
-msgstr "*(>>> knapp halten, mit Verweisen/ Liks arbeiten)*"
+msgstr "*(>>> keep it short, use links/likes)*"
 
 #: ../../intern/struktur.rst:57 5bc397ad1f484cbd9669300d000df23b
 #, fuzzy
@@ -211,14 +209,15 @@ msgstr "2.3.1.3. Setting up the remote control"
 #: ../../intern/struktur.rst:62 8db3ca27f30944658d8939f7d7089eaf
 #, fuzzy
 msgid "**2.4. Konstruktion**"
-msgstr "**2.4. Konstruktion**"
+msgstr "**2.4. Construction**"
 
 #: ../../intern/struktur.rst:63 0914c5369a2441418ffc4e32390aa971
 #, fuzzy
 msgid ""
 "*(>>> wie sieht der Plotter innen aus, wie öffnen, wie Kabel verbinden etc)*"
 msgstr ""
-"*(>>> wie sieht der Plotter innen aus, wie öffnen, wie Kabel verbinden etc)*"
+"*(>>> what does the plotter look like inside, how to open it, how to connect"
+" cables etc.)*"
 
 #: ../../intern/struktur.rst:65 5b591034f50048aabf70bd7c1d3f4d87
 #, fuzzy
@@ -238,7 +237,7 @@ msgstr "Cable plan"
 #: ../../intern/struktur.rst:70 c930520245b74c6c97af3b58567a25b5
 #, fuzzy
 msgid "**2.5. Erweiterungsmöglichkeiten**"
-msgstr "**2.5. Erweiterungsmöglichkeiten**"
+msgstr "**2.5. Expansion options**"
 
 #: ../../intern/struktur.rst:72 ab53bc1b178d4c219a30d485a333861f
 #, fuzzy
@@ -313,17 +312,17 @@ msgstr "Donate"
 #: ../../intern/struktur.rst:95 392bd55023844d96b033eb821181a3bb
 #, fuzzy
 msgid "**5. Technische Daten**"
-msgstr "**5. Technische Daten**"
+msgstr "**5. Technical data**"
 
 #: ../../intern/struktur.rst:97 bb14c6bc99144e2187b7dd7b39687975
 #, fuzzy
 msgid "**6. Glossar**"
-msgstr "**6. Glossar**"
+msgstr "**6. Glossary**"
 
 #: ../../intern/struktur.rst:99 5045aaee71b24f2c937b9c30b381a930
 #, fuzzy
 msgid "**7. Kontakt**"
-msgstr "**7. Kontakt**"
+msgstr "**7. Contact**"
 
 #: ../../intern/struktur.rst:101 be8d9cb8b7d74581a044a98d9f68c577
 #, fuzzy
@@ -338,7 +337,7 @@ msgstr "Opinions and tips"
 #: ../../intern/struktur.rst:104 0be975ed115e4433ac1798ff35f838c0
 #, fuzzy
 msgid "**8. Impressum**"
-msgstr "**8. Impressum**"
+msgstr "**8. Imprint**"
 
 #: ../../intern/struktur.rst:107 05356377df924b6d90180d78237a9c19
 #, fuzzy

@@ -78,7 +78,7 @@ msgstr ""
 #: ../../intro/historie.rst:19 8de00129546e4ce39bcf159c068269b3
 #, fuzzy
 msgid "**Hauptplatine**"
-msgstr "**Hauptplatine**"
+msgstr "**Mainboard**"
 
 #: ../../intro/historie.rst:23 a5cafc161e1a4763a3be86e53c352440
 #, fuzzy
@@ -108,7 +108,7 @@ msgstr "1x HDMI (Second Port)"
 #: ../../intro/historie.rst:29 6263bb599fce418c8bc65d34d039bba2
 #, fuzzy
 msgid "**Stromversorgung**"
-msgstr "**Stromversorgung**"
+msgstr "**Power supply**"
 
 #: ../../intro/historie.rst:30 034c67c4a0b14b15846c4c295e1b5d72
 #, fuzzy
@@ -144,7 +144,7 @@ msgstr "Input filter and surge protection"
 #: ../../intro/historie.rst:37 eb605209c2084979b6609efc1aee44ff
 #, fuzzy
 msgid "**Comput Modul Steckplatz**"
-msgstr "**Comput Modul Steckplatz**"
+msgstr "**Comput module slot**"
 
 #: ../../intro/historie.rst:38 fee61b99919249fa8ccb2c5c6f255274
 #, fuzzy
@@ -159,7 +159,7 @@ msgstr "Suitable for CM4, CM5 from Banana Pi (untested)"
 #: ../../intro/historie.rst:41 f20672ee058e4b21bb34f81faadd36b3
 #, fuzzy
 msgid "**Compute Modul CM5**"
-msgstr "**Compute Modul CM5**"
+msgstr "**Compute Module CM5**"
 
 #: ../../intro/historie.rst:45 b7d2d588c26c4b668df087cc2ba5c007
 #, fuzzy

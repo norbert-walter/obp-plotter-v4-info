@@ -28,12 +28,12 @@ msgstr "Structural proposal 3"
 #: ../../intern/struktur_2.rst:5 9b6c28d18acb4a63b05b1f9598515233
 #, fuzzy
 msgid "**1. Einführung**"
-msgstr "**1. Einführung**"
+msgstr "**1. Introduction**"
 
 #: ../../intern/struktur_2.rst:7 f9bdac8ed57d4f639d15c053c765adcd
 #, fuzzy
 msgid "**2. Handbuch**"
-msgstr "**2. Handbuch**"
+msgstr "**2. Manual**"
 
 #: ../../intern/struktur_2.rst:9 fcd8e91832a9493098069bd8fa6f4407
 #, fuzzy
@@ -48,19 +48,19 @@ msgstr "**4. Team**"
 #: ../../intern/struktur_2.rst:13 2193ae6537044ad587ba7c725d11b7ad
 #, fuzzy
 msgid "**5. Technische Daten**"
-msgstr "**5. Technische Daten**"
+msgstr "**5. Technical data**"
 
 #: ../../intern/struktur_2.rst:15 ffd2045466ef42179dc7a2f9bc84711e
 #, fuzzy
 msgid "**6. Glossar**"
-msgstr "**6. Glossar**"
+msgstr "**6. Glossary**"
 
 #: ../../intern/struktur_2.rst:17 9eab8b77984148eba37f06c602098441
 #, fuzzy
 msgid "**7. Kontakt**"
-msgstr "**7. Kontakt**"
+msgstr "**7. Contact**"
 
 #: ../../intern/struktur_2.rst:19 01a7852127e74f8486b4e96b654c2a10
 #, fuzzy
 msgid "**8. Impressum**"
-msgstr "**8. Impressum**"
+msgstr "**8. Imprint**"

@@ -1055,8 +1055,8 @@ msgid ""
 "Datensätze übertragen. Ein NMEA0183-Telegramm besteht aus folgenden "
 "Informationen."
 msgstr ""
-"NMEA0183 telegrams are quite simple and are transmitted as ASCII data sets. "
-"An NMEA0183 telegram consists of the following information."
+"NMEA0183 telegrams are quite simple in structure and are transmitted as "
+"ASCII data sets. An NMEA0183 telegram consists of the following information."
 
 #: ../../usermanual/bussystems.rst:255 c5dba4c23a3a4363a263d449d98c7801
 #, fuzzy

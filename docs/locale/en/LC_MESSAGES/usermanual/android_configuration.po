@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Open Boat Projects
+# This file is distributed under the same license as the OBP-Plotter V4 Info
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OBP-Plotter V4 Info\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-20 12:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../usermanual/android_configuration.rst:2
+#: e6b0337fc7304295ac5f9eb7badb10c3
+#, fuzzy
+msgid "Konfiguration Android"
+msgstr "Android configuration"
+
+#: ../../usermanual/android_configuration.rst:9
+#: 150a7609cef54ca6b3e6cc664d264f36
+#, fuzzy
+msgid "Abb.: OBP-Logo"
+msgstr "Abb.: OBP-Logo"
+
+#: ../../usermanual/android_configuration.rst:15
+#: bc3db59a469a41568f90016c745575b2
+#, fuzzy
+msgid ""
+"Sollte das Einbuchen in das WiFi-Netzwerk des OBP60 per QR-Code nicht "
+"funktionieren, können Sie die Konfiguration auch manuell vornehmen. "
+"Verwenden Sie dazu die folgenden Zugangsdaten:"
+msgstr ""
+"If logging into the OBP60's Wi-Fi network via QR code fails, you can also "
+"configure it manually. Use the following credentials:"
+
+#: ../../usermanual/android_configuration.rst:17
+#: 0ef776c0991042668f2805dfc6dc495e
+#, fuzzy
+msgid "**SSID:** OBP60V2"
+msgstr "**SSID:** OBP60V2"
+
+#: ../../usermanual/android_configuration.rst:18
+#: 5e39afd805544364baa93da568f1e106
+#, fuzzy
+msgid "**Passwort:** esp32nmea2k"
+msgstr "**Passwort:** esp32nmea2k"
+
+#: ../../usermanual/android_configuration.rst:22
+#: 7e01177e3abb40a8859c66e25c0dc8cc
+#, fuzzy
+msgid "Image aufspielen"
+msgstr "Upload image"
+
+#: ../../usermanual/android_configuration.rst:27
+#: 5d3147c2839a4b46adc8d1ef092b9300
+#, fuzzy
+msgid "Erster Start"
+msgstr "First start"

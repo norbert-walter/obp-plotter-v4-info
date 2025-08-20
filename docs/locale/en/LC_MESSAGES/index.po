@@ -1,0 +1,374 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Open Boat Projects
+# This file is distributed under the same license as the OBP-Plotter V4 Info
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OBP-Plotter V4 Info\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-20 12:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../index.rst:68
+#, fuzzy
+msgid "Übersicht"
+msgstr "Overview"
+
+#: ../../index.rst:68
+#, fuzzy
+msgid "Technische Daten"
+msgstr "Technical data"
+
+#: ../../index.rst:68
+#, fuzzy
+msgid "Erweiterungen"
+msgstr "Extensions"
+
+#: ../../index.rst:68
+#, fuzzy
+msgid "Einsatzmöglichkeiten"
+msgstr "Possible applications"
+
+#: ../../index.rst:68
+#, fuzzy
+msgid "Eigenschaften"
+msgstr "Characteristics"
+
+#: ../../index.rst:78
+#, fuzzy
+msgid "Interesse"
+msgstr "Interest"
+
+#: ../../index.rst:78
+#, fuzzy
+msgid "Technische Unterstützung"
+msgstr "Technical support"
+
+#: ../../index.rst:78
+#, fuzzy
+msgid "Service"
+msgstr "Service"
+
+#: ../../index.rst:78
+#, fuzzy
+msgid "Medien"
+msgstr "media"
+
+#: ../../index.rst:78
+#, fuzzy
+msgid "Info"
+msgstr "Info"
+
+#: ../../index.rst:3 41ebd7defa4449dfa85c4499faca7d47
+#, fuzzy
+msgid "OBP-Plotter V4 Information"
+msgstr "OBP-Plotter V4 Information"
+
+#: ../../index.rst:4 ca29309b772c4ba7881a5a3a9540f2fb
+#, fuzzy
+msgid "Letzte Aktualisierung |today|"
+msgstr "Last updated |today|"
+
+#: ../../index.rst:6 e211f583a21d4ddf842e57131351e84f
+#, fuzzy
+msgid "Documentation Status"
+msgstr "Documentation Status"
+
+#: ../../index.rst:10 d405eb3ffd8a4c0b85b10c2f5612b7f7
+#, fuzzy
+msgid "Diese Seiten sind noch in Bearbeitung."
+msgstr "These pages are still under construction."
+
+#: ../../index.rst:15 3489c828601045498042bd893b761db9
+#, fuzzy
+msgid ""
+"Der OBP-Plotter V4 wurde von Open Boat Projects entwickelt, um eine offene "
+"und anpassbare Navigationsplattform bereitzustellen. Unter der Leitung von "
+"Core-Entwicklern arbeitet ein Team von Unterstützern an diesem Projekt. Im "
+"Gegensatz zu kommerziellen Navigationssystemen, bei denen die Funktionen "
+"fest vom Hersteller vorgegeben sind und sich später nicht ändern lassen, "
+"bietet der OBP-Plotter eine flexible Alternative. Kommerzielle Systeme haben"
+" oft eine begrenzte Lebensdauer: Nach wenigen Jahren werden sie nicht mehr "
+"unterstützt, wodurch die Nutzung veraltet und unpraktisch wird, insbesondere"
+" wenn keine aktuellen Karten mehr verfügbar sind. Dies zwingt viele Nutzer "
+"dazu, ein neues System zu kaufen, obwohl das alte Gerät technisch noch "
+"einwandfrei funktioniert."
+msgstr ""
+"The OBP Plotter V4 was developed by Open Boat Projects to provide an open "
+"and customizable navigation platform. A team of contributors, led by core "
+"developers, is working on this project. Unlike commercial navigation "
+"systems, where features are fixed by the manufacturer and cannot be changed "
+"later, the OBP Plotter offers a flexible alternative. Commercial systems "
+"often have a limited lifespan: After a few years, they are no longer "
+"supported, making them obsolete and impractical to use, especially when up-"
+"to-date charts are no longer available. This forces many users to purchase a"
+" new system even though their old device is still technically functional."
+
+#: ../../index.rst:17 5ec1f13c299a4e60ace2cf555a50cfcb
+#, fuzzy
+msgid ""
+"Im DIY-Bereich gibt es oft individuelle Lösungen, die jedoch nicht immer "
+"optimal für die Herausforderungen des Segelalltags angepasst sind. Dies "
+"liegt oft an technischen Einschränkungen oder mangelnder Erfahrung in der "
+"Umsetzung. Open Boat Projects hat es sich daher zum Ziel gesetzt, eine "
+"robuste Navigations-Hardware zu entwickeln, die den Anforderungen in der "
+"maritimen Umgebung gerecht wird und gleichzeitig als Grundlage für eigene "
+"Projekte dienen kann."
+msgstr ""
+"In the DIY sector, custom solutions are often available, but they are not "
+"always optimally adapted to the challenges of everyday sailing. This is "
+"often due to technical limitations or a lack of experience in "
+"implementation. Open Boat Projects has therefore set itself the goal of "
+"developing robust navigation hardware that meets the demands of the maritime"
+" environment and can also serve as a basis for its own projects."
+
+#: ../../index.rst:19 8f6fca86c8a54552924661b8d1a8a8fc
+#, fuzzy
+msgid ""
+"Die Zielgruppe des OBP-Plotters sind Menschen, die sich ein individuelles "
+"System auf Basis einer stabilen und gut funktionierenden Hardware erstellen "
+"möchten. Der Plotter eignet sich auch für diejenigen, die ältere Systeme "
+"integrieren oder eine sofort einsatzbereite Lösung suchen, die sich leicht "
+"erweitern lässt."
+msgstr ""
+"The target audience for the OBP plotter are people who want to create a "
+"customized system based on stable and well-functioning hardware. The plotter"
+" is also suitable for those who want to integrate older systems or are "
+"looking for a ready-to-use solution that can be easily expanded."
+
+#: ../../index.rst:21 0c656e4416924ce8b2a1a4ed4ac4f198
+#, fuzzy
+msgid "**Eigenschaften der Hardware**"
+msgstr "**Eigenschaften der Hardware**"
+
+#: ../../index.rst:23 188d791ca1cd43808cdea4990cebe282
+#, fuzzy
+msgid ""
+"Die Hardware ist speziell für den anspruchsvollen Einsatz konzipiert und "
+"bietet:"
+msgstr ""
+"The hardware is specially designed for demanding applications and offers:"
+
+#: ../../index.rst:25 12c676f2dfc1411fbf4e41063d6a9966
+#, fuzzy
+msgid "Ein wetterfestes, wasserdichtes Gehäuse"
+msgstr "A weatherproof, waterproof housing"
+
+#: ../../index.rst:26 1daf2ff377d54655b0d64291e26cdb4c
+#, fuzzy
+msgid "Regenfestes, handschuhtaugliches Touch-Display (10 Zoll, 1000 Nits)"
+msgstr "Rainproof, glove-compatible touch display (10 inches, 1000 nits)"
+
+#: ../../index.rst:27 00e36ae9a77e4c989c71edddec3fd581
+#, fuzzy
+msgid "Sensortasten für einfache Bedienung"
+msgstr "Sensor keys for easy operation"
+
+#: ../../index.rst:28 f6e707a7d6d9401296c9c5f0cbc36039
+#, fuzzy
+msgid "Leistungsstarkes Raspberry Pi Compute Module CM5:"
+msgstr "Powerful Raspberry Pi Compute Module CM5:"
+
+#: ../../index.rst:29 ccdf6404148f4627959fe1a0e8b45e98
+#, fuzzy
+msgid "4 GB RAM"
+msgstr "4 GB RAM"
+
+#: ../../index.rst:30 b31494cd08ef4ed89edf09a67ce56353
+#, fuzzy
+msgid "512 GB SSD"
+msgstr "512 GB SSD"
+
+#: ../../index.rst:31 4c84d82245414d14a028fcbc8eddc67b
+#, fuzzy
+msgid "WiFi (2.5 GHz & 5 GHz), Bluetooth 5.0"
+msgstr "WiFi (2.5 GHz & 5 GHz), Bluetooth 5.0"
+
+#: ../../index.rst:32 a40ffba2826c45a7a07914dcca068941
+#, fuzzy
+msgid "GPS- und AIS-Empfänger"
+msgstr "GPS and AIS receivers"
+
+#: ../../index.rst:33 6daeece473544073ac4d3acc46d01a9f
+#, fuzzy
+msgid "NMEA2000-Gateway (optional)"
+msgstr "NMEA2000-Gateway (optional)"
+
+#: ../../index.rst:34 eb8cb93910314f58b2bb2f2c406c291b
+#, fuzzy
+msgid "Unterstützung für Linux, Android und Windows"
+msgstr "Support for Linux, Android and Windows"
+
+#: ../../index.rst:35 da4a23d5d4b04488b101012eea76ba85
+#, fuzzy
+msgid "Offene Schnittstellen für individuelle Erweiterungen"
+msgstr "Open interfaces for individual extensions"
+
+#: ../../index.rst:37 a83ee66d11154de39fe98348472e25f8
+#, fuzzy
+msgid "**Offene Plattform und Community**"
+msgstr "**Offene Plattform und Community**"
+
+#: ../../index.rst:39 3cb819ca55794b20a24339ff0e3256f8
+#, fuzzy
+msgid ""
+"Ein zentraler Aspekt des OBP-Plotters ist seine Offenheit. Open Boat "
+"Projects arbeitet eng mit der Community, insbesondere im Segeln-Forum, "
+"zusammen. Diese Zusammenarbeit hilft, Ideen für eine ideale offene Hardware "
+"zu entwickeln und den Entwicklungsprozess zu optimieren. Die Grundprinzipien"
+" des Projekts sind Open Hardware, Open Source und Open Data. Jeder "
+"Interessierte kann nachvollziehen, wie das System funktioniert, es an eigene"
+" Bedürfnisse anpassen und ältere Systeme einbinden."
+msgstr ""
+"A key aspect of the OBP plotter is its openness. Open Boat Projects works "
+"closely with the community, particularly in the sailing forum. This "
+"collaboration helps develop ideas for ideal open hardware and optimize the "
+"development process. The project's core principles are open hardware, open "
+"source, and open data. Anyone interested can understand how the system "
+"works, adapt it to their own needs, and integrate older systems."
+
+#: ../../index.rst:41 cfc88802833d41dd90d58f8f8c45feeb
+#, fuzzy
+msgid "Wir stellen folgende Ressourcen zur Verfügung:"
+msgstr "We provide the following resources:"
+
+#: ../../index.rst:43 ca9e7bd50c9e4f7d8da6eb0ecca3e78a
+#, fuzzy
+msgid "CAD-Unterlagen"
+msgstr "CAD documents"
+
+#: ../../index.rst:44 ce060a1b8af843e3969ffb9bff104014
+#, fuzzy
+msgid "Quellcodes"
+msgstr "Source codes"
+
+#: ../../index.rst:45 ebe713f6ce014af6944b513f6be9e03c
+#, fuzzy
+msgid "Schaltpläne"
+msgstr "Circuit diagrams"
+
+#: ../../index.rst:46 047d38038c834b91a29a500e4a776d7b
+#, fuzzy
+msgid "Dokumentationen der Komponenten"
+msgstr "Component documentation"
+
+#: ../../index.rst:47 05216e93ec0c4b0093b367e07be3520c
+#, fuzzy
+msgid "Vorgefertigte Betriebssystem-Images"
+msgstr "Pre-built operating system images"
+
+#: ../../index.rst:49 7eeac07e899940518d87ec058638e516
+#, fuzzy
+msgid "**Produktion und Vermarktung**"
+msgstr "**Produktion und Vermarktung**"
+
+#: ../../index.rst:51 9c52a7ef266446fdbc3ea55950f93833
+#, fuzzy
+msgid ""
+"Die Hardware ist wirtschaftlich konstruiert und kann von Zulieferern "
+"effizient gefertigt werden. Open Boat Projects übernimmt die Entwicklung, "
+"von der Konzeptphase über Prototypenbau bis zur ersten Nullserie. Für "
+"Fertigung, Tests, Qualitätskontrolle, Logistik und Vertrieb arbeiten wir mit"
+" Partnern zusammen, um uns auf unsere Kernkompetenzen zu konzentrieren. "
+"Zulassungen wie die CE-Zertifizierung sind ebenfalls vorgesehen, damit der "
+"Plotter regulär im Handel erhältlich sein wird."
+msgstr ""
+"The hardware is economically designed and can be efficiently manufactured by"
+" suppliers. Open Boat Projects handles development, from the concept phase "
+"through prototype construction to the first pilot series. We work with "
+"partners for manufacturing, testing, quality control, logistics, and sales, "
+"allowing us to focus on our core competencies. Approvals such as CE "
+"certification are also planned so that the plotter will be available "
+"commercially."
+
+#: ../../index.rst:53 499a88346d6e4fcbaa112a758fc0758e
+#, fuzzy
+msgid "**Innovatives Hardwarekonzept**"
+msgstr "**Innovatives Hardwarekonzept**"
+
+#: ../../index.rst:55 ad60cb8dd25445e5b2b30691b1c4c14f
+#, fuzzy
+msgid ""
+"Der OBP-Plotter V4 basiert im Gegensatz zu kommerziellen Produkten auf einem"
+" flexiblen, offenen  Hardwaredesign, das auf standardisierten Schnittstellen"
+" wie USB und I2C aufbaut. Dies ermöglicht den Einsatz verschiedener Compute-"
+"Module, z. B. von Raspberry Pi, Banana Pi oder Radxa, unter "
+"unterschiedlichen Betriebssystemen. Diese Flexibilität bietet eine "
+"zukunftssichere Grundlage, die sich leicht an neue Anforderungen anpassen "
+"lässt."
+msgstr ""
+"Unlike commercial products, the OBP-Plotter V4 is based on a flexible, open "
+"hardware design based on standardized interfaces such as USB and I2C. This "
+"allows the use of various compute modules, such as Raspberry Pi, Banana Pi, "
+"or Radxa, under different operating systems. This flexibility provides a "
+"future-proof foundation that can be easily adapted to new requirements."
+
+#: ../../index.rst:57 8e73d117e9664d74a39b582bcae23396
+#, fuzzy
+msgid "**Einsatzmöglichkeiten und Erweiterungen**"
+msgstr "**Einsatzmöglichkeiten und Erweiterungen**"
+
+#: ../../index.rst:59 0bb00f1c40234e67aa27bdc4a1539d8e
+#, fuzzy
+msgid ""
+"Unser Ziel ist es, Interessierten eine verlässliche und geprüfte "
+"Hardwareplattform zu bieten, auf der sie ihre Kreativität entfalten können –"
+" sei es durch Softwareentwicklung oder Hardwareerweiterungen. Neben der "
+"Hardware stellen wir für Einsteiger auch ein Betriebssystem auf Basis von "
+"Android 15 bereit, das für den Marineeinsatz vorkonfiguriert ist. Später "
+"wird auch Linux folgen. Durch die Offenheit des Systems können sowohl "
+"kommerzielle Apps wie z.B. Navionics als auch individuelle Anwendungen "
+"genutzt werden."
+msgstr ""
+"Our goal is to offer interested parties a reliable and tested hardware "
+"platform on which they can unleash their creativity – whether through "
+"software development or hardware enhancements. In addition to the hardware, "
+"we also provide an operating system based on Android 15 for beginners, "
+"preconfigured for marine use. Linux will follow later. The openness of the "
+"system allows for the use of both commercial apps such as Navionics and "
+"custom applications."
+
+#: ../../index.rst:61 eb315170f4754384a202161fbec12f5f
+#, fuzzy
+msgid "**Vorteile der offenen Plattform**"
+msgstr "**Vorteile der offenen Plattform**"
+
+#: ../../index.rst:63 11a256ac6b7646ae869f56d76a64ebf6
+#, fuzzy
+msgid ""
+"Der größte Vorteil des OBP-Plotters liegt in seiner Wandelbarkeit und "
+"Erweiterbarkeit. Er ist nicht nur für den maritimen Einsatz geeignet, "
+"sondern kann auch in anderen Bereichen, wie der Heimautomation, verwendet "
+"werden. Die Plattform ist stets updatefähig, und bei Problemen steht "
+"umfassende Dokumentation zur Verfügung. Die Community beteiligt sich aktiv, "
+"um neue Ideen und Verbesserungen einzubringen. Die Lösungen orientieren sich"
+" an praktischen Anforderungen und Bedürfnissen."
+msgstr ""
+"The greatest advantage of the OBP plotter lies in its adaptability and "
+"expandability. It is not only suitable for maritime use but can also be used"
+" in other areas, such as home automation. The platform is constantly "
+"updateable, and comprehensive documentation is available in case of "
+"problems. The community actively participates, contributing new ideas and "
+"improvements. The solutions are based on practical requirements and needs."
+
+#: ../../index.rst:65 ee7d50ce1b6044e98312fb4b981622a9
+#, fuzzy
+msgid ""
+"Der OBP-Plotter V4 ist von Wassersportlern für Wassersportler entwickelt "
+"worden – ein System, das perfekt auf die Bedürfnisse dieser Community "
+"abgestimmt ist."
+msgstr ""
+"The OBP-Plotter V4 was developed by water sports enthusiasts for water "
+"sports enthusiasts – a system that is perfectly tailored to the needs of "
+"this community."

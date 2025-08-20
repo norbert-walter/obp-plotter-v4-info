@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Open Boat Projects
+# This file is distributed under the same license as the OBP-Plotter V4 Info
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OBP-Plotter V4 Info\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-20 12:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../help/support.rst:2 95326731c3334a6bad5d874dd9391624
+#, fuzzy
+msgid "Unterstützung"
+msgstr "Support"
+
+#: ../../help/support.rst:4 1740388a9328462c99eeed9c332322b6
+#, fuzzy
+msgid ""
+"Wenn Sie Fragen haben, so treten Sie dem `Segeln-Forum`_ bei und stellen "
+"dort Ihre Fragen. Wir haben einen `eigenen Bereich`_ im Forum eingerichtet, "
+"in dem Fragen zum OBP-Plotter gestellt werden können. Sie können mit uns in "
+"Deutsch oder Englisch kommunizieren. Ihnen antworten Forenmitglieder, die "
+"auch einen OBP-Plotter im Einsatz haben und über Erfahrungen verfügen. Auch "
+"das Core-Entwicklerteam für Hard- und Software ist dort zu finden und gibt "
+"ihnen Antworten."
+msgstr ""
+"If you have any questions, please join the `Segeln-Forum`_ and ask your "
+"questions there. We have set up a `eigenen Bereich`_ forum where questions "
+"about the OBP plotter can be asked. You can communicate with us in German or"
+" English. Forum members who also use an OBP plotter and have experience will"
+" answer your questions. The core development team for hardware and software "
+"can also be found there and will provide answers."
+
+#: ../../help/support.rst:11 f8b768e061504f0a8cb7992c1f50e5de
+#, fuzzy
+msgid ""
+"Bitte vermeiden Sie einen direkten Kontakt über E-Mail an Open Boat Projects"
+" und benutzen das Forum für Ihre Fragen. So können auch andere Personen die "
+"Lösungen im Internet finden und davon profitieren. Im Laufe der Zeit "
+"entsteht so eine umfangreiche Wissensbasis, auf die alle zugreifen können."
+msgstr ""
+"Please avoid contacting Open Boat Projects directly via email and use the "
+"forum for your questions. This way, others can also find the solutions "
+"online and benefit from them. Over time, this will create a comprehensive "
+"knowledge base accessible to everyone."

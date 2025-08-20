@@ -1,0 +1,408 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Open Boat Projects
+# This file is distributed under the same license as the OBP-Plotter V4 Info
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OBP-Plotter V4 Info\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-20 12:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../intro/usecase.rst:2 36eb75138a45493aa214dd32b2a61b8d
+#, fuzzy
+msgid "Einsatzmöglichkeiten"
+msgstr "Possible applications"
+
+#: ../../intro/usecase.rst:4 6f29b4aa174a4ad6a512e8e066402dbd
+#, fuzzy
+msgid "<<<<<<< HEAD Basisgerät ----------"
+msgstr "<<<<<<< HEAD Base unit ----------"
+
+#: ../../intro/usecase.rst:8 c6192ff5d2194ec693ef81f6384aba1f
+#, fuzzy
+msgid ""
+"Der OBP-Plotter als Basisgerät ist ein einatztaugliches Gerät für den "
+"Außeneinsatz. Das Gerät verfügt über keine eigene Sensorik. Sensorsignale "
+"können über das WiFi-Nertzwerk als NMEA0183 Datenstrom empfangen und "
+"gesendet werden. Als Sensor-Datenquellen können folgende Geräte verwendet "
+"werden:"
+msgstr ""
+"The OBP plotter, as the base unit, is a suitable device for outdoor use. The"
+" device does not have its own sensors. Sensor signals can be received and "
+"sent via the Wi-Fi network as an NMEA 0183 data stream. The following "
+"devices can be used as sensor data sources:"
+
+#: ../../intro/usecase.rst:10 4b50c41286f641948504a8d031b55d3e
+#, fuzzy
+msgid ""
+"Android Handy mit NetGPS-App (Position, Fahrtrichtung, Geschwindigkeit, "
+"Kompass)"
+msgstr "Android phone with NetGPS app (position, direction, speed, compass)"
+
+#: ../../intro/usecase.rst:11 ../../intro/usecase.rst:31
+#: 27ad2e3ab8854da2aa304091b3876fa9 933521f656904468b691115b82cec9a2
+#, fuzzy
+msgid "M5Stack mit NMEA2000-Gateway"
+msgstr "M5Stack mit NMEA2000-Gateway"
+
+#: ../../intro/usecase.rst:12 352602b58ecc4eeb8f8cbf0217a13ade
+#, fuzzy
+msgid ""
+"Marine Control Server mit Open Plotter (kompelette Sensorid, die mit einem "
+"MCS verwendet werden kann)"
+msgstr ""
+"Marine Control Server with Open Plotter (complete sensor ID that can be used"
+" with an MCS)"
+
+#: ../../intro/usecase.rst:14 5505f27a00fc4582a378c94ad21823ef
+#, fuzzy
+msgid ""
+"Das Basisgerät richtet sich an Leute, die schon über Sensorsysteme erfügen "
+"und diese über WiFi übertragen können."
+msgstr ""
+"The basic device is aimed at people who already have sensor systems and can "
+"transmit them via WiFi."
+
+#: ../../intro/usecase.rst:17 a61bcc9300314083be47c6566caae4cf
+#, fuzzy
+msgid "Android Handy mit NetGPS-App"
+msgstr "Android phone with NetGPS app"
+
+#: ../../intro/usecase.rst:19 b25feb8586b942d1a658d4cd1da296d7
+#, fuzzy
+msgid ""
+"Im einfachsten Fall kann dafür ein gewöhnliches Handy benutzt werden, das "
+"über einen GPS-Empfänger verfügt. Mit der NetGPS-App lassen sich folgende "
+"Daten des GPS-Empfängers über Wifi an den OBP-Plotter übertragen:"
+msgstr ""
+"In the simplest case, a regular cell phone with a GPS receiver can be used. "
+"With the NetGPS app, the following data from the GPS receiver can be "
+"transferred to the OBP plotter via Wi-Fi:"
+
+#: ../../intro/usecase.rst:21 ../../intro/usecase.rst:44
+#: 1014c343775e42f88f7d25c9d6ce2ebe 9e8c618669344619a4a1b18cefc21d59
+#, fuzzy
+msgid "Latutude"
+msgstr "Latutude"
+
+#: ../../intro/usecase.rst:22 ../../intro/usecase.rst:45
+#: d83dc387c3804a4892af4f79319878a3 e2a73e14d01d405897ddc7ca87763078
+#, fuzzy
+msgid "Longitude"
+msgstr "Longitude"
+
+#: ../../intro/usecase.rst:23 ../../intro/usecase.rst:46
+#: d697117b98124917a91126b0a13342ae dcb54a4fa23a4b7988b977266e5607ea
+#, fuzzy
+msgid "Wahrer Kurs"
+msgstr "True course"
+
+#: ../../intro/usecase.rst:24 ../../intro/usecase.rst:48
+#: 0eedbf492aae4b4293d96efd0fa9a790 c4b13ad8465e4ddf812436c7e06718d9
+#, fuzzy
+msgid "Geschwindigkeit über Grund"
+msgstr "Ground speed"
+
+#: ../../intro/usecase.rst:25 f4135e5ac2a24ce196aa4dafd4f58853
+#, fuzzy
+msgid "Höhe über NN"
+msgstr "Altitude above sea level"
+
+#: ../../intro/usecase.rst:26 ../../intro/usecase.rst:54
+#: 8c8948bbdd504b77a8b0615fdd05419a c6b2f03b49ea49f1937037651cbe3238
+#, fuzzy
+msgid "Positionsgenauigkeit"
+msgstr "Position accuracy"
+
+#: ../../intro/usecase.rst:28 319f20c77ce440a68b39ac2b28316f14
+#, fuzzy
+msgid ""
+"Die Positionsdaten, die Geschwindigkeit und der Kurs werden in AVnav in die "
+"Seekarte übernommen und angezeigt. AIS-Daten können aus dem Internet vom AIS"
+" Catcher Server bezogen und in der Seekarte angeziegt werden, wenn die "
+"eigene Position zum Server übertragen wird."
+msgstr ""
+"The position data, speed, and course are transferred to the nautical chart "
+"and displayed in AVnav. AIS data can be retrieved from the internet via the "
+"AIS Catcher server and displayed on the nautical chart when your position is"
+" transmitted to the server."
+
+#: ../../intro/usecase.rst:33 655a3494ce6e48a9ada10bce1e529c91
+#, fuzzy
+msgid ""
+"Wer bereits Bordsnetze im eigenen Boot zur Verfügung hat, kann die "
+"Sensordaten mit dem NMEA2000-Gateway auf Basis eines M5Stack über Wifi in "
+"den OBP-Plotter einlesen. Das NMEA2000-Gateway ist ein Open Source Projekt, "
+"das einen einfachen M5Stack als Hardwarebasis nutzt und mit einer speziellen"
+" Firmware versehen wird. Über Zusatzmodule lassen sich folgende Bussysteme "
+"einbinden:"
+msgstr ""
+"If you already have on-board networks on your boat, you can use the NMEA "
+"2000 gateway based on an M5 stack to read the sensor data into the OBP "
+"plotter via Wi-Fi. The NMEA 2000 gateway is an open source project that uses"
+" a simple M5 stack as its hardware base and is equipped with special "
+"firmware. The following bus systems can be integrated via additional "
+"modules:"
+
+#: ../../intro/usecase.rst:35 9d57bef5e0064161becc91a435d071bb
+#, fuzzy
+msgid "NMEA2000"
+msgstr "NMEA2000"
+
+#: ../../intro/usecase.rst:36 887a0da27b8c45618bb8229979b2f75f
+#, fuzzy
+msgid "NMEA0183"
+msgstr "NMEA0183"
+
+#: ../../intro/usecase.rst:37 345d55f9a2344603a5b9c5b4bb2976e6
+#, fuzzy
+msgid "I2C"
+msgstr "I2C"
+
+#: ../../intro/usecase.rst:38 671d155dcde648ebacaa4f90d1a1a3e7
+#, fuzzy
+msgid "1Wire"
+msgstr "1Wire"
+
+#: ../../intro/usecase.rst:40 e2527535fb444201940c91246cda9d98
+#, fuzzy
+msgid "Nähere Informationen zum Open Source Projekt finden Sie hier:"
+msgstr "Further information about the open source project can be found here:"
+
+#: ../../intro/usecase.rst:42 573c10a042b84d8683ac3bd115eed269
+#, fuzzy
+msgid ""
+"Das Gateway ermöglicht es, auch Daten zwischen dem NMEA2000-Bus und dem "
+"NMEA0183-Bus bidirektional auszutauschen. Mit dem Gateway können alle Daten "
+"aus dem Bussystem an AVnav übertragen und angezeigt werden:"
+msgstr ""
+"The gateway also enables bidirectional data exchange between the NMEA 2000 "
+"bus and the NMEA 0183 bus. The gateway allows all data from the bus system "
+"to be transmitted and displayed on AVnav:"
+
+#: ../../intro/usecase.rst:47 21d8a6bd801248388057f9c5c11a8e72
+#, fuzzy
+msgid "Magnetkurs"
+msgstr "Magnet course"
+
+#: ../../intro/usecase.rst:49 37249564c2c5469f921b48cdaf5c0cca
+#, fuzzy
+msgid "Geschwindigkeit durchs Wasser"
+msgstr "Speed through the water"
+
+#: ../../intro/usecase.rst:50 304776d69d8944f1b7a67264e797b9c7
+#, fuzzy
+msgid "Wassertiefe"
+msgstr "Water depth"
+
+#: ../../intro/usecase.rst:51 49ed7dd11923487aa46b8097d6ba0f34
+#, fuzzy
+msgid "Roll und Pitch"
+msgstr "Roll and pitch"
+
+#: ../../intro/usecase.rst:52 c1a76f58ecfc4ecf813739109dc4e1bd
+#, fuzzy
+msgid "Windrichtung"
+msgstr "Wind direction"
+
+#: ../../intro/usecase.rst:53 062ff1a3144943fdb974bb828ff4cc07
+#, fuzzy
+msgid "Windgescwindigkeit"
+msgstr "Wind speed"
+
+#: ../../intro/usecase.rst:55 e5eab27a5f4f4fe39ba4f17a4a44da10
+#, fuzzy
+msgid "Tankinhalte"
+msgstr "Tank contents"
+
+#: ../../intro/usecase.rst:56 b2d4c245adc44bd4a290190281f0fee0
+#, fuzzy
+msgid "Motordrehzahl"
+msgstr "Engine speed"
+
+#: ../../intro/usecase.rst:57 6c5a6439bb2d4c2aae12703ec58ba491
+#, fuzzy
+msgid "Batteriespannung"
+msgstr "Battery voltage"
+
+#: ../../intro/usecase.rst:58 25e48abd9b564226aaf8ffa981c907f2
+#, fuzzy
+msgid "Temperaturwerte"
+msgstr "Temperature values"
+
+#: ../../intro/usecase.rst:60 3de4c30016dc4438a0e35838a09d0240
+#, fuzzy
+msgid "**O-Charts Seekarten**"
+msgstr "**O-Charts Seekarten**"
+
+#: ../../intro/usecase.rst:66 fbe0dc0a8d9b4d73b490b38dc8a984b9
+#, fuzzy
+msgid ""
+"O-Charts Seekarten sind kommerzielle Seekarten, die in AVnav oder OpenCPN "
+"verwendet werden können. Die oeSENC Vektorkarten sind recht preisgünstig und"
+" decken die wichtigsten Seegebiete für Wassersportler ab. Sie können online "
+"über den `Store von O-Charts`_ bezogen werden. Die Seekarten werden über "
+"einen Software-Token geschützt, der Ihnen nach dem Kauf per Mail übergeben "
+"wird. Die Karte kann auf einem Gerät benutzt werden. Nach Ablauf der "
+"Gültigkeit ist die Seekarte weiterhin nutzbar, jedoch nicht mehr "
+"aktualisierbar. Der Token kann nicht auf einen USB-Dongle übertragen werden."
+" Bereits gekaufte Seekarten, die einem USB-Dongle sind können nicht unter "
+"Android genutzt werden."
+msgstr ""
+"O-Charts nautical charts are commercial nautical charts that can be used in "
+"AVnav or OpenCPN. The oeSENC vector charts are quite affordable and cover "
+"the most important sea areas for water sports enthusiasts. They can be "
+"purchased online via the `Store von O-Charts`_. The nautical charts are "
+"protected by a software token, which will be sent to you via email after "
+"purchase. The chart can be used on one device. After the expiration date, "
+"the nautical chart can still be used, but can no longer be updated. The "
+"token cannot be transferred to a USB dongle. Already purchased nautical "
+"charts that are included with a USB dongle cannot be used on Android."
+
+#: ../../intro/usecase.rst:71 b964d43a48e841a39a546c70409cc066
+#, fuzzy
+msgid "Basisgerät mit GPS und AIS"
+msgstr "Base unit with GPS and AIS"
+
+#: ../../intro/usecase.rst:73 0d94dbf086d24a7ab2ed9045f14ef8b0
+#, fuzzy
+msgid "**Gehäuseschalen**"
+msgstr "**Gehäuseschalen**"
+
+#: ../../intro/usecase.rst:77 24e2b155f5e64ae2af38102ab19f321e
+#, fuzzy
+msgid ""
+"Die Gehäuseschalen sind bearbeitet und verfügen über die nötigen Ausbrüche "
+"im Gehäuse. Eine Gehäusedichtung und die notwendigen Schrauben gehören "
+"ebenfalls dazu."
+msgstr ""
+"The housing shells are machined and feature the necessary cutouts. A housing"
+" gasket and the necessary screws are also included."
+
+#: ../../intro/usecase.rst:85 a74f5747015d454ebc06918ddbc040ba
+#, fuzzy
+msgid "Variante WiFi"
+msgstr "WiFi variant"
+
+#: ../../intro/usecase.rst:87 f4a4ed4271a5421d9736d715ec3f06eb
+#, fuzzy
+msgid ""
+"Bei der WiFi-Variante werden alle externen Informationen über WiFi dem OBP-"
+"Plotter zugeführt. Die unterschiedlichen Geräte wie Windsensor, Kamera oder "
+"Busdaten werden dabei über WiFi-Verbindungen hergestellt. Der OBP-Plotter "
+"ist dabei der WiFi-Hotspot und das Bedien- und Anzeigegerät so ähnlich wie "
+"man das vom Handy her gewohnt ist. Ein Handy kann z.B. als GPS-Datenquelle "
+"dienen und dem Plotter die GPS-Daten zur Verfügung stellen.."
+msgstr ""
+"With the Wi-Fi version, all external information is fed to the OBP plotter "
+"via Wi-Fi. The various devices, such as wind sensors, cameras, or bus data, "
+"are connected via Wi-Fi. The OBP plotter acts as the Wi-Fi hotspot and the "
+"control and display device, similar to what you're used to with a mobile "
+"phone. A mobile phone can, for example, serve as a GPS data source and "
+"provide the GPS data to the plotter."
+
+#: ../../intro/usecase.rst:90 ebe71984bcb846b4823b480e2de0cca2
+#, fuzzy
+msgid ""
+"Für die Bereitstellung eines WiFi-Hotspots ist es praktischer, wenn man im "
+"Boot einen dedizierten internetfähigen 4G/5G-WiFi-Router benutzt. So können "
+"sich alle Geräte und Besatzungsmitglieder mit dem Internet verbinden."
+msgstr ""
+"To provide a Wi-Fi hotspot, it's more convenient to use a dedicated "
+"internet-enabled 4G/5G Wi-Fi router on the boat. This allows all devices and"
+" crew members to connect to the internet."
+
+#: ../../intro/usecase.rst:96 8bd0cd7a47084e1599b18877000ca19e
+#, fuzzy
+msgid "Variante Bussystem"
+msgstr "Bus system variant"
+
+#: ../../intro/usecase.rst:98 7a867e85fdba4b3abc16a1181c230942
+#, fuzzy
+msgid ""
+"Als weitere Variante besteht die Möglichkeit, den OBP-Plotter auch direkt "
+"mit den Bussystemen an Bord zu verbinden. Dazu benötigt man eine "
+"Zusatzplatine die in den Erweiterungsport im Plotter installiert wird. Die "
+"Zusatzplatine enthällt einen ESP32-S3 mit ähnlicher Funktionalität wie ein "
+"M5Stack ATOM. Folgende Funktionen lassen sich über die Zusatzplatine nutzen:"
+msgstr ""
+"Another option is to connect the OBP plotter directly to the onboard bus "
+"systems. This requires an add-on board that is installed in the plotter's "
+"expansion port. The add-on board contains an ESP32-S3 with functionality "
+"similar to an M5Stack ATOM. The following functions can be used via the add-"
+"on board:"
+
+#: ../../intro/usecase.rst:100 aa62642040044284acbfd120507a648c
+#, fuzzy
+msgid "GPS-Empfänger (GPS, Glonas, Beidu, Galileo)"
+msgstr "GPS receiver (GPS, Glonas, Beidu, Galileo)"
+
+#: ../../intro/usecase.rst:101 83b6eca9cc9c41558f8b85be4cc64157
+#, fuzzy
+msgid "1x NMEA200-Port (isoliert)"
+msgstr "1x NMEA200 port (isolated)"
+
+#: ../../intro/usecase.rst:102 e2ef4829f4794c9abc3bfdcf763cc752
+#, fuzzy
+msgid "1x NMEA0183-Port (isoliert, unidirektional)"
+msgstr "1x NMEA0183 port (isolated, unidirectional)"
+
+#: ../../intro/usecase.rst:103 13b9e5bd8de049e897538868370e70e9
+#, fuzzy
+msgid "1x I2C-Port (isoliert)"
+msgstr "1x I2C port (isolated)"
+
+#: ../../intro/usecase.rst:104 314a984382d44d82aca33d97a558a30e
+#, fuzzy
+msgid "11x Wire-Port"
+msgstr "11x Wire-Port"
+
+#: ../../intro/usecase.rst:105 a8f34013c4d343e49de75f07b0e2a648
+#, fuzzy
+msgid "NMEA2000-Gateway"
+msgstr "NMEA2000-Gateway"
+
+#: ../../intro/usecase.rst:106 653186eb81c84232948e99bebf7d65db
+#, fuzzy
+msgid "Firmware-Update des Gateways über USB"
+msgstr "Firmware update of the gateway via USB"
+
+#: ../../intro/usecase.rst:107 d836c2f5260e42e8abc1ca6ba3fa3c11
+#, fuzzy
+msgid "Parametrierung des Gateways webbasiert"
+msgstr "Web-based gateway parameterization"
+
+#: ../../intro/usecase.rst:109 07d7f7aaf05a4758b15a1e0c34ee9c69
+#, fuzzy
+msgid ""
+"Neben den Daten aus den Bussystemen lassen sich auch Daten über WiFi in den "
+"Plotter einbinden, wie z.B. von einem Windsensor Yachta."
+msgstr ""
+"In addition to the data from the bus systems, data can also be integrated "
+"into the plotter via WiFi, such as from a Yachta wind sensor."
+
+#: ../../intro/usecase.rst:112 c2e3b2da122444bcbcaada7f44389d4c
+#, fuzzy
+msgid ""
+"Die Zusatzplatine bedindet sich aktuell noch in Entwicklung und wird "
+"demnächst verfügbar sein."
+msgstr ""
+"The additional board is currently under development and will be available "
+"soon."
+
+#: ../../intro/usecase.rst:117 f803b32f603347f3a7b0d0ded2799d92
+#, fuzzy
+msgid ">>>>>>> origin/main"
+msgstr ">>>>>>> origin/main"

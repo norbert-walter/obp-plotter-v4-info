@@ -36,7 +36,7 @@ msgid ""
 msgstr ""
 "This section covers the initial setup of your OBP plotter. This is easiest "
 "when the device is not yet installed in the boat. To do this, power the "
-"device up and make the initial settings. This allows you to test its "
+"device up and configure the initial settings. This allows you to test its "
 "functionality before installing the device in the boat."
 
 #: ../../usermanual/start.rst:7 3c9c479da747458595cfd75420433407

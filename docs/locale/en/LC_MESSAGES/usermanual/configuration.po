@@ -2232,7 +2232,7 @@ msgid ""
 "entstehen."
 msgstr ""
 "``Max Power`` - All power supplies are switched on. This is when the device "
-"is at its most powerful and can generate the highest power consumption."
+"is at its most efficient and can generate the highest power consumption."
 
 #: ../../usermanual/configuration.rst:576 f8b8ccc375514d0080aefc4723ab8eff
 #, fuzzy

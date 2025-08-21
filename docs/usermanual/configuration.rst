@@ -1,5 +1,5 @@
-Konfiguration2
-==============
+Konfiguration
+=============
 
 Um das OBP60 konfigurieren zu können, muss das Gerät in Betrieb sein. Schalten Sie dazu die Stromversorgung zu, die Firmware des OBP60 startet nun. Nach Abschluss der Initialisierungsphase ertönt ein Piepton. Im Display wird zuerst das Open Boat Projects-Logo angezeigt, gefolgt von einem QR-Code, der die Zugangsdaten zum Access Point des OBP60 anzeigt. Beide Bilder sind für einige Sekunden sichtbar. Sie können mit Ihrer Handy-Kamera den QR-Code scannen und sich mit diesen Daten in das WiFi-Netz des OBP60 einloggen.
 
@@ -195,7 +195,7 @@ Config - USB Port
 **USB Mode**
 	* legt das Format fest, wie Daten am USB-Port verarbeitet werden. Mit dem Actisense-Format können NMEA2000-Telegramme von externer Software empfangen und verarbeitet werden. Actisense-Daten werden innerhalb des Geräts in NMEA2000-Daten und in NMEA0183-Daten  übersetzt. So kann z.B. die `Simulations- und Diagnosesoftware`_ der Fa. Actisense zur Analyse der Busdaten verwendet werden.
 	
-.. _Simulations- und Diagnosefirmware: https://actisense.com/de/software/
+.. _Simulations- und Diagnosesoftware: https://actisense.com/de/software/
 	
 		* ``nmea0183`` - Verarbeitung im NMEA0183-Format
 		* ``actisense`` - Verarbeitung im Actisense-Format

@@ -1,7 +1,6 @@
 Einsatzmöglichkeiten
 ====================
 
-<<<<<<< HEAD
 Basisgerät
 ----------
 
@@ -114,4 +113,3 @@ Neben den Daten aus den Bussystemen lassen sich auch Daten über WiFi in den Plo
 
 .. image:: /pics/Use_Case_2.png
 		 :scale: 50%
->>>>>>> origin/main

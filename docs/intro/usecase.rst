@@ -75,9 +75,6 @@ Basisgerät mit GPS und AIS
 			 
 	Die Gehäuseschalen sind bearbeitet und verfügen über die nötigen Ausbrüche im Gehäuse. Eine Gehäusedichtung und die notwendigen Schrauben gehören ebenfalls dazu.
 
-
-
-=======
 Nachfolgend werden einige Einsatzmöglichkeiten für den OBP-Plotter gezeigt. 
 
 Variante WiFi

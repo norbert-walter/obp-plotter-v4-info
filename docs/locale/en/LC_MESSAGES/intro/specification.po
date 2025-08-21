@@ -605,10 +605,11 @@ msgid ""
 "Karten sind in AVnav bereits integriert. Der VNC- und SSH-Server sind "
 "standardmäßig aktiviert."
 msgstr ""
-"The OBP plotter is preconfigured to ensure the AVnav navigation solution, "
-"the AVnav O-Charts plugin, the AIS Catcher, and the NMEA Dashboard are fully"
-" integrated and work together. The online and offline charts are already "
-"integrated into AVnav. The VNC and SSH servers are enabled by default."
+"The OBP plotter is preconfigured to ensure that the AVnav navigation "
+"solution, the AVnav O-Charts plugin, the AIS Catcher, and the NMEA Dashboard"
+" are all coordinated and functional. The online and offline charts are "
+"already integrated into AVnav. The VNC and SSH servers are enabled by "
+"default."
 
 #: ../../intro/specification.rst:174 f12f7af482bd44a2b4a82379b00ae318
 #, fuzzy

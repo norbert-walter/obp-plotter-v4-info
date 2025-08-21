@@ -142,10 +142,10 @@ msgid ""
 "integrieren oder eine sofort einsatzbereite Lösung suchen, die sich leicht "
 "erweitern lässt."
 msgstr ""
-"The target audience for the OBP plotter are people who want to create a "
-"customized system based on stable and well-functioning hardware. The plotter"
-" is also suitable for those who want to integrate older systems or are "
-"looking for a ready-to-use solution that can be easily expanded."
+"The OBP plotter is aimed at people who want to create a customized system "
+"based on stable and well-functioning hardware. The plotter is also suitable "
+"for those who want to integrate older systems or are looking for a ready-to-"
+"use solution that can be easily expanded."
 
 #: ../../index.rst:21 0c656e4416924ce8b2a1a4ed4ac4f198
 #, fuzzy

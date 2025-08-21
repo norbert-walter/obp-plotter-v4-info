@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OBP-Plotter V4 Info\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-21 13:20+0000\n"
+"POT-Creation-Date: 2025-08-21 13:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: en <LL@li.org>\n"
@@ -20,17 +20,17 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../intro/usecase.rst:2 89ccca7409794c519ee90d8a057dfc1d
+#: ../../intro/usecase.rst:2 dc3f7344b1c940d1a6b4ea4d90cb01fd
 #, fuzzy
 msgid "Einsatzmöglichkeiten"
 msgstr "Possible applications"
 
-#: ../../intro/usecase.rst:5 d35320333124489399d8308efcad5495
+#: ../../intro/usecase.rst:5 5167770c52f14160a57e20dcce552f9d
 #, fuzzy
 msgid "Basisgerät"
 msgstr "Base unit"
 
-#: ../../intro/usecase.rst:7 add64145da7f487aa44074082e62a7c9
+#: ../../intro/usecase.rst:7 5d8b7f9021ca4542a77582fa5adc73f7
 #, fuzzy
 msgid ""
 "Der OBP-Plotter als Basisgerät ist ein einatztaugliches Gerät für den "
@@ -44,7 +44,7 @@ msgstr ""
 "sent via the Wi-Fi network as an NMEA 0183 data stream. The following "
 "devices can be used as sensor data sources:"
 
-#: ../../intro/usecase.rst:9 d8329ad7797447aba4416cf7b07d63c0
+#: ../../intro/usecase.rst:9 70a532cbaf39442b9f9500158b7fd2fb
 #, fuzzy
 msgid ""
 "Android Handy mit NetGPS-App (Position, Fahrtrichtung, Geschwindigkeit, "
@@ -52,12 +52,12 @@ msgid ""
 msgstr "Android phone with NetGPS app (position, direction, speed, compass)"
 
 #: ../../intro/usecase.rst:10 ../../intro/usecase.rst:30
-#: 37800875844a44ce8e4bb895a04e4600 6b57eaa1ddde45fdb6a2bd3bdb4292f8
+#: 0e2eb5c48c454b359db648b6d23adf39 bbaab5cb54e4408b94db193bc2c8ae78
 #, fuzzy
 msgid "M5Stack mit NMEA2000-Gateway"
 msgstr "M5Stack mit NMEA2000-Gateway"
 
-#: ../../intro/usecase.rst:11 a291af2beb804a4491f2261d3ecf4a87
+#: ../../intro/usecase.rst:11 8a59ca8e4e7b41bc97b789cfcfc62858
 #, fuzzy
 msgid ""
 "Marine Control Server mit Open Plotter (kompelette Sensorid, die mit einem "
@@ -66,7 +66,7 @@ msgstr ""
 "Marine Control Server with Open Plotter (complete sensor ID that can be used"
 " with an MCS)"
 
-#: ../../intro/usecase.rst:13 f666a6fd8eb04db590de26d38f82cb28
+#: ../../intro/usecase.rst:13 4e9b6b8eb14f4fa7821253374a5807d7
 #, fuzzy
 msgid ""
 "Das Basisgerät richtet sich an Leute, die schon über Sensorsysteme erfügen "
@@ -75,12 +75,12 @@ msgstr ""
 "The basic device is aimed at people who already have sensor systems and can "
 "transmit them via WiFi."
 
-#: ../../intro/usecase.rst:16 a71353ef2aef44aaa046a725401d1418
+#: ../../intro/usecase.rst:16 ff0983140e4041ee9c5c48f77bf9429e
 #, fuzzy
 msgid "Android Handy mit NetGPS-App"
 msgstr "Android phone with NetGPS app"
 
-#: ../../intro/usecase.rst:18 430eec50ee604fa8b76d6ec2285f4cac
+#: ../../intro/usecase.rst:18 9c03d189c41d493b9c4a4d5c442c6618
 #, fuzzy
 msgid ""
 "Im einfachsten Fall kann dafür ein gewöhnliches Handy benutzt werden, das "
@@ -92,41 +92,41 @@ msgstr ""
 "transferred to the OBP plotter via Wi-Fi:"
 
 #: ../../intro/usecase.rst:20 ../../intro/usecase.rst:43
-#: 53560fdc1c5c450ca2260adf130ec73c a4d5e3f65c1f40d8b55e92317fcdc77e
+#: 862260ddde7c44009caa435f1bc1444d ec4bba38dd294291b8e676dedaef2284
 #, fuzzy
 msgid "Latutude"
 msgstr "Latutude"
 
 #: ../../intro/usecase.rst:21 ../../intro/usecase.rst:44
-#: 67402791041845b0aa6d782f6782e780 c9f05f50c3234308aee0b018183b38e5
+#: 2c4ebc1f0b554672bdedb6082a4e75ee dcd66973bcf545dc833a7703bb5ad64a
 #, fuzzy
 msgid "Longitude"
 msgstr "Longitude"
 
 #: ../../intro/usecase.rst:22 ../../intro/usecase.rst:45
-#: 58ad273e17234e1ca2811d41c520a7a0 7020e4240f7e4529a22dbd8e7fa30c7a
+#: 298c8da456b74c13a7305c6c53c82850 49ec4dfbf14e472c949e3b568a3df96f
 #, fuzzy
 msgid "Wahrer Kurs"
 msgstr "True course"
 
 #: ../../intro/usecase.rst:23 ../../intro/usecase.rst:47
-#: 2399d970b8ee4aed906e920764a34b0f bedbeffe23bc44e6ac0f5596b4fcb961
+#: 4d2b2891e15446e3b74e5c705ab862c5 67a63c6564c04e78b71612fbe2e4f6e7
 #, fuzzy
 msgid "Geschwindigkeit über Grund"
 msgstr "Ground speed"
 
-#: ../../intro/usecase.rst:24 0a6552ca842349559a896d584133f432
+#: ../../intro/usecase.rst:24 501bc30daeb44f49948c982ea349c6b4
 #, fuzzy
 msgid "Höhe über NN"
 msgstr "Altitude above sea level"
 
 #: ../../intro/usecase.rst:25 ../../intro/usecase.rst:53
-#: 82769e16fd6c4203959bb4a6fc37b55f 8dcdb4a207fc4207ab2c758cbc1c22e0
+#: 07be6ceac7c6498cb9ff43bf14f3d727 1db1a66abdcc42e9ba109dc9f61482c8
 #, fuzzy
 msgid "Positionsgenauigkeit"
 msgstr "Position accuracy"
 
-#: ../../intro/usecase.rst:27 a6e2dc0a932c4da5ab516989e35fb5c6
+#: ../../intro/usecase.rst:27 3553c03e574a452bb995c9bee881d976
 #, fuzzy
 msgid ""
 "Die Positionsdaten, die Geschwindigkeit und der Kurs werden in AVnav in die "
@@ -139,7 +139,7 @@ msgstr ""
 "AIS Catcher server and displayed on the nautical chart when your position is"
 " transmitted to the server."
 
-#: ../../intro/usecase.rst:32 a482b6c91b194a3b8b7dc6e64fad2716
+#: ../../intro/usecase.rst:32 915743f97a9b4877b7c9c6b37dbbf3fb
 #, fuzzy
 msgid ""
 "Wer bereits Bordsnetze im eigenen Boot zur Verfügung hat, kann die "
@@ -156,32 +156,32 @@ msgstr ""
 "firmware. The following bus systems can be integrated via additional "
 "modules:"
 
-#: ../../intro/usecase.rst:34 910d3eeff44747678930b5f4e7c7d3d7
+#: ../../intro/usecase.rst:34 f3f6b3b42a8e4b4fbbd3dd47f532a662
 #, fuzzy
 msgid "NMEA2000"
 msgstr "NMEA2000"
 
-#: ../../intro/usecase.rst:35 4db2cde2eb49490a83c6007faf6d9444
+#: ../../intro/usecase.rst:35 7f9250d2525342c6abe7c0a1223a67b2
 #, fuzzy
 msgid "NMEA0183"
 msgstr "NMEA0183"
 
-#: ../../intro/usecase.rst:36 cf16455e01e34be79851cfa2a7f63e06
+#: ../../intro/usecase.rst:36 00420ba3b714471e818cbfa1b8656b78
 #, fuzzy
 msgid "I2C"
 msgstr "I2C"
 
-#: ../../intro/usecase.rst:37 951d65e58cbe435893c71910d9f826db
+#: ../../intro/usecase.rst:37 6567738ff4a24e3f80aa6695d2fa50be
 #, fuzzy
 msgid "1Wire"
 msgstr "1Wire"
 
-#: ../../intro/usecase.rst:39 250a08cb1bb64507abe8c2e94aa0d434
+#: ../../intro/usecase.rst:39 47b4093fae5c4dff81ee24fcdcb4276e
 #, fuzzy
 msgid "Nähere Informationen zum Open Source Projekt finden Sie hier:"
 msgstr "Further information about the open source project can be found here:"
 
-#: ../../intro/usecase.rst:41 c0d6b80d429a42fbb58cc7c01196de65
+#: ../../intro/usecase.rst:41 9d5fecbfaeaf465bbe671dd896243faf
 #, fuzzy
 msgid ""
 "Das Gateway ermöglicht es, auch Daten zwischen dem NMEA2000-Bus und dem "
@@ -192,62 +192,62 @@ msgstr ""
 "bus and the NMEA 0183 bus. The gateway allows all data from the bus system "
 "to be transmitted and displayed on AVnav:"
 
-#: ../../intro/usecase.rst:46 23759f667fac460493f49762619528d4
+#: ../../intro/usecase.rst:46 09c8a8dbe58349349df7b515c4d44025
 #, fuzzy
 msgid "Magnetkurs"
 msgstr "Magnet course"
 
-#: ../../intro/usecase.rst:48 140728b93ac34057a924e51ab22475a7
+#: ../../intro/usecase.rst:48 72c037a46f6f44eb936054b65a3f2751
 #, fuzzy
 msgid "Geschwindigkeit durchs Wasser"
 msgstr "Speed through the water"
 
-#: ../../intro/usecase.rst:49 33452a5465294f84a09a8fd86824f80d
+#: ../../intro/usecase.rst:49 0695112c311146208839665c866691df
 #, fuzzy
 msgid "Wassertiefe"
 msgstr "Water depth"
 
-#: ../../intro/usecase.rst:50 e26737e1047640519eab1f32d6b4e45b
+#: ../../intro/usecase.rst:50 126c28d61b7f45a0b0a43b407b74c0e0
 #, fuzzy
 msgid "Roll und Pitch"
 msgstr "Roll and pitch"
 
-#: ../../intro/usecase.rst:51 9adf584cc0ea40d9bdbac63207ed064d
+#: ../../intro/usecase.rst:51 f55e24507b6b48a7bbd45c21d1ba8c00
 #, fuzzy
 msgid "Windrichtung"
 msgstr "Wind direction"
 
-#: ../../intro/usecase.rst:52 375dedea3a464e529a732a4e2241c35d
+#: ../../intro/usecase.rst:52 0f3f54fee7984af3a313eaf3a60c322d
 #, fuzzy
 msgid "Windgescwindigkeit"
 msgstr "Wind speed"
 
-#: ../../intro/usecase.rst:54 9876558c625344ca86461aef49735f00
+#: ../../intro/usecase.rst:54 758a6b275edb49d3a95f3933c05c7254
 #, fuzzy
 msgid "Tankinhalte"
 msgstr "Tank contents"
 
-#: ../../intro/usecase.rst:55 a1684ae5a83f492b8a98d76536b34f42
+#: ../../intro/usecase.rst:55 4f703980a4064cc0b4683bdf135dc9f2
 #, fuzzy
 msgid "Motordrehzahl"
 msgstr "Engine speed"
 
-#: ../../intro/usecase.rst:56 7c96043636174f68a8b8a67c6e5c7981
+#: ../../intro/usecase.rst:56 94563783b27e49c984e985517b785dff
 #, fuzzy
 msgid "Batteriespannung"
 msgstr "Battery voltage"
 
-#: ../../intro/usecase.rst:57 7f359cac1c3d424db1313c684a147d59
+#: ../../intro/usecase.rst:57 f70f2734d51e4f6eb55c819a604d2e41
 #, fuzzy
 msgid "Temperaturwerte"
 msgstr "Temperature values"
 
-#: ../../intro/usecase.rst:59 5cf4ea9747b04bd48ac16d4e9738a70f
+#: ../../intro/usecase.rst:59 0ecf82834c03495eba6223ddfcd2cf60
 #, fuzzy
 msgid "**O-Charts Seekarten**"
 msgstr "**O-Charts Seekarten**"
 
-#: ../../intro/usecase.rst:65 2726458fff9343afa5eb9b22035de974
+#: ../../intro/usecase.rst:65 742ae1e9e7864fbb82841157a46ada44
 #, fuzzy
 msgid ""
 "O-Charts Seekarten sind kommerzielle Seekarten, die in AVnav oder OpenCPN "
@@ -271,17 +271,17 @@ msgstr ""
 "token cannot be transferred to a USB dongle. Already purchased nautical "
 "charts that are included with a USB dongle cannot be used on Android."
 
-#: ../../intro/usecase.rst:70 03b125c329034a8ca0ba6e8f35338457
+#: ../../intro/usecase.rst:70 25531edd34cc4ae6a74ae53dc6b9660f
 #, fuzzy
 msgid "Basisgerät mit GPS und AIS"
 msgstr "Base unit with GPS and AIS"
 
-#: ../../intro/usecase.rst:72 976f2cb4453045b2a4683504ad0abf06
+#: ../../intro/usecase.rst:72 da960f8be7cd456da5b272d79076a6cc
 #, fuzzy
 msgid "**Gehäuseschalen**"
 msgstr "**Housing shells**"
 
-#: ../../intro/usecase.rst:76 ebf33da30e124226a5a2662a8530272d
+#: ../../intro/usecase.rst:76 bb642ad0375d4d71b8270a059609db64
 #, fuzzy
 msgid ""
 "Die Gehäuseschalen sind bearbeitet und verfügen über die nötigen Ausbrüche "
@@ -291,12 +291,18 @@ msgstr ""
 "The housing shells are machined and feature the necessary cutouts. A housing"
 " gasket and the necessary screws are also included."
 
-#: ../../intro/usecase.rst:84 65435af72bc44681ba4dc5e0701ef0b1
+#: ../../intro/usecase.rst:78 edf90e5668bc4df8b2d78ea8bdf73c3f
+#, fuzzy
+msgid ""
+"Nachfolgend werden einige Einsatzmöglichkeiten für den OBP-Plotter gezeigt."
+msgstr "Some possible uses for the OBP plotter are shown below."
+
+#: ../../intro/usecase.rst:81 55b96cfebe1f4271897b47d36e449107
 #, fuzzy
 msgid "Variante WiFi"
 msgstr "WiFi variant"
 
-#: ../../intro/usecase.rst:86 4b33b3b165b145029166bc738b645f9e
+#: ../../intro/usecase.rst:83 2617226e413e4227914e9f7cfbb159d5
 #, fuzzy
 msgid ""
 "Bei der WiFi-Variante werden alle externen Informationen über WiFi dem OBP-"
@@ -313,7 +319,7 @@ msgstr ""
 "phone. A mobile phone can, for example, serve as a GPS data source and "
 "provide the GPS data to the plotter."
 
-#: ../../intro/usecase.rst:89 2ba4d6477d084d96aa59f8ad8c4639ac
+#: ../../intro/usecase.rst:86 43f0efd22e6a4235a503d1dcd8eb58af
 #, fuzzy
 msgid ""
 "Für die Bereitstellung eines WiFi-Hotspots ist es praktischer, wenn man im "
@@ -324,12 +330,12 @@ msgstr ""
 "internet-enabled 4G/5G Wi-Fi router on the boat. This allows all devices and"
 " crew members to connect to the internet."
 
-#: ../../intro/usecase.rst:95 d26e342bedbd4ae091e9df2802ea5726
+#: ../../intro/usecase.rst:92 9978512343684457822013f0e0644873
 #, fuzzy
 msgid "Variante Bussystem"
 msgstr "Bus system variant"
 
-#: ../../intro/usecase.rst:97 25025804cb5241679d525d4b23afc7b7
+#: ../../intro/usecase.rst:94 f40d4618d53c417f83680494d9bef9d8
 #, fuzzy
 msgid ""
 "Als weitere Variante besteht die Möglichkeit, den OBP-Plotter auch direkt "
@@ -344,47 +350,47 @@ msgstr ""
 "similar to an M5Stack ATOM. The following functions can be used via the add-"
 "on board:"
 
-#: ../../intro/usecase.rst:99 49b3d5c7a9454c2d9800dd735b988848
+#: ../../intro/usecase.rst:96 5949a75be2a94a2b919ca1a08ede90c6
 #, fuzzy
 msgid "GPS-Empfänger (GPS, Glonas, Beidu, Galileo)"
 msgstr "GPS receiver (GPS, Glonas, Beidu, Galileo)"
 
-#: ../../intro/usecase.rst:100 8bbd2e807a21406a8db1a27c87013ef4
+#: ../../intro/usecase.rst:97 17e347ed4b6b4fbb8473f95365f77e47
 #, fuzzy
 msgid "1x NMEA200-Port (isoliert)"
 msgstr "1x NMEA200 port (isolated)"
 
-#: ../../intro/usecase.rst:101 2427e672cd2a43e4908b90b7db42e00a
+#: ../../intro/usecase.rst:98 1426883517de444eb3758a193739a65a
 #, fuzzy
 msgid "1x NMEA0183-Port (isoliert, unidirektional)"
 msgstr "1x NMEA0183 port (isolated, unidirectional)"
 
-#: ../../intro/usecase.rst:102 9b81e396db254d388d38304ea848dfe2
+#: ../../intro/usecase.rst:99 24bb4af18dbb436f93cb44d7e7380c7b
 #, fuzzy
 msgid "1x I2C-Port (isoliert)"
 msgstr "1x I2C port (isolated)"
 
-#: ../../intro/usecase.rst:103 c35552977a2e4d2a98ed7c4df935a655
+#: ../../intro/usecase.rst:100 e6a39309f69b4349bd4c22846a418e2e
 #, fuzzy
 msgid "11x Wire-Port"
 msgstr "11x Wire-Port"
 
-#: ../../intro/usecase.rst:104 ce8ea920b19e4f11bfec77fd6b1c231d
+#: ../../intro/usecase.rst:101 cbf4d85ba8984fee9881331368652ec8
 #, fuzzy
 msgid "NMEA2000-Gateway"
 msgstr "NMEA2000-Gateway"
 
-#: ../../intro/usecase.rst:105 1d07f614e315493dab00d1b10874fe55
+#: ../../intro/usecase.rst:102 55da68c846a6412db7893ed944b3405c
 #, fuzzy
 msgid "Firmware-Update des Gateways über USB"
 msgstr "Firmware update of the gateway via USB"
 
-#: ../../intro/usecase.rst:106 0585fd7e444e422bbfb4bd4f04255107
+#: ../../intro/usecase.rst:103 c501fe9d966c4e3d98f4cf2ce01f0d42
 #, fuzzy
 msgid "Parametrierung des Gateways webbasiert"
 msgstr "Web-based gateway parameterization"
 
-#: ../../intro/usecase.rst:108 c7b0ff05ea6245e0892db9943d076a3e
+#: ../../intro/usecase.rst:105 955919acaefe4367a98c5de5c29ab8ac
 #, fuzzy
 msgid ""
 "Neben den Daten aus den Bussystemen lassen sich auch Daten über WiFi in den "
@@ -393,7 +399,7 @@ msgstr ""
 "In addition to the data from the bus systems, data can also be integrated "
 "into the plotter via WiFi, such as from a Yachta wind sensor."
 
-#: ../../intro/usecase.rst:111 d6040e61862a45b999cb03f4531f4ef0
+#: ../../intro/usecase.rst:108 02d42768cda54dcd8641544b7acc60c8
 #, fuzzy
 msgid ""
 "Die Zusatzplatine bedindet sich aktuell noch in Entwicklung und wird "

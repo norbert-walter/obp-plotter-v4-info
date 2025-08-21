@@ -3646,7 +3646,7 @@ msgstr "**LON** - Longitude, geographical altitude"
 #: ../../usermanual/configuration.rst:880 fa55fed2e28f4f589fc678e4ab2750fe
 #, fuzzy
 msgid "**Log** - Log, Entfernung"
-msgstr "**Log** - Log, distance"
+msgstr "**Log** - Log, Distance"
 
 #: ../../usermanual/configuration.rst:881 e44787313ca84e26a7594f7b361c002f
 #, fuzzy

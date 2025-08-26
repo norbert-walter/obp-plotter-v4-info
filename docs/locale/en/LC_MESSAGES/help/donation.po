@@ -70,9 +70,9 @@ msgstr ""
 #: ../../help/donation.rst:15 22d6e5d2b15440739b6bd9f3c1ae391b
 #, fuzzy
 msgid "https://open-boat-projects.org/sponsors/"
-msgstr "https://open-boat-projects.org/sponsors/"
+msgstr "Https://open-boat-projects.org/sponsors/"
 
 #: ../../help/donation.rst:16 177108d71b4d4135be170005ec5c1e5d
 #, fuzzy
 msgid "https://open-boat-projects.org/de/boot-2023/"
-msgstr "https://open-boat-projects.org/de/boot-2023/"
+msgstr "Https://open-boat-projects.org/de/boot-2023/"

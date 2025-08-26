@@ -36,7 +36,7 @@ msgid ""
 msgstr ""
 "This section covers the initial setup of your OBP plotter. This is easiest "
 "when the device is not yet installed in the boat. To do this, power the "
-"device up and configure the initial settings. This allows you to test its "
+"device up and make the initial settings. This allows you to test its "
 "functionality before installing the device in the boat."
 
 #: ../../usermanual/start.rst:7 3c9c479da747458595cfd75420433407
@@ -57,17 +57,17 @@ msgstr "The OBP plotter is powered via the connector"
 #: ../../usermanual/start.rst:15 5e5c0fa7197c4b939dac723f2336df0a
 #, fuzzy
 msgid "verpolungssicher"
-msgstr "reverse polarity protected"
+msgstr "Reverse polarity protected"
 
 #: ../../usermanual/start.rst:16 0d4c79cdeebf4a2f982fa64c6193ded8
 #, fuzzy
 msgid "kurzschlussfest"
-msgstr "short-circuit proof"
+msgstr "Short-circuit proof"
 
 #: ../../usermanual/start.rst:17 4f51aaa88d7a4e0287e77c76307ea5bc
 #, fuzzy
 msgid "überspannungssicher"
-msgstr "surge-proof"
+msgstr "Surge-proof"
 
 #: ../../usermanual/start.rst:18 0df7cb0cdffb4d21ae7ebf6b544d31c2
 #, fuzzy

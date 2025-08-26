@@ -23,4 +23,4 @@ msgstr ""
 #: ../../help/faq.rst:2 9196da9c2cfd448cabf8a2b581913568
 #, fuzzy
 msgid "Fragen und Antworten"
-msgstr "questions and answers"
+msgstr "Questions and answers"

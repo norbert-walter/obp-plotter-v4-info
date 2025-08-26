@@ -393,7 +393,7 @@ msgstr "Shielding"
 #: ../../usermanual/bussystems.rst:89 71cb98129285413c9ce64ce735989d1b
 #, fuzzy
 msgid "ohne"
-msgstr "without"
+msgstr "Without"
 
 #: ../../usermanual/bussystems.rst:89 a51e7c05faf241dc8f4aff9df509b1a8
 #, fuzzy
@@ -414,7 +414,7 @@ msgstr "+12V"
 #: ../../usermanual/bussystems.rst:91 642cf27e510a44f5b8bf61ba797e436d
 #, fuzzy
 msgid "rot"
-msgstr "rot"
+msgstr "Rot"
 
 #: ../../usermanual/bussystems.rst:91 ../../usermanual/bussystems.rst:334
 #: 59c2a3b145db487394b3c23ffcfb8329 6c996bb71f5742e8bfb3dfcfa042dcd0
@@ -437,7 +437,7 @@ msgstr "GND"
 #: ../../usermanual/bussystems.rst:93 b47af9b876c642b7addaa7b874dbe235
 #, fuzzy
 msgid "schwarz"
-msgstr "black"
+msgstr "Black"
 
 #: ../../usermanual/bussystems.rst:93 bb604c5d7dbc4db491d08a3a5ea17a5d
 #, fuzzy
@@ -457,7 +457,7 @@ msgstr "CAN-H"
 #: ../../usermanual/bussystems.rst:95 6cd433f62afd429bb2ff6976568d6368
 #, fuzzy
 msgid "weiß"
-msgstr "white"
+msgstr "White"
 
 #: ../../usermanual/bussystems.rst:95 bb0ff3dca7fb4a37899291b647c7b3a1
 #, fuzzy
@@ -478,7 +478,7 @@ msgstr "CAN-L"
 #: ../../usermanual/bussystems.rst:97 d2bdf69aea174102a3ae82824791f2e3
 #, fuzzy
 msgid "blau"
-msgstr "blue"
+msgstr "Blue"
 
 #: ../../usermanual/bussystems.rst:97 079a258fbe964ce9b4b24e2afc9e2aea
 #, fuzzy
@@ -906,7 +906,7 @@ msgstr "Transmission rate [Bd]"
 #: ../../usermanual/bussystems.rst:211 9e7d5c3502d44159b3af6beddcc209cc
 #, fuzzy
 msgid "zul. Leitungslänge [m]"
-msgstr "permissible cable length [m]"
+msgstr "Permissible cable length [m]"
 
 #: ../../usermanual/bussystems.rst:214 efe8f1994cc34e28bf466b50c4dd7deb
 #, fuzzy
@@ -1116,37 +1116,37 @@ msgstr "Field number:"
 #: ../../usermanual/bussystems.rst:269 524624f5e5c54e3b87157f54c8a2b128
 #, fuzzy
 msgid "a.a - Tiefe in Fuß"
-msgstr "a.a - Depth in feet"
+msgstr "A.a - Depth in feet"
 
 #: ../../usermanual/bussystems.rst:270 5d15aed09a9c48c39bff6016a38a2431
 #, fuzzy
 msgid "b - f = Fuß"
-msgstr "b - f = foot"
+msgstr "B - f = foot"
 
 #: ../../usermanual/bussystems.rst:271 e1ca422e84864fd19223880ac70718db
 #, fuzzy
 msgid "c.c - Tiefe in Metern"
-msgstr "c.c - depth in meters"
+msgstr "C.c - depth in meters"
 
 #: ../../usermanual/bussystems.rst:272 3967cda39bbc48b8a6f51b306d4cbf9e
 #, fuzzy
 msgid "d - M = Meter"
-msgstr "d - M = Meter"
+msgstr "D - M = Meter"
 
 #: ../../usermanual/bussystems.rst:273 27c9b1c2f47a42cfa6bb61a5ec8d6f3d
 #, fuzzy
 msgid "e.e - Tiefe in Fathoms"
-msgstr "e.e - Depth in Fathoms"
+msgstr "E.e - Depth in Fathoms"
 
 #: ../../usermanual/bussystems.rst:274 ac9d213f704c4544ad0ef780210e49b3
 #, fuzzy
 msgid "f - F = Fathoms"
-msgstr "f - F = Fathoms"
+msgstr "F - F = Fathoms"
 
 #: ../../usermanual/bussystems.rst:275 53d914bd2011467b8530e2be1202be0b
 #, fuzzy
 msgid "hh - Checksumme"
-msgstr "hh - Checksumme"
+msgstr "Hh - Checksumme"
 
 #: ../../usermanual/bussystems.rst:277 5e2f345930454b8aa14f8166e9767a35
 #, fuzzy
@@ -1407,7 +1407,7 @@ msgstr "SDA"
 #: 7da6d956e3324a56abc114f32ce0a0d6 a1d1956514234605aadbab0a8d8efa8f
 #, fuzzy
 msgid "Datenleitung"
-msgstr "data line"
+msgstr "Data line"
 
 #: ../../usermanual/bussystems.rst:345 fb2db3c37e2a47b1b1fddfdd96097a6e
 #, fuzzy
@@ -1678,12 +1678,12 @@ msgstr "Temperature sensor"
 #: ../../usermanual/bussystems.rst:411 0e93a72402644dcaa4f7f83623ceea53
 #, fuzzy
 msgid "gelb, Datenleitung"
-msgstr "yellow, data line"
+msgstr "Yellow, data line"
 
 #: ../../usermanual/bussystems.rst:413 0ad236b866434158902a18c7c34078ac
 #, fuzzy
 msgid "schwarz + rot"
-msgstr "black + red"
+msgstr "Black + red"
 
 #: ../../usermanual/bussystems.rst:415 4d8f7e23194a441aa3198f755168851d
 #, fuzzy
@@ -1693,7 +1693,7 @@ msgstr "GNDS"
 #: ../../usermanual/bussystems.rst:415 7e1dfb9da15849aabadf5a090e5a1d61
 #, fuzzy
 msgid "Schirm"
-msgstr "screen"
+msgstr "Screen"
 
 #: ../../usermanual/bussystems.rst:419 6e6ee47eb4ee44c9ae292830e5d4d5f8
 #, fuzzy

@@ -322,7 +322,7 @@ msgstr "RAM: 4 GB, fixed"
 #: 06dc2f9a89c74fe4b01b7e3bb150c26c 78edc792e79c409c9109cc32900abac3
 #, fuzzy
 msgid "eMMC: 0 GB"
-msgstr "eMMC: 0 GB"
+msgstr "EMMC: 0 GB"
 
 #: ../../intro/variants.rst:81 ../../intro/variants.rst:94
 #: ../../intro/variants.rst:107 3d853021a2984763b8edbae1296e4d94
@@ -366,7 +366,7 @@ msgstr "RAM: 8 GB, fixed"
 #: ../../intro/variants.rst:93 bbdcb3862ea74b3aad5b5d871dc531a6
 #, fuzzy
 msgid "eMMC: 32 GB (Bootfähiges Backupmedium mit Android 15)"
-msgstr "eMMC: 32 GB (Bootable backup media with Android 15)"
+msgstr "EMMC: 32 GB (Bootable backup media with Android 15)"
 
 #: ../../intro/variants.rst:95 c9f38da062bc41899b71f0ca072ddfc7
 #, fuzzy
@@ -463,7 +463,7 @@ msgstr "M12 socket with connecting cable"
 #: ../../intro/variants.rst:128 939e4f3977184093a70385cb232d1882
 #, fuzzy
 msgid "2 Befestigungsschrauben"
-msgstr "2 fastening screws"
+msgstr "2 Fastening screws"
 
 #: ../../intro/variants.rst:130 4690a0a26d8d472db7c26b17647f5fc6
 #, fuzzy
@@ -489,32 +489,32 @@ msgstr ""
 #: ../../intro/variants.rst:136 2937c46bea74455d9c58ec4e8c3fe1bb
 #, fuzzy
 msgid "1x Befestigungsbügel"
-msgstr "1x mounting bracket"
+msgstr "1X mounting bracket"
 
 #: ../../intro/variants.rst:137 c8dbdeeb384e4185ad848f47f6f6af01
 #, fuzzy
 msgid "2x Haltewinkel für Plotter"
-msgstr "2x mounting brackets for plotter"
+msgstr "2X mounting brackets for plotter"
 
 #: ../../intro/variants.rst:138 dda69b6ea02f4e0a9110009c76efc52b
 #, fuzzy
 msgid "2x Knäufe mit Unterlegscheiben und Federn"
-msgstr "2x knobs with washers and springs"
+msgstr "2X knobs with washers and springs"
 
 #: ../../intro/variants.rst:139 08a012b7b60644e78cf83df4a7adfa7f
 #, fuzzy
 msgid "4x Selbstsichernde Mutter mit Unterlkegscheibe und Dichtung"
-msgstr "4x self-locking nut with washer and seal"
+msgstr "4X self-locking nut with washer and seal"
 
 #: ../../intro/variants.rst:140 3c9cc8e563eb4659a4b03c77d8647518
 #, fuzzy
 msgid "3x Befestigungsschrauben für Bügel"
-msgstr "3x mounting screws for bracket"
+msgstr "3X mounting screws for bracket"
 
 #: ../../intro/variants.rst:141 3c0a008b79544081b5d5d419838edb56
 #, fuzzy
 msgid "1x Bohrschablone"
-msgstr "1x Bohrschablone"
+msgstr "1X Bohrschablone"
 
 #: ../../intro/variants.rst:143 09dbefc522aa4b5f884715d2dfbc1060
 #, fuzzy
@@ -550,12 +550,12 @@ msgstr "Fixing screw"
 #: ../../intro/variants.rst:151 d3067c5b04b440dabbc8c008f22cd24d
 #, fuzzy
 msgid "4x Befestigungtsschrauben für VESA-Halterung"
-msgstr "4x mounting screws for VESA mount"
+msgstr "4X mounting screws for VESA mount"
 
 #: ../../intro/variants.rst:152 715db0bce0964395aa21a926ee1d69e9
 #, fuzzy
 msgid "4x Befestigungschrauben für Untergrund"
-msgstr "4x fixing screws for the substrate"
+msgstr "4X fixing screws for the substrate"
 
 #: ../../intro/variants.rst:154 0e8f061774d949b5b5cff935c8ea9e86
 #, fuzzy

@@ -23,7 +23,7 @@ msgstr ""
 #: ../../usermanual/configuration.rst:2 e0575bd235794dc088c12f2e8cda93fc
 #, fuzzy
 msgid "Konfiguration"
-msgstr "configuration"
+msgstr "Configuration"
 
 #: ../../usermanual/configuration.rst:4 ad2f248145534026b3969fc6602fcac1
 #, fuzzy
@@ -618,24 +618,24 @@ msgstr ""
 #: ../../usermanual/configuration.rst:153 c44d12feba644845b4df763170354aa0
 #, fuzzy
 msgid "``off`` - Keine Logging-Ausgaben"
-msgstr "``off`` - No logging output"
+msgstr "``Off`` - No logging output"
 
 #: ../../usermanual/configuration.rst:154 64ee9d763806420b9eb0f7a9bfcf77b1
 #, fuzzy
 msgid "``error`` - Es werden nur Fehlermeldungen ausgegeben"
-msgstr "``error`` - Only error messages are displayed"
+msgstr "``Error`` - Only error messages are displayed"
 
 #: ../../usermanual/configuration.rst:155 1ec9624a92b244daa307b48b203df123
 #, fuzzy
 msgid "``log`` - Es werden Fehlermeldungen und Statusinformationen ausgegeben"
-msgstr "``log`` - Error messages and status information are output"
+msgstr "``Log`` - Error messages and status information are output"
 
 #: ../../usermanual/configuration.rst:156 acb23e4204c040488ae4883cd66e75f0
 #, fuzzy
 msgid ""
 "``debug`` - Es werden alle vorgesehenen Meldungen inklusive Debug-Meldungen "
 "ausgegeben"
-msgstr "``debug`` - All intended messages including debug messages are output"
+msgstr "``Debug`` - All intended messages including debug messages are output"
 
 #: ../../usermanual/configuration.rst:159 e9e2d99016a94e649370b41f7c8ceebd
 #, fuzzy
@@ -727,12 +727,12 @@ msgstr ""
 #: ../../usermanual/configuration.rst:182 c662ae44df5c4c12be40dadd8caf6203
 #, fuzzy
 msgid "``on`` - Ausgabe der NMEA2000-Daten"
-msgstr "``on`` - Output of NMEA2000 data"
+msgstr "``On`` - Output of NMEA2000 data"
 
 #: ../../usermanual/configuration.rst:183 288152b4115e4c49aa5e657b8fa7b677
 #, fuzzy
 msgid "``off`` - Keine Ausgabe der NMEA2000-Daten"
-msgstr "``off`` - No output of NMEA2000 data"
+msgstr "``Off`` - No output of NMEA2000 data"
 
 #: ../../usermanual/configuration.rst:188 f597bbd0dfa248519b892be9b2fb236e
 #, fuzzy
@@ -772,12 +772,12 @@ msgstr ""
 #: ../../usermanual/configuration.rst:200 fdf49b660aaa41319b6c8ab3efeb0a19
 #, fuzzy
 msgid "``nmea0183`` - Verarbeitung im NMEA0183-Format"
-msgstr "``nmea0183`` - Processing in NMEA0183 format"
+msgstr "``Nmea0183`` - Processing in NMEA0183 format"
 
 #: ../../usermanual/configuration.rst:201 da425f05db89465c886ba7941a779064
 #, fuzzy
 msgid "``actisense`` - Verarbeitung im Actisense-Format"
-msgstr "``actisense`` - Processing in Actisense format"
+msgstr "``Actisense`` - Processing in Actisense format"
 
 #: ../../usermanual/configuration.rst:203 a2996e6c84f04546a56f6a69a92e2569
 #, fuzzy
@@ -824,13 +824,13 @@ msgstr "**NMEA to USB**"
 #: ../../usermanual/configuration.rst:212 060abd99b39b4ee7aecb482ccee3d239
 #, fuzzy
 msgid "``on`` - NMEA0183-Daten werden an die USB-Schnittstelle ausgegeben"
-msgstr "``on`` - NMEA0183 data is output to the USB interface"
+msgstr "``On`` - NMEA0183 data is output to the USB interface"
 
 #: ../../usermanual/configuration.rst:213 34d7995d0d7e42edb242b16ea11dda51
 #, fuzzy
 msgid ""
 "``off`` - NMEA0183-Daten werden nicht an die USB-Schnittstelle ausgeben"
-msgstr "``off`` - NMEA0183 data is not output to the USB interface"
+msgstr "``Off`` - NMEA0183 data is not output to the USB interface"
 
 #: ../../usermanual/configuration.rst:215 05e23c4bf1cb4680864b56d0162f7111
 #, fuzzy
@@ -840,13 +840,13 @@ msgstr "**NMEA from USB**"
 #: ../../usermanual/configuration.rst:216 70ba49404293412bbcbe11074fd6dc67
 #, fuzzy
 msgid "``on`` - NMEA0183-Daten werden von der USB-Schnittstelle empfangen"
-msgstr "``on`` - NMEA0183 data is received from the USB interface"
+msgstr "``On`` - NMEA0183 data is received from the USB interface"
 
 #: ../../usermanual/configuration.rst:217 39da60b51a184653ab92b2eac1cb2dd9
 #, fuzzy
 msgid ""
 "``off`` - NMEA0183-Daten werden nicht von der USB-Schnittstelle empfangen"
-msgstr "``off`` - NMEA0183 data is not received by the USB interface"
+msgstr "``Off`` - NMEA0183 data is not received by the USB interface"
 
 #: ../../usermanual/configuration.rst:219 bd8e37188e6249e5970577da54337afe
 #, fuzzy
@@ -858,7 +858,7 @@ msgstr "**USB to NMEA2000**"
 msgid ""
 "``on`` - Daten werden von der USB-Schnittstelle an den NMEA2000-Bus "
 "weitergeleitet"
-msgstr "``on`` - Data is forwarded from the USB interface to the NMEA2000 bus"
+msgstr "``On`` - Data is forwarded from the USB interface to the NMEA2000 bus"
 
 #: ../../usermanual/configuration.rst:221 b9d37464b0094b4d895603f760f8e237
 #, fuzzy
@@ -866,7 +866,7 @@ msgid ""
 "``off`` - Daten werden nicht von der USB-Schnittstelle an den NMEA2000-Bus "
 "weitergeleiten"
 msgstr ""
-"``off`` - Data is not forwarded from the USB interface to the NMEA2000 bus"
+"``Off`` - Data is not forwarded from the USB interface to the NMEA2000 bus"
 
 #: ../../usermanual/configuration.rst:223 6af4211b2b714531ab5e2f412123266e
 #, fuzzy
@@ -897,7 +897,7 @@ msgstr "**USB Filter**"
 #: eed093896e064dc99fce5f72e6118061
 #, fuzzy
 msgid "``aison`` - AIS-Daten an der USB-Schnittstelle werden verarbeitet"
-msgstr "``aison`` - AIS data on the USB interface is processed"
+msgstr "``Aison`` - AIS data on the USB interface is processed"
 
 #: ../../usermanual/configuration.rst:227
 #: ../../usermanual/configuration.rst:274 17611d14fc9b4634bf1e189770776129
@@ -905,7 +905,7 @@ msgstr "``aison`` - AIS data on the USB interface is processed"
 #, fuzzy
 msgid ""
 "``aisoff`` - AIS-Daten an der USB-Schnittstelle werden nicht verarbeitet"
-msgstr "``aisoff`` - AIS data on the USB interface is not processed"
+msgstr "``Aisoff`` - AIS data on the USB interface is not processed"
 
 #: ../../usermanual/configuration.rst:228
 #: ../../usermanual/configuration.rst:275
@@ -921,7 +921,7 @@ msgid ""
 "``blacklist`` - Der Filter arbeitet mit einer Blacklist. Die "
 "gekennzeichneten Telegramme werden nicht verarbeitet."
 msgstr ""
-"``blacklist`` - The filter uses a blacklist. Marked telegrams are not "
+"``Blacklist`` - The filter uses a blacklist. Marked telegrams are not "
 "processed."
 
 #: ../../usermanual/configuration.rst:229
@@ -938,7 +938,7 @@ msgid ""
 "``whitelist`` - Der Filter arbeitet mit einer Whitelist. Nur die "
 "aufgelisteten Telegramme werden verarbeitet."
 msgstr ""
-"``whitelist`` - The filter works with a whitelist. Only the listed telegrams"
+"``Whitelist`` - The filter works with a whitelist. Only the listed telegrams"
 " are processed."
 
 #: ../../usermanual/configuration.rst:231 b8069be42f1e49d2baf73c1f35697dd8
@@ -1037,17 +1037,17 @@ msgstr "**Serial Direction**"
 #: ../../usermanual/configuration.rst:256 5a41707991bb4b2495b2ee588771851d
 #, fuzzy
 msgid "``off`` - Die NMEA0183-Schnittstelle ist ausgeschaltet"
-msgstr "``off`` - The NMEA0183 interface is switched off"
+msgstr "``Off`` - The NMEA0183 interface is switched off"
 
 #: ../../usermanual/configuration.rst:257 fbda81dea4e94f6e9aeee976ef2ea5a2
 #, fuzzy
 msgid "``send`` - Die NMEA0183-Schnittstelle sendet"
-msgstr "``send`` - The NMEA0183 interface sends"
+msgstr "``Send`` - The NMEA0183 interface sends"
 
 #: ../../usermanual/configuration.rst:258 830660af851a4776b5551a574101edcf
 #, fuzzy
 msgid "``receive`` - Die NMEA0183-Schnittstelle empfängt"
-msgstr "``receive`` - The NMEA0183 interface receives"
+msgstr "``Receive`` - The NMEA0183 interface receives"
 
 #: ../../usermanual/configuration.rst:261 eca9a12efcb4438d8775ed5f5e8c652d
 #, fuzzy
@@ -1088,14 +1088,14 @@ msgid ""
 "``on`` - Daten an der Schnittstelle werden nach NMEA2000 übertragen "
 "(Gateway-Funktion)"
 msgstr ""
-"``on`` - Data at the interface is transmitted according to NMEA2000 (gateway"
+"``On`` - Data at the interface is transmitted according to NMEA2000 (gateway"
 " function)"
 
 #: ../../usermanual/configuration.rst:268 3491411434304689ba993b0b227ec361
 #, fuzzy
 msgid ""
 "``off`` - Daten an der Schnittstelle werden nicht nach NMEA2000 übertragen"
-msgstr "``off`` - Data on the interface is not transmitted to NMEA2000"
+msgstr "``Off`` - Data on the interface is not transmitted to NMEA2000"
 
 #: ../../usermanual/configuration.rst:270 aa9b66d074f749859712926ee8bd7dbc
 #, fuzzy
@@ -1223,14 +1223,14 @@ msgstr "**NMEA0183 Out**"
 #: 8c695211e8d143808dde850dbecd12d8
 #, fuzzy
 msgid "``on`` - Am TCP-Port werden NMEA0183-Daten ausgegeben"
-msgstr "``on`` - NMEA0183 data is output on the TCP port"
+msgstr "``On`` - NMEA0183 data is output on the TCP port"
 
 #: ../../usermanual/configuration.rst:308
 #: ../../usermanual/configuration.rst:368 72f157ce320a4ddaa863f6eec89f00ed
 #: e54ed1191ef6403cb158f7453b554511
 #, fuzzy
 msgid "``off`` - Am TCP-Port werden keine NMEA0183-Daten ausgegeben"
-msgstr "``off`` - No NMEA0183 data is output on the TCP port"
+msgstr "``Off`` - No NMEA0183 data is output on the TCP port"
 
 #: ../../usermanual/configuration.rst:310
 #: ../../usermanual/configuration.rst:370 29721184d70b4bcc8fc6956f115f2322
@@ -1244,14 +1244,14 @@ msgstr "**NMEA0183 In**"
 #: c1181e48363f433badec74b978721e41
 #, fuzzy
 msgid "``on`` - Am TCP-Port werden NMEA0183-Daten empfangen"
-msgstr "``on`` - NMEA0183 data is received on the TCP port"
+msgstr "``On`` - NMEA0183 data is received on the TCP port"
 
 #: ../../usermanual/configuration.rst:312
 #: ../../usermanual/configuration.rst:372 27ffaeabe0734323a800f76950801436
 #: bdc5ee0364dd4a99958f21b70cd41108
 #, fuzzy
 msgid "``off`` - Am TCP-Port werden keine NMEA0183-Daten empfangen"
-msgstr "``off`` - No NMEA0183 data is received on the TCP port"
+msgstr "``Off`` - No NMEA0183 data is received on the TCP port"
 
 #: ../../usermanual/configuration.rst:314
 #: ../../usermanual/configuration.rst:374 75f240b8a1244e9a99f6f7c9bbfcd35e
@@ -1268,7 +1268,7 @@ msgid ""
 "``on`` - Daten am TCP-Port werden nach NMEA2000 übertragen (Gateway-"
 "Funktion)"
 msgstr ""
-"``on`` - Data on the TCP port is transmitted according to NMEA2000 (gateway "
+"``On`` - Data on the TCP port is transmitted according to NMEA2000 (gateway "
 "function)"
 
 #: ../../usermanual/configuration.rst:316
@@ -1276,7 +1276,7 @@ msgstr ""
 #: ad20ec68a4554f639cf414dd400d3384
 #, fuzzy
 msgid "``off`` - Daten am TCP-Port werden nicht nach NMEA2000 übertragen"
-msgstr "``off`` - Data on the TCP port is not transmitted to NMEA2000"
+msgstr "``Off`` - Data on the TCP port is not transmitted to NMEA2000"
 
 #: ../../usermanual/configuration.rst:318 bc315f1c04214db9aa598d1608fc67df
 #, fuzzy
@@ -1307,7 +1307,7 @@ msgstr "**NMEA Read Filter**"
 msgid ""
 "``aison`` - Einkommende AIS-Daten an der USB-Schnittstelle werden "
 "verarbeitet"
-msgstr "``aison`` - Incoming AIS data at the USB interface is processed"
+msgstr "``Aison`` - Incoming AIS data at the USB interface is processed"
 
 #: ../../usermanual/configuration.rst:322
 #: ../../usermanual/configuration.rst:382 4bef73c67628460db7b820b5839c3ea5
@@ -1316,7 +1316,7 @@ msgstr "``aison`` - Incoming AIS data at the USB interface is processed"
 msgid ""
 "``aisoff`` - Einkommende AIS-Daten an der USB-Schnittstelle werden nicht "
 "verarbeitet"
-msgstr "``aisoff`` - Incoming AIS data at the USB interface is not processed"
+msgstr "``Aisoff`` - Incoming AIS data at the USB interface is not processed"
 
 #: ../../usermanual/configuration.rst:326
 #: ../../usermanual/configuration.rst:386 21b90e70068b48a9bd566095ec67f4b3
@@ -1332,7 +1332,7 @@ msgstr "**NMEA Write Filter**"
 msgid ""
 "``aison`` - Zu sendende AIS-Daten an der USB-Schnittstelle werden "
 "verarbeitet"
-msgstr "``aison`` - AIS data to be sent on the USB interface is processed"
+msgstr "``Aison`` - AIS data to be sent on the USB interface is processed"
 
 #: ../../usermanual/configuration.rst:328
 #: ../../usermanual/configuration.rst:388 00ae479516384027814284f27898ac43
@@ -1342,7 +1342,7 @@ msgid ""
 "``aisoff`` - Zu sendende AIS-Daten an der USB-Schnittstelle werden nicht "
 "verarbeitet"
 msgstr ""
-"``aisoff`` - AIS data to be sent via the USB interface is not processed"
+"``Aisoff`` - AIS data to be sent via the USB interface is not processed"
 
 #: ../../usermanual/configuration.rst:338 fdf3438e2b0f497d9e9ed66a99186456
 #, fuzzy
@@ -1370,12 +1370,12 @@ msgstr ""
 #: ../../usermanual/configuration.rst:340 b76eb6bd867e4f56a70be60967e92423
 #, fuzzy
 msgid "``on`` - Der TCP-Server kann Seasmart-Daten senden und empfangen"
-msgstr "``on`` - The TCP server can send and receive Seasmart data"
+msgstr "``On`` - The TCP server can send and receive Seasmart data"
 
 #: ../../usermanual/configuration.rst:341 2b731b69cb244e3392c202d905f2132c
 #, fuzzy
 msgid "``off`` - Seasmart wird vom TCP-Server nicht unterstützt"
-msgstr "``off`` - Seasmart is not supported by the TCP server"
+msgstr "``Off`` - Seasmart is not supported by the TCP server"
 
 #: ../../usermanual/configuration.rst:346 f363f58472c140ea8e9e03cf8d86670e
 #, fuzzy
@@ -1407,12 +1407,12 @@ msgstr "**Enable**"
 #: ../../usermanual/configuration.rst:354 f187733c3e46485196f797363887b5d4
 #, fuzzy
 msgid "``on`` - Der TCP-Client-Modus ist im OBP60 aktiviert"
-msgstr "``on`` - TCP client mode is enabled in OBP60"
+msgstr "``On`` - TCP client mode is enabled in OBP60"
 
 #: ../../usermanual/configuration.rst:355 cc991e3de71c4b0399e525c8fc33aae1
 #, fuzzy
 msgid "``off`` - Der TCP-Client-Modus ist deaktiviert"
-msgstr "``off`` - TCP client mode is disabled"
+msgstr "``Off`` - TCP client mode is disabled"
 
 #: ../../usermanual/configuration.rst:357 43f6fab8483c4b659a4bfbf749694ecd
 #, fuzzy
@@ -1515,12 +1515,12 @@ msgstr ""
 #: ../../usermanual/configuration.rst:400 2718075fbc9d44629a4c5bed3fd4a8c4
 #, fuzzy
 msgid "``on`` - Der TCP-Server kann SeaSmart-Daten senden und empfangen"
-msgstr "``on`` - The TCP server can send and receive SeaSmart data"
+msgstr "``On`` - The TCP server can send and receive SeaSmart data"
 
 #: ../../usermanual/configuration.rst:401 7993ebbdedc9419293508699f563365e
 #, fuzzy
 msgid "``off`` - SeaSmart wird vom TCP-Server nicht unterstützt"
-msgstr "``off`` - SeaSmart is not supported by the TCP server"
+msgstr "``Off`` - SeaSmart is not supported by the TCP server"
 
 #: ../../usermanual/configuration.rst:406 a1a3960c59bb416db36abaecf747c4e4
 #, fuzzy
@@ -1551,12 +1551,12 @@ msgstr "**WiFi Client**"
 #: ../../usermanual/configuration.rst:414 6a966a630bc84f95828be7024860ca16
 #, fuzzy
 msgid "``on`` - Der WiFi-Client-Modus ist aktiviert"
-msgstr "``on`` - WiFi client mode is enabled"
+msgstr "``On`` - WiFi client mode is enabled"
 
 #: ../../usermanual/configuration.rst:415 b4c1aee02e6b40a1a6d93c093a644b76
 #, fuzzy
 msgid "``off`` - Der WiFi-Client-Modus wird nicht unterstützt"
-msgstr "``off`` - WiFi client mode is not supported"
+msgstr "``Off`` - WiFi client mode is not supported"
 
 #: ../../usermanual/configuration.rst:417 0630fb2c648e415990c567d47f20c9c5
 #, fuzzy
@@ -1779,7 +1779,7 @@ msgstr "Real-time clock type"
 #: ../../usermanual/configuration.rst:474 dbdd044dd03c424586f27766a494a9e2
 #, fuzzy
 msgid "``off`` - Es wird keine Echtzeituhr benutzt"
-msgstr "``off`` - No real-time clock is used"
+msgstr "``Off`` - No real-time clock is used"
 
 #: ../../usermanual/configuration.rst:475 31b2fdc6fead422f9c59e66e1432bd66
 #, fuzzy
@@ -1799,7 +1799,7 @@ msgstr "Type of GPS sensors"
 #: ../../usermanual/configuration.rst:479 b6505543c7d1410aacddd8c654053d74
 #, fuzzy
 msgid "``off`` - Es wird kein GPS-Sensor benutzt"
-msgstr "``off`` - No GPS sensor is used"
+msgstr "``Off`` - No GPS sensor is used"
 
 #: ../../usermanual/configuration.rst:480 92ad0302eacc4c129964e6b5c13b2343
 #, fuzzy
@@ -1835,7 +1835,7 @@ msgstr ""
 #: ../../usermanual/configuration.rst:486 c46a24d7c7424e7fab7c98b7e16d69e3
 #, fuzzy
 msgid "``off`` - Es wird kein Umgebungssensor benutzt"
-msgstr "``off`` - No environmental sensor is used"
+msgstr "``Off`` - No environmental sensor is used"
 
 #: ../../usermanual/configuration.rst:487 7cd50f9fcb684f7c9a9931169a759a03
 #, fuzzy
@@ -1890,7 +1890,7 @@ msgstr ""
 #: c070c018f5654bbab98da688c369ab4d da1453ff8bab4e579b17c6982d9c45e5
 #, fuzzy
 msgid "``off`` - Es wird kein Sensor benutzt"
-msgstr "``off`` - No sensor is used"
+msgstr "``Off`` - No sensor is used"
 
 #: ../../usermanual/configuration.rst:497 fc77d7f38a5642e59fc0011dd8d1d784
 #, fuzzy
@@ -2260,7 +2260,7 @@ msgstr ""
 #: ../../usermanual/configuration.rst:580 19160ec50bde4b6b8a9596a766e4519c
 #, fuzzy
 msgid "Baugruppe"
-msgstr "module"
+msgstr "Module"
 
 #: ../../usermanual/configuration.rst:580
 #: ../../usermanual/configuration.rst:609 3854eb19eecc4a559ee1c0449848d534
@@ -2308,12 +2308,12 @@ msgstr "CPU ESP32-S3"
 #: f0efb9800ab449028c9ea76023fa0c8a
 #, fuzzy
 msgid "on"
-msgstr "on"
+msgstr "On"
 
 #: ../../usermanual/configuration.rst:584 b85b8250772c49ff99b1513a4126d7d1
 #, fuzzy
 msgid "e-Paper Display"
-msgstr "e-Paper Display"
+msgstr "E-Paper Display"
 
 #: ../../usermanual/configuration.rst:586 7b23f17c4d2b497e89f99909d4d458ce
 #, fuzzy
@@ -2354,7 +2354,7 @@ msgstr "Flash-LED"
 #: f27257f903e54b66a147f8f8be588df2
 #, fuzzy
 msgid "off"
-msgstr "off"
+msgstr "Off"
 
 #: ../../usermanual/configuration.rst:596 a3e9b0ea1d5c40388edf06fd662f4111
 #, fuzzy
@@ -2605,12 +2605,12 @@ msgstr ""
 #: ../../usermanual/configuration.rst:645 1526d3086428495e833aad6e83166297
 #, fuzzy
 msgid "``on`` - Der Unterspannungsschutz ist aktiviert"
-msgstr "``on`` - Undervoltage protection is activated"
+msgstr "``On`` - Undervoltage protection is activated"
 
 #: ../../usermanual/configuration.rst:646 2e97e798625b4739a3d1f79c27e5e47d
 #, fuzzy
 msgid "``off`` - Der Unterspannungsschutz ist ausgeschaltet"
-msgstr "``off`` - The undervoltage protection is switched off"
+msgstr "``Off`` - The undervoltage protection is switched off"
 
 #: ../../usermanual/configuration.rst:649 d997f03347474b61b57f812e6d5a0f74
 #, fuzzy
@@ -2643,12 +2643,12 @@ msgstr ""
 #: ../../usermanual/configuration.rst:653 572fe7685e2a4f72b6e64e7652b6e9a3
 #, fuzzy
 msgid "``on`` - Sensordaten werden durch Simulationsdaten ersetzt"
-msgstr "``on`` - Sensor data is replaced by simulation data"
+msgstr "``On`` - Sensor data is replaced by simulation data"
 
 #: ../../usermanual/configuration.rst:654 b90fad55be5d4726bf8e580acd7ca297
 #, fuzzy
 msgid "``off`` - Es werden Live-Sensordaten verwendet"
-msgstr "``off`` - Live sensor data is used"
+msgstr "``Off`` - Live sensor data is used"
 
 #: ../../usermanual/configuration.rst:657 31cd4635b16a409ea84b6d827def3aab
 #, fuzzy
@@ -2766,7 +2766,7 @@ msgstr "``White Screen`` - A white page is displayed."
 #, fuzzy
 msgid ""
 "``off`` - Das Display wird deaktiviert, es wird zur Anzeige nicht verwendet."
-msgstr "``off`` - The display is deactivated, it is not used for display."
+msgstr "``Off`` - The display is deactivated, it is not used for display."
 
 #: ../../usermanual/configuration.rst:691 4839f15fe28b41659cb568eb8d9bf28a
 #, fuzzy
@@ -2799,12 +2799,12 @@ msgstr "**Status Line**"
 #, fuzzy
 msgid ""
 "``on`` - Die Statuszeile wird im oberen Bereich des Bildschirms angezeigt."
-msgstr "``on`` - The status bar is displayed at the top of the screen."
+msgstr "``On`` - The status bar is displayed at the top of the screen."
 
 #: ../../usermanual/configuration.rst:697 a5272903cae34a95969f0bfe37287d0f
 #, fuzzy
 msgid "``off`` - Die Statuszeile ist deaktiviert."
-msgstr "``off`` - The status bar is disabled."
+msgstr "``Off`` - The status bar is disabled."
 
 #: ../../usermanual/configuration.rst:699 26b63c2fa3604ba2bbae4ac43ea6a0b5
 #, fuzzy
@@ -2819,14 +2819,14 @@ msgid ""
 "E-Paper-Displays durchgeführt. Alle 10 min erfolgt zusätzlich automatisch "
 "ein Voll-Refresh."
 msgstr ""
-"``on`` - Auto-refresh of the screen content is enabled. This prevents "
+"``On`` - Auto-refresh of the screen content is enabled. This prevents "
 "ghosting when changing pages. A full refresh of the e-paper display is "
 "performed. An additional full refresh occurs automatically every 10 minutes."
 
 #: ../../usermanual/configuration.rst:701 d3fd6f5732b241f2b02309a338fe6bca
 #, fuzzy
 msgid "``off`` - Auto-Refresh ist deaktiviert"
-msgstr "``off`` - Auto-Refresh is disabled"
+msgstr "``Off`` - Auto-Refresh is disabled"
 
 #: ../../usermanual/configuration.rst:704 a0b25af2f21649e7830dfddb0ed25994
 #, fuzzy
@@ -2862,7 +2862,7 @@ msgid ""
 "``on`` - Bei aktiviertem Fast Refresh wird eine Voll-Refresh schneller "
 "ausgeführt. Es werden weniger Schwarz-Weiß-Wechsel durchgeführt."
 msgstr ""
-"``on`` - When Fast Refresh is enabled, a full refresh is performed more "
+"``On`` - When Fast Refresh is enabled, a full refresh is performed more "
 "quickly. Fewer black and white transitions are performed."
 
 #: ../../usermanual/configuration.rst:708 e51b4ae45fa24ba981bacbeae1871905
@@ -2871,7 +2871,7 @@ msgid ""
 "``off`` - Bei deaktiviertem Fast Refresh wird eine Voll-Refresh langsamer "
 "ausgeführt, weil mehr Schwarz-Weiß-Wechsel durchgeführt werden."
 msgstr ""
-"``off`` - If Fast Refresh is disabled, a full refresh is performed more "
+"``Off`` - If Fast Refresh is disabled, a full refresh is performed more "
 "slowly because more black and white changes are performed."
 
 #: ../../usermanual/configuration.rst:710 f3121a1a960049a3867ab9dd27bb02e7
@@ -2954,17 +2954,17 @@ msgstr "Full Refresh Time"
 #: ../../usermanual/configuration.rst:725 c488a9d23ed144ffb1797c32923af226
 #, fuzzy
 msgid "10 min"
-msgstr "10 min"
+msgstr "10 Min"
 
 #: ../../usermanual/configuration.rst:725 c44abf16a3164ad896b9fe891bd7e949
 #, fuzzy
 msgid "5 min"
-msgstr "5 min"
+msgstr "5 Min"
 
 #: ../../usermanual/configuration.rst:725 19dc201ecdcc4646ad58fb152cdc80ca
 #, fuzzy
 msgid "1 min"
-msgstr "1 min"
+msgstr "1 Min"
 
 #: ../../usermanual/configuration.rst:728 b3ca58c9fb6e47dbb7d34b12e429db3c
 #, fuzzy
@@ -2978,7 +2978,7 @@ msgid ""
 "fehlen sollte und die Daten nicht aktualisiert werden können. Diese "
 "Einstellung kann bei TCP-Verbindungen über WiFi nützlich sein."
 msgstr ""
-"``on`` - Display values are held if the data connection is temporarily lost "
+"``On`` - Display values are held if the data connection is temporarily lost "
 "and the data cannot be updated. This setting can be useful for TCP "
 "connections over WiFi."
 
@@ -2989,7 +2989,7 @@ msgid ""
 "Datenverbindung länger als 5 s werden fehlende Daten mit ``---`` "
 "gekennzeichnet."
 msgstr ""
-"``off`` - Display values are not retained. If the data connection is "
+"``Off`` - Display values are not retained. If the data connection is "
 "interrupted for more than 5 seconds, missing data is marked with ``---``."
 
 #: ../../usermanual/configuration.rst:732 4a447a5124474a0eb89a0235229c6a1c
@@ -3149,12 +3149,12 @@ msgstr ""
 #: ../../usermanual/configuration.rst:759 551423bf2d7d4f9fa198db7d359b2faf
 #, fuzzy
 msgid "100%, weiß - 2 W"
-msgstr "100%, white - 2 W"
+msgstr "100%, White - 2 W"
 
 #: ../../usermanual/configuration.rst:760 b24c513888194cdab45bfe0dc80937eb
 #, fuzzy
 msgid "50%, rot - 0.2W"
-msgstr "50%, rot - 0.2W"
+msgstr "50%, Rot - 0.2W"
 
 #: ../../usermanual/configuration.rst:762 a33aeba88429473c9079497ff6389457
 #, fuzzy
@@ -3251,7 +3251,7 @@ msgstr "**Buzzer Error**"
 #: ../../usermanual/configuration.rst:789 2b7148d642c242d6bc4bc5a8f4a1cc1b
 #, fuzzy
 msgid "``on`` - Der Buzzer ertönt bei Störungen und Fehlern."
-msgstr "``on`` - The buzzer sounds in case of malfunctions and errors."
+msgstr "``On`` - The buzzer sounds in case of malfunctions and errors."
 
 #: ../../usermanual/configuration.rst:790
 #: ../../usermanual/configuration.rst:794
@@ -3259,7 +3259,7 @@ msgstr "``on`` - The buzzer sounds in case of malfunctions and errors."
 #: a0dc7740a71a4fa683934087c3013073 b058665f561b407fb09afb5359001c76
 #, fuzzy
 msgid "``off`` - Die Funktion ist deaktiviert."
-msgstr "``off`` - The function is deactivated."
+msgstr "``Off`` - The function is deactivated."
 
 #: ../../usermanual/configuration.rst:792 2e553945eda046e7a4c0239dd6e6188e
 #, fuzzy
@@ -3269,7 +3269,7 @@ msgstr "**Buzzer GPS Fix**"
 #: ../../usermanual/configuration.rst:793 a9989d198a114361b5afec2eb8ce5259
 #, fuzzy
 msgid "``on`` - Der Buzzer ertönt, wenn das GPS-Signal verloren wurde."
-msgstr "``on`` - The buzzer sounds when the GPS signal is lost."
+msgstr "``On`` - The buzzer sounds when the GPS signal is lost."
 
 #: ../../usermanual/configuration.rst:796 29dbe8138fcb410c8af0ce6e985587b7
 #, fuzzy
@@ -3279,7 +3279,7 @@ msgstr "**Buzzer by Limits**"
 #: ../../usermanual/configuration.rst:797 cab432bcc51b4fcaa14ff50a5671930e
 #, fuzzy
 msgid "``on`` - Der Buzzer ertönt bei Grenzwertüberschreitungen."
-msgstr "``on`` - The buzzer sounds when the limit is exceeded."
+msgstr "``On`` - The buzzer sounds when the limit is exceeded."
 
 #: ../../usermanual/configuration.rst:800 6d082512aa044727b60391cfcd7a7d6e
 #, fuzzy
@@ -3755,7 +3755,7 @@ msgstr "**XTE** - Cross Track Error, Course Error"
 #: ../../usermanual/configuration.rst:900 eeb2159fd4a244f2b241e04c947dbada
 #, fuzzy
 msgid "**xdrVBat** - Bordspannung"
-msgstr "**xdrVBat** - On-board voltage"
+msgstr "**XdrVBat** - On-board voltage"
 
 #: ../../usermanual/configuration.rst:903 df32167646f145cbb8651a39758b5193
 #, fuzzy
@@ -4823,32 +4823,32 @@ msgstr "Field number:"
 #: ../../usermanual/configuration.rst:1270 e44b92035180473182e47372797637b1
 #, fuzzy
 msgid "a - Sensor-Typ"
-msgstr "a - Sensor-Typ"
+msgstr "A - Sensor-Typ"
 
 #: ../../usermanual/configuration.rst:1271 cb67ad98d39f4646a9cd9396a5454a15
 #, fuzzy
 msgid "x.x - Messwerrt"
-msgstr "x.x - measured value"
+msgstr "X.x - measured value"
 
 #: ../../usermanual/configuration.rst:1272 79d8790bfd54417cb92068da7cc4c466
 #, fuzzy
 msgid "b - Einheit des Messwertes"
-msgstr "b - unit of the measured value"
+msgstr "B - unit of the measured value"
 
 #: ../../usermanual/configuration.rst:1273 87993a33b8c24796b06c080b6c879c6b
 #, fuzzy
 msgid "c - Name des Sensors"
-msgstr "c - Name des Sensors"
+msgstr "C - Name des Sensors"
 
 #: ../../usermanual/configuration.rst:1274 f33d91fca1bd4d5891e815ccfd1cc159
 #, fuzzy
 msgid "x - Weitere Sensordaten"
-msgstr "x - Additional sensor data"
+msgstr "X - Additional sensor data"
 
 #: ../../usermanual/configuration.rst:1275 724fbd9c1343470aa57369e9e91b61db
 #, fuzzy
 msgid "hh - Checksumme"
-msgstr "hh - Checksumme"
+msgstr "Hh - Checksumme"
 
 #: ../../usermanual/configuration.rst:1277 a81fbd4809814a3486380fc05012d46f
 #, fuzzy
@@ -4903,7 +4903,7 @@ msgstr "**P** Print"
 #: ../../usermanual/configuration.rst:1284 e4edee87c1c540ffbec1d27b1464fdbb
 #, fuzzy
 msgid "0.8..1.1 oder 800..1100"
-msgstr "0.8..1.1 or 800..1100"
+msgstr "0.8..1.1 Or 800..1100"
 
 #: ../../usermanual/configuration.rst:1284 2d05f63bc829427b8a7cacb87c6e5b86
 #, fuzzy
@@ -4932,7 +4932,7 @@ msgstr "**C** Temperature"
 #: ee86f59e08ea472b8f67061ea8390e2b
 #, fuzzy
 msgid "2 Dezimalstellen"
-msgstr "2 decimal places"
+msgstr "2 Decimal places"
 
 #: ../../usermanual/configuration.rst:1286
 #: ../../usermanual/configuration.rst:1292 c6f7f4bf68f54e899dd078bf74835e16
@@ -4961,7 +4961,7 @@ msgstr "**A** Shop"
 #: ../../usermanual/configuration.rst:1288 44b1d6e0a7064001abcc02e7445baee0
 #, fuzzy
 msgid "-180..0 abwärts  0..180 aufwärts"
-msgstr "-180..0 downwards 0..180 upwards"
+msgstr "-180..0 Downwards 0..180 upwards"
 
 #: ../../usermanual/configuration.rst:1288
 #: ../../usermanual/configuration.rst:1290 38d119d9f7cc44fcab84b2d6a3b935b7
@@ -4983,7 +4983,7 @@ msgstr "Rolling"
 #: ../../usermanual/configuration.rst:1290 9b36f526920b4b43b66a15926efbb79f
 #, fuzzy
 msgid "-180..0 links    0..180 rechts"
-msgstr "-180..0 left 0..180 right"
+msgstr "-180..0 Left 0..180 right"
 
 #: ../../usermanual/configuration.rst:1290 9ad7cb695ae34af0aae0d25b3f65f5a0
 #, fuzzy
@@ -5062,7 +5062,7 @@ msgid ""
 "``off`` - Die Sensordaten werden nicht benutzt. Damit können Sie ein bereits"
 " konfiguriertes XDR-Telegramm deaktivieren."
 msgstr ""
-"``off`` - The sensor data is not used. This allows you to deactivate an "
+"``Off`` - The sensor data is not used. This allows you to deactivate an "
 "already configured XDR telegram."
 
 #: ../../usermanual/configuration.rst:1316 bff67fee3f314c78abf519a3fb40c155
@@ -5071,17 +5071,17 @@ msgid ""
 "``bidir`` - Die Sensordaten werden zwischen NMEA0183 und NMEA2000 "
 "ausgetauscht."
 msgstr ""
-"``bidir`` - The sensor data is exchanged between NMEA0183 and NMEA2000."
+"``Bidir`` - The sensor data is exchanged between NMEA0183 and NMEA2000."
 
 #: ../../usermanual/configuration.rst:1317 02c91ac090c64c2f9badb663f5bf12cf
 #, fuzzy
 msgid "``to2K`` - Das Sensordaten werden nur nach NMEA2000 gesendet."
-msgstr "``to2K`` - The sensor data is only sent via NMEA2000."
+msgstr "``To2K`` - The sensor data is only sent via NMEA2000."
 
 #: ../../usermanual/configuration.rst:1318 080fef5d2eec4c09a9506f338cb1d38e
 #, fuzzy
 msgid "``from2k`` - Sensordaten werden von NMEA2000 eingelesen."
-msgstr "``from2k`` - Sensor data is read from NMEA2000."
+msgstr "``From2k`` - Sensor data is read from NMEA2000."
 
 #: ../../usermanual/configuration.rst:1320 2c10e18e45f345689f826000e04f0c4a
 #, fuzzy
@@ -5202,14 +5202,14 @@ msgid ""
 " zugeordnet werden kann. So können z.B. zwei Sensoren die selben Daten in "
 "ein XDR-Telegramm übertragen, wenn die Sensoren redundant sind."
 msgstr ""
-"``single`` - A sensor is instantiated and can be assigned a free instance "
+"``Single`` - A sensor is instantiated and can be assigned a free instance "
 "number. For example, two sensors can transmit the same data in an XDR "
 "telegram if the sensors are redundant."
 
 #: ../../usermanual/configuration.rst:1341 5794db5c2cf74d46b096d0661eb14610
 #, fuzzy
 msgid "``ignore`` - Es existiert nur genau ein einziger Sensor dieses Typs."
-msgstr "``ignore`` - There is only one sensor of this type."
+msgstr "``Ignore`` - There is only one sensor of this type."
 
 #: ../../usermanual/configuration.rst:1342 d2843fcf96f740808885e5fa0410756d
 #, fuzzy
@@ -5218,7 +5218,7 @@ msgid ""
 "Sensor des gleichen Typs und der selben Source verwendet wird, wird eine "
 "neue Instanz des Sensors angelegt."
 msgstr ""
-"``auto`` - Instantiation is done automatically. As soon as a new sensor of "
+"``Auto`` - Instantiation is done automatically. As soon as a new sensor of "
 "the same type and source is used, a new instance of the sensor is created."
 
 #: ../../usermanual/configuration.rst:1344 fb48af910c3547d687a8487e300bca1a
@@ -5350,7 +5350,7 @@ msgstr "You can download the latest firmware from the following website:"
 #: ../../usermanual/configuration.rst:1382 7be3332dddbc4ad1ac48d3751f12ea33
 #, fuzzy
 msgid "https://github.com/norbert-walter/esp32-nmea2000-obp60/releases"
-msgstr "https://github.com/norbert-walter/esp32-nmea2000-obp60/releases"
+msgstr "Https://github.com/norbert-walter/esp32-nmea2000-obp60/releases"
 
 #: ../../usermanual/configuration.rst:1384 3f80bf482a064229a7447f8d9cc75157
 #, fuzzy

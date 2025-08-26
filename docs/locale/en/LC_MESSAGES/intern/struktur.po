@@ -54,7 +54,7 @@ msgid ""
 "*(>>> wie sieht er aus? Was kann er? Wo und wie kann er an Bord genutzt "
 "werden?)*"
 msgstr ""
-"*(>>> what does it look like? What can it do? Where and how can it be used "
+"*(>>> What does it look like? What can it do? Where and how can it be used "
 "on board?)*"
 
 #: ../../intern/struktur.rst:16 ecd41280aae64f6ca93e33f62549da2f
@@ -103,7 +103,7 @@ msgid ""
 "*(>>> was muss getan werden, um das Gerät an Bord oder zu Haus in Betrieb "
 "nehmen zu können?)*"
 msgstr ""
-"*(>>> what needs to be done to operate the device on board or at home?)*"
+"*(>>> What needs to be done to operate the device on board or at home?)*"
 
 #: ../../intern/struktur.rst:31 f6542345a6824bc5abfe5848872075b5
 #, fuzzy
@@ -133,7 +133,7 @@ msgstr "2.2. **Installation Software**"
 #: ../../intern/struktur.rst:39 94467a38f1414115a646f11c89380c6b
 #, fuzzy
 msgid "*(>>> wie bekommt man die gewünschte Software auf das Gerät?)*"
-msgstr "*(>>> how do you get the desired software onto the device?)*"
+msgstr "*(>>> How do you get the desired software onto the device?)*"
 
 #: ../../intern/struktur.rst:41 62404f4fe90c4ffda0c3c95530dc6839
 #, fuzzy
@@ -143,7 +143,7 @@ msgstr "2.2.1. AvNav and Android"
 #: ../../intern/struktur.rst:42 870b7c8e1a444598aa3e70a8346d7a84
 #, fuzzy
 msgid "*(fertiges AvNav-Android-Image einspielen)*"
-msgstr "*(install finished AvNav Android image)*"
+msgstr "*(Install finished AvNav Android image)*"
 
 #: ../../intern/struktur.rst:44 7dfcbd33162142638d4b3b4d8e9bae44
 #, fuzzy
@@ -153,7 +153,7 @@ msgstr "2.2.2. AvNav and Raspbian"
 #: ../../intern/struktur.rst:45 bd7c1fb3bbf44c39bd66e5fcea2468ca
 #, fuzzy
 msgid "*(fertiges AvNav-Raspbian-Image einspielen)*"
-msgstr "*(install the finished AvNav Raspbian image)*"
+msgstr "*(Install the finished AvNav Raspbian image)*"
 
 #: ../../intern/struktur.rst:47 3ef3e7b243de478b8716b8f069a26926
 #, fuzzy
@@ -189,7 +189,7 @@ msgstr "2.3.1 Avnav"
 #: ../../intern/struktur.rst:55 cc95c66ea4c34bd3aae55893f7638858
 #, fuzzy
 msgid "*(>>> knapp halten, mit Verweisen/ Liks arbeiten)*"
-msgstr "*(>>> keep it short, use links/likes)*"
+msgstr "*(>>> Keep it short, use links/likes)*"
 
 #: ../../intern/struktur.rst:57 5bc397ad1f484cbd9669300d000df23b
 #, fuzzy
@@ -216,7 +216,7 @@ msgstr "**2.4. Construction**"
 msgid ""
 "*(>>> wie sieht der Plotter innen aus, wie öffnen, wie Kabel verbinden etc)*"
 msgstr ""
-"*(>>> what does the plotter look like inside, how to open it, how to connect"
+"*(>>> What does the plotter look like inside, how to open it, how to connect"
 " cables etc.)*"
 
 #: ../../intern/struktur.rst:65 5b591034f50048aabf70bd7c1d3f4d87
@@ -302,7 +302,7 @@ msgstr "Service"
 #: ../../intern/struktur.rst:92 f128fbc24d9849d6974e86fa4684405e
 #, fuzzy
 msgid "Mitarbeit"
-msgstr "cooperation"
+msgstr "Cooperation"
 
 #: ../../intern/struktur.rst:93 90a7c82cf4a5465dab90d7df4b818ba3
 #, fuzzy

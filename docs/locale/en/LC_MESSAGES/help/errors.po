@@ -43,7 +43,7 @@ msgstr ""
 #: ../../help/errors.rst:8 2614ec6874bc47cd8d4cca7e08bcb8cc
 #, fuzzy
 msgid "https://github.com/norbert-walter/esp32-nmea2000-obp60/issues"
-msgstr "https://github.com/norbert-walter/esp32-nmea2000-obp60/issues"
+msgstr "Https://github.com/norbert-walter/esp32-nmea2000-obp60/issues"
 
 #: ../../help/errors.rst:10 b2f210f9212d4a2b9edc12c86dcf61ba
 #, fuzzy

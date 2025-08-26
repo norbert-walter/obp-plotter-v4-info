@@ -63,7 +63,7 @@ msgstr "Pre-installed apps for navigation and entertainment"
 #: ../../intro/specification.rst:17 02462c02284c419fb0c4b9696a84e519
 #, fuzzy
 msgid "10-Zoll Touch-Display (tageslichttauglich)"
-msgstr "10-inch touch display (suitable for daylight)"
+msgstr "10-Inch touch display (suitable for daylight)"
 
 #: ../../intro/specification.rst:18 70d28e1624ea4610b9bb5051ffe95e85
 #, fuzzy
@@ -73,7 +73,7 @@ msgstr "Ambient light-adjusted display brightness"
 #: ../../intro/specification.rst:19 46934076abfc492c8974fa8287baa214
 #, fuzzy
 msgid "3 Sensor-Tasten (u.a. geeignet für Android Buttons)"
-msgstr "3 sensor buttons (suitable for Android buttons, among others)"
+msgstr "3 Sensor buttons (suitable for Android buttons, among others)"
 
 #: ../../intro/specification.rst:20 d317c027fe434b94b4e434cbb86b9c22
 #, fuzzy
@@ -108,7 +108,7 @@ msgstr "NMEA0183 multiplexer (integrated in AVnav)"
 #: ../../intro/specification.rst:26 3dd2ebc00c784afa960b3465d4606eca
 #, fuzzy
 msgid "2x USB-A (für Usererweiterungen)"
-msgstr "2x USB-A (for user extensions)"
+msgstr "2X USB-A (for user extensions)"
 
 #: ../../intro/specification.rst:27 7de9e811e90e4ac2b73107b9137c748d
 #, fuzzy
@@ -159,7 +159,7 @@ msgstr "Fig.: OBP plotter base unit main board, CM5 module bottom"
 #: ../../intro/specification.rst:49 466a6aeb00b042d09d202aded9b7de59
 #, fuzzy
 msgid "Spezifikation"
-msgstr "specification"
+msgstr "Specification"
 
 #: ../../intro/specification.rst:52 92d976ff14304af4875f8ac78848aa1e
 #, fuzzy
@@ -184,7 +184,7 @@ msgstr "7...18 W, typisch 12 W"
 #: ../../intro/specification.rst:56 ec40036e8b8548ce86d38936eb13d67a
 #, fuzzy
 msgid "Prozessor"
-msgstr "processor"
+msgstr "Processor"
 
 #: ../../intro/specification.rst:56 eb742d47debe40dcb74678ed3c1aa0da
 #, fuzzy
@@ -249,7 +249,7 @@ msgstr "Display size"
 #: ../../intro/specification.rst:68 6c5822d3513d4d94b5ab1748986bd5eb
 #, fuzzy
 msgid "1250 x 800 pix, 60 Hz"
-msgstr "1250 x 800 pix, 60 Hz"
+msgstr "1250 X 800 pix, 60 Hz"
 
 #: ../../intro/specification.rst:70 2ccbce5e5d994d61b88d90a6b51a4ef1
 #, fuzzy
@@ -259,7 +259,7 @@ msgstr "Display brightness"
 #: ../../intro/specification.rst:70 83d7c185dee74f199406def7254fbec1
 #, fuzzy
 msgid "1000 nits, autom. geregelt"
-msgstr "1000 nits, automatically controlled"
+msgstr "1000 Nits, automatically controlled"
 
 #: ../../intro/specification.rst:72 f58677f0ef294a93a9a89891c34dfe2f
 #, fuzzy
@@ -279,12 +279,12 @@ msgstr "Sensor buttons"
 #: ../../intro/specification.rst:74 c6a28c5ab5064d08b63176a062160231
 #, fuzzy
 msgid "3x kapazitiv"
-msgstr "3x capacitive"
+msgstr "3X capacitive"
 
 #: ../../intro/specification.rst:76 6dbe2855deb84176961a9daf3d9ee226
 #, fuzzy
 msgid "Fernbedienung"
-msgstr "remote control"
+msgstr "Remote control"
 
 #: ../../intro/specification.rst:76 bee30c5be65040509c1fc4ed87331099
 #, fuzzy
@@ -354,7 +354,7 @@ msgstr "Interfaces"
 #: ../../intro/specification.rst:90 94c6e903e25942b8b38f64e0cdf7065d
 #, fuzzy
 msgid "1x USB 3.0, 2x USB 2.0, Pwr"
-msgstr "1x USB 3.0, 2x USB 2.0, Pwr"
+msgstr "1X USB 3.0, 2x USB 2.0, Pwr"
 
 #: ../../intro/specification.rst:92 8a30a9ebc4534049892bbe45dfc2f5ea
 #, fuzzy
@@ -364,7 +364,7 @@ msgstr "Signaling devices"
 #: ../../intro/specification.rst:92 efb6f5747c1c4eb097f051e6b5416f09
 #, fuzzy
 msgid "2x LED, frontseitig"
-msgstr "2x LED, frontseitig"
+msgstr "2X LED, frontseitig"
 
 #: ../../intro/specification.rst:94 991562af21714ce0b2f9d4701957f9ad
 #, fuzzy
@@ -394,7 +394,7 @@ msgstr "ESD protection"
 #: ../../intro/specification.rst:98 4d56b1dd7f774a8a8c17374ec0001683
 #, fuzzy
 msgid "8 kV"
-msgstr "8 kV"
+msgstr "8 KV"
 
 #: ../../intro/specification.rst:100 b27969f0a0bb4a53ac3d30b028f16d6a
 #, fuzzy
@@ -424,7 +424,7 @@ msgstr "Dimensions"
 #: ../../intro/specification.rst:104 29568dd7b24c403381a351e092250f70
 #, fuzzy
 msgid "285 x 198 x 46 mm"
-msgstr "285 x 198 x 46 mm"
+msgstr "285 X 198 x 46 mm"
 
 #: ../../intro/specification.rst:106 011a5ebd70d84143ac02f9acbc6d5bac
 #, fuzzy
@@ -434,7 +434,7 @@ msgstr "Weight"
 #: ../../intro/specification.rst:106 9b3759c0131440a79366300ca4586bf4
 #, fuzzy
 msgid "1280 g"
-msgstr "1280 g"
+msgstr "1280 G"
 
 #: ../../intro/specification.rst:110 738f1d5d8c624143a2ce840292082a14
 #, fuzzy
@@ -894,7 +894,7 @@ msgstr "Movement"
 #: ../../intro/specification.rst:239 452b74733f0f4481a04eec9f83f18cab
 #, fuzzy
 msgid "Helligkeit"
-msgstr "brightness"
+msgstr "Brightness"
 
 #: ../../intro/specification.rst:240 c0c0a456b47642f0aeccd9ffec049e2e
 #, fuzzy

@@ -431,27 +431,27 @@ msgstr "Field number:"
 #: ../../usermanual/dataexchange.rst:101 44e53ecb95e34029ad1f22f4328fe264
 #, fuzzy
 msgid "a - PGN im Binärform"
-msgstr "a - PGN im Binärform"
+msgstr "A - PGN im Binärform"
 
 #: ../../usermanual/dataexchange.rst:102 417ee7dba3fc4dfda2c89a206eb89b6c
 #, fuzzy
 msgid "b - Zeitstempel im Binärform"
-msgstr "b - timestamp in binary form"
+msgstr "B - timestamp in binary form"
 
 #: ../../usermanual/dataexchange.rst:103 3fa45a127dde4f7aae7949005ca0eb23
 #, fuzzy
 msgid "c - Source-ID"
-msgstr "c - Source-ID"
+msgstr "C - Source-ID"
 
 #: ../../usermanual/dataexchange.rst:104 d930a453a0894ab39548612c061517d2
 #, fuzzy
 msgid "d - PGN-Daten im Binärform"
-msgstr "d - PGN data in binary form"
+msgstr "D - PGN data in binary form"
 
 #: ../../usermanual/dataexchange.rst:105 197691d666154f3487e714c3ab6c11ca
 #, fuzzy
 msgid "hh - Checksumme"
-msgstr "hh - Checksumme"
+msgstr "Hh - Checksumme"
 
 #: ../../usermanual/dataexchange.rst:107 e56837d455644477ae0688f2945ee67a
 #, fuzzy
@@ -538,7 +538,7 @@ msgstr "Device 2"
 #: 1fd06651523043ed93f95e5369399ee6 92771fbbfa7d4e6da839b94a053e3357
 #, fuzzy
 msgid ":ref:`Config - System`"
-msgstr ":ref:`Config - System`"
+msgstr ":Ref:`Config - System`"
 
 #: ../../usermanual/dataexchange.rst:132 54deb14602bb48bb88d988e25f19f61c
 #, fuzzy
@@ -591,7 +591,7 @@ msgstr "192.168.16.1"
 #: ../../usermanual/dataexchange.rst:138 70bcaaac87d84aa1a7411306f953db1a
 #, fuzzy
 msgid ":ref:`Config - TCP Server`"
-msgstr ":ref:`Config - TCP Server`"
+msgstr ":Ref:`Config - TCP Server`"
 
 #: ../../usermanual/dataexchange.rst:140 b27fae999bf34b4c91d633ce89f6e2e1
 #, fuzzy
@@ -609,7 +609,7 @@ msgstr "SeaSmart Out"
 #: d03c05f3ad144908861b7e8b8ed64185 d9e6b2247e394b239ac1805de4b2fd8a
 #, fuzzy
 msgid "on"
-msgstr "on"
+msgstr "On"
 
 #: ../../usermanual/dataexchange.rst:140 ../../usermanual/dataexchange.rst:144
 #: ../../usermanual/dataexchange.rst:148 ../../usermanual/dataexchange.rst:152
@@ -618,12 +618,12 @@ msgstr "on"
 #: 6d373b9e5c3b409d944a901e9bdc53d5 8ad2e5538f7146f5bb844147cc058649
 #, fuzzy
 msgid "off"
-msgstr "off"
+msgstr "Off"
 
 #: ../../usermanual/dataexchange.rst:142 1592e60ac2d54426b41355a1eb18b125
 #, fuzzy
 msgid ":ref:`Config - TCP Client`"
-msgstr ":ref:`Config - TCP Client`"
+msgstr ":Ref:`Config - TCP Client`"
 
 #: ../../usermanual/dataexchange.rst:144 d3da9a02e8c9498aa16316cc8b99bd6f
 #, fuzzy
@@ -651,7 +651,7 @@ msgstr "SeaSmart Out"
 #: ../../usermanual/dataexchange.rst:150 ac8f3bd917234469ad80986a7edc979f
 #, fuzzy
 msgid ":ref:`Config - WiFi Client`"
-msgstr ":ref:`Config - WiFi Client`"
+msgstr ":Ref:`Config - WiFi Client`"
 
 #: ../../usermanual/dataexchange.rst:152 f13b22c96946474bb718c9f1c1860bac
 #, fuzzy
@@ -730,7 +730,7 @@ msgstr "OBP60"
 #: 6e17dcbf22f249da835c8aacbdf992ff 8a4e6b43e648423295c63815384a4eec
 #, fuzzy
 msgid ":ref:`Config - Serial Port`"
-msgstr ":ref:`Config - Serial Port`"
+msgstr ":Ref:`Config - Serial Port`"
 
 #: ../../usermanual/dataexchange.rst:179 ../../usermanual/dataexchange.rst:197
 #: 31496079e3ce46b3bb348e33ef12bce4 35251ff456a7498eb38d611e2e8dbc44
@@ -741,7 +741,7 @@ msgstr "Serial Direction"
 #: ../../usermanual/dataexchange.rst:179 771f6a1140e04aff9f340dbeae91c283
 #, fuzzy
 msgid "receive"
-msgstr "receive"
+msgstr "Receive"
 
 #: ../../usermanual/dataexchange.rst:181 ../../usermanual/dataexchange.rst:199
 #: 5971af823511433dadf7d0a197c55cc5 b348084de83c4469bc93a8c21f8cbb00
@@ -788,7 +788,7 @@ msgstr "Fig.: NMEA0183 connection to an autopilot (send)"
 #: ../../usermanual/dataexchange.rst:197 003e6a8d9bf14f888349c35f5b132cd6
 #, fuzzy
 msgid "send"
-msgstr "send"
+msgstr "Send"
 
 #: ../../usermanual/dataexchange.rst:199 f9165631ecd74409bdc0957a855d6c69
 #, fuzzy
@@ -919,7 +919,7 @@ msgstr "SignalK"
 #: ../../usermanual/dataexchange.rst:232 737828bbfd4f4621bbfb9dd70b82f778
 #, fuzzy
 msgid "qtVlm"
-msgstr "qtVlm"
+msgstr "QtVlm"
 
 #: ../../usermanual/dataexchange.rst:233 f78ad0dfef254cadbc556d1476d7c71c
 #, fuzzy
@@ -955,7 +955,7 @@ msgstr "Log Level"
 #: ../../usermanual/dataexchange.rst:246 af1f6066ba2f4c67a801430734120b8b
 #, fuzzy
 msgid ":ref:`Config - USB Port`"
-msgstr ":ref:`Config - USB Port`"
+msgstr ":Ref:`Config - USB Port`"
 
 #: ../../usermanual/dataexchange.rst:248 1ccde6faa889470fa8d7f3da6ea9b154
 #, fuzzy
@@ -965,7 +965,7 @@ msgstr "USB Mode"
 #: ../../usermanual/dataexchange.rst:248 0199f05989aa46cdbdd378554c00d2ad
 #, fuzzy
 msgid "nmea0183"
-msgstr "nmea0183"
+msgstr "Nmea0183"
 
 #: ../../usermanual/dataexchange.rst:250 21e0afa929c64c408ef0e425613c42da
 #, fuzzy

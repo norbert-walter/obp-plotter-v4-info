@@ -88,22 +88,22 @@ msgstr "Contains all essential components"
 #: ../../intro/historie.rst:24 8f0bf632f2a94cc2b9cbf14f6a6193cf
 #, fuzzy
 msgid "2x USB 2.0 für Useranwendungen"
-msgstr "2x USB 2.0 for user applications"
+msgstr "2X USB 2.0 for user applications"
 
 #: ../../intro/historie.rst:25 49188ac075ae41929edafa4581a28fe9
 #, fuzzy
 msgid "1x Erweiterungsport mit: USB 3.0, I2C, ISP, RS232, Power"
-msgstr "1x expansion port with: USB 3.0, I2C, ISP, RS232, Power"
+msgstr "1X expansion port with: USB 3.0, I2C, ISP, RS232, Power"
 
 #: ../../intro/historie.rst:26 9918e860223b4eaca5facbb5adc87902
 #, fuzzy
 msgid "1x PCI M.2 SATA für NVMe SSD, 2230, 2242, bis 2 TB bestückbar"
-msgstr "1x PCI M.2 SATA for NVMe SSD, 2230, 2242, up to 2 TB"
+msgstr "1X PCI M.2 SATA for NVMe SSD, 2230, 2242, up to 2 TB"
 
 #: ../../intro/historie.rst:27 a044b46825eb433ab3aa0d85706b6eba
 #, fuzzy
 msgid "1x HDMI (Second Port)"
-msgstr "1x HDMI (Second Port)"
+msgstr "1X HDMI (Second Port)"
 
 #: ../../intro/historie.rst:29 6263bb599fce418c8bc65d34d039bba2
 #, fuzzy
@@ -169,7 +169,7 @@ msgstr "Quade-Core CPU Broadcom BCM2712"
 #: ../../intro/historie.rst:46 361c40fce8a0400aa4069c1a6c77da4a
 #, fuzzy
 msgid "4x 64bit Arm Cortex-A76, 2.4 GHz"
-msgstr "4x 64bit Arm Cortex-A76, 2.4 GHz"
+msgstr "4X 64bit Arm Cortex-A76, 2.4 GHz"
 
 #: ../../intro/historie.rst:47 defad1e8b11c4e1cbe89bd63bb1f3cb8
 #, fuzzy
@@ -194,22 +194,22 @@ msgstr "Gigabit Ethernet"
 #: ../../intro/historie.rst:51 359684b176f14c1eb754812d7d355454
 #, fuzzy
 msgid "1x USB 2.0 (High Speed)"
-msgstr "1x USB 2.0 (High Speed)"
+msgstr "1X USB 2.0 (High Speed)"
 
 #: ../../intro/historie.rst:52 564875a6dcae465b889f2c44c3fc6fab
 #, fuzzy
 msgid "2x USB 3.0 (5 Gbps)"
-msgstr "2x USB 3.0 (5 Gbps)"
+msgstr "2X USB 3.0 (5 Gbps)"
 
 #: ../../intro/historie.rst:53 ac44905c877141168ea187f8f79d628e
 #, fuzzy
 msgid "1 x PCIe x1 root complex, Gen 2 (5Gbps)"
-msgstr "1 x PCIe x1 root complex, Gen 2 (5Gbps)"
+msgstr "1 X PCIe x1 root complex, Gen 2 (5Gbps)"
 
 #: ../../intro/historie.rst:54 85b71eec174f45d3afd450b9367e2dd0
 #, fuzzy
 msgid "2x HDMI 4K, 60 Hz"
-msgstr "2x HDMI 4K, 60 Hz"
+msgstr "2X HDMI 4K, 60 Hz"
 
 #: ../../intro/historie.rst:55 1a7601fc93694e209398cbc2f3c43906
 #, fuzzy
@@ -252,7 +252,7 @@ msgstr "**USB 2.0-Hub**"
 #: ../../intro/historie.rst:64 5222dbc250584dd69f19945e2bb01d07
 #, fuzzy
 msgid "2x USB 2.0 für Usererweiterungen"
-msgstr "2x USB 2.0 for user extensions"
+msgstr "2X USB 2.0 for user extensions"
 
 #: ../../intro/historie.rst:65 43f01d4955b442ff9d3832288324f62a
 #, fuzzy
@@ -267,22 +267,22 @@ msgstr "**Touch-Sensorplatine**"
 #: ../../intro/historie.rst:72 e16b13049ca14048ad3287720da89d0d
 #, fuzzy
 msgid "3x Touch-Tasten"
-msgstr "3x Touch-Tasten"
+msgstr "3X Touch-Tasten"
 
 #: ../../intro/historie.rst:73 6418ad1a4f124ba1bab9c2a2c399833d
 #, fuzzy
 msgid "2x LED-Signalisierung"
-msgstr "2x LED signaling"
+msgstr "2X LED signaling"
 
 #: ../../intro/historie.rst:74 6aa92bed3d664cf29dc77701c75cb1e4
 #, fuzzy
 msgid "1x Umgebungslichtsensor"
-msgstr "1x ambient light sensor"
+msgstr "1X ambient light sensor"
 
 #: ../../intro/historie.rst:75 89394dd51e0f4f2bba95e1e1032057b7
 #, fuzzy
 msgid "1x IR-Sensor für Fernbedienungen"
-msgstr "1x IR sensor for remote controls"
+msgstr "1X IR sensor for remote controls"
 
 #: ../../intro/historie.rst:77 179868d6367b41c096535cab94b05813
 #, fuzzy

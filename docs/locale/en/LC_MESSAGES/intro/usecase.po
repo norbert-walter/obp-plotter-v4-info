@@ -358,22 +358,22 @@ msgstr "GPS receiver (GPS, Glonas, Beidu, Galileo)"
 #: ../../intro/usecase.rst:97 17e347ed4b6b4fbb8473f95365f77e47
 #, fuzzy
 msgid "1x NMEA200-Port (isoliert)"
-msgstr "1x NMEA200 port (isolated)"
+msgstr "1X NMEA200 port (isolated)"
 
 #: ../../intro/usecase.rst:98 1426883517de444eb3758a193739a65a
 #, fuzzy
 msgid "1x NMEA0183-Port (isoliert, unidirektional)"
-msgstr "1x NMEA0183 port (isolated, unidirectional)"
+msgstr "1X NMEA0183 port (isolated, unidirectional)"
 
 #: ../../intro/usecase.rst:99 24bb4af18dbb436f93cb44d7e7380c7b
 #, fuzzy
 msgid "1x I2C-Port (isoliert)"
-msgstr "1x I2C port (isolated)"
+msgstr "1X I2C port (isolated)"
 
 #: ../../intro/usecase.rst:100 e6a39309f69b4349bd4c22846a418e2e
 #, fuzzy
 msgid "11x Wire-Port"
-msgstr "11x Wire-Port"
+msgstr "11X Wire-Port"
 
 #: ../../intro/usecase.rst:101 cbf4d85ba8984fee9881331368652ec8
 #, fuzzy

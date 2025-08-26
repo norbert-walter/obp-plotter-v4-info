@@ -63,7 +63,7 @@ msgstr "Service"
 #: ../../index.rst:78
 #, fuzzy
 msgid "Medien"
-msgstr "media"
+msgstr "Media"
 
 #: ../../index.rst:78
 #, fuzzy

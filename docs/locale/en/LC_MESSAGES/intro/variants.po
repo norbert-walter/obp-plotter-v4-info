@@ -366,7 +366,7 @@ msgstr "RAM: 8 GB, fixed"
 #: ../../intro/variants.rst:93 bbdcb3862ea74b3aad5b5d871dc531a6
 #, fuzzy
 msgid "eMMC: 32 GB (Bootfähiges Backupmedium mit Android 15)"
-msgstr "EMMC: 32 GB (Bootable backup media with Android 15)"
+msgstr "EMMC: 32 GB (Bootable backup medium with Android 15)"
 
 #: ../../intro/variants.rst:95 c9f38da062bc41899b71f0ca072ddfc7
 #, fuzzy
